@@ -129,6 +129,16 @@ npx skills add dreaduva/business-books-applied --skill acquisition-channel-testi
 
 Cover edition: ISBN 9781591848363. This guide is an independent practical application, not an official workbook. Read the full book for the author's wider argument and examples.
 
-[All books](../README.md) · [All skills](../../skills/README.md)
-
 Checked conceptual sources: [Weinberg's Bullseye explanation](https://medium.com/@yegg/the-bullseye-framework-for-getting-traction-ef49d05bfd7e) and [nineteen-channel overview](https://medium.com/@yegg/the-19-channels-you-can-use-to-get-traction-93c762d19339). The calculation methods, test records and examples here are original applications. No full-book review is claimed.
+
+<!-- BOOK-READING:START -->
+## Read the full book
+
+This toolkit compares bounded channel tests. Read the full book for Gabriel Weinberg and Justin Mares’s broader exploration of customer acquisition.
+
+[View Traction on Amazon (affiliate link)](https://link.amazon/B0fMPjuoq)
+
+As an Amazon Associate I earn from qualifying purchases.
+<!-- BOOK-READING:END -->
+
+[All books](../README.md) · [All skills](../../skills/README.md)

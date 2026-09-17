@@ -195,4 +195,14 @@ Example request: “Review this positioning brief against the attached product f
 
 The claim ledger, comparison tables, workshop procedure, and fictional scenario are original project applications. This is a focused practical guide based on public primary materials, not a full-book expert review.
 
+<!-- BOOK-READING:START -->
+## Read the full book
+
+This toolkit develops an evidence-linked positioning brief. Read the full book for April Dunford’s broader treatment of product positioning.
+
+[View Obviously Awesome on Amazon (affiliate link)](https://link.amazon/B01rq3rSU)
+
+As an Amazon Associate I earn from qualifying purchases.
+<!-- BOOK-READING:END -->
+
 [All books](../README.md) · [All skills](../../skills/README.md)

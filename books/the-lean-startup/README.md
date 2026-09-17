@@ -191,4 +191,14 @@ Example request: “Review my MVP test before I run it. Tell me which assumption
 
 This is an independent application of the cited public materials, not a chapter-by-chapter account of the full book. The worksheet, fictional scenarios, and analysis procedures are original project material.
 
+<!-- BOOK-READING:START -->
+## Read the full book
+
+This toolkit focuses on designing and interpreting a bounded experiment. Read the full book for Eric Ries’s broader approach to learning under uncertainty.
+
+[View The Lean Startup on Amazon (affiliate link)](https://link.amazon/B0glRbA97)
+
+As an Amazon Associate I earn from qualifying purchases.
+<!-- BOOK-READING:END -->
+
 [All books](../README.md) · [All skills](../../skills/README.md)

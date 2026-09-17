@@ -134,4 +134,14 @@ npx skills add dreaduva/business-books-applied --skill business-process-design
 
 Cover edition: ISBN 9780887307287. This guide is an independent practical application, not an official workbook. Read the full book for the author's wider argument and examples.
 
+<!-- BOOK-READING:START -->
+## Read the full book
+
+This toolkit makes one recurring process easier to hand off. Read the full book for Michael E. Gerber’s broader discussion of building a business around the work.
+
+[View The E-Myth Revisited on Amazon (affiliate link)](https://link.amazon/B0i48Pn8V)
+
+As an Amazon Associate I earn from qualifying purchases.
+<!-- BOOK-READING:END -->
+
 [All books](../README.md) · [All skills](../../skills/README.md)

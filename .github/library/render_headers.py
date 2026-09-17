@@ -10,6 +10,8 @@ from urllib.parse import urlparse
 ROOT = Path(__file__).resolve().parents[2]
 START = "<!-- BOOK-HEADER:START -->"
 END = "<!-- BOOK-HEADER:END -->"
+READ_START = "<!-- BOOK-READING:START -->"
+READ_END = "<!-- BOOK-READING:END -->"
 AMAZON_HOSTS = {"amazon.com", "amazon.co.uk", "amazon.de", "amazon.fr", "amazon.it", "amazon.es", "amazon.ca", "amazon.com.au", "amazon.co.jp", "amazon.in", "amazon.com.br", "amazon.com.mx", "amazon.nl", "amazon.se", "amazon.pl", "amazon.sg", "amazon.ae", "amazon.sa", "amazon.com.tr", "amazon.eg", "amazon.com.be", "amazon.ie", "amzn.to", "link.amazon"}
 
 
@@ -61,6 +63,21 @@ def header(book, covers, affiliate):
     return START + "\n" + "\n".join(lines) + "\n" + END
 
 
+def reading_block(book, affiliate):
+    """Optional second purchase location, after the substantive guide and sources."""
+    slug = book["slug"]
+    note = affiliate.get("reading_notes", {}).get(slug)
+    link = affiliate.get("links", {}).get(slug)
+    if not affiliate.get("enabled") or not link or not note:
+        return ""
+    url = safe_url(link, amazon=True)
+    return "\n".join([
+        READ_START, "## Read the full book", "", note, "",
+        f"[View {book['title']} on Amazon (affiliate link)]({url})", "",
+        affiliate["disclosure"], READ_END,
+    ])
+
+
 def outputs():
     books = json.loads((ROOT / ".github/library/books.json").read_text())
     covers = json.loads((ROOT / ".github/library/covers.json").read_text())
@@ -73,7 +90,21 @@ def outputs():
         text = path.read_text()
         if text.count(START) != 1 or text.count(END) != 1:
             raise ValueError(f"{path}: expected one book header block.")
-        results[path] = re.sub(re.escape(START) + r".*?" + re.escape(END), lambda _: header(book, covers, affiliate), text, flags=re.S)
+        text = re.sub(re.escape(START) + r".*?" + re.escape(END), lambda _: header(book, covers, affiliate), text, flags=re.S)
+        reading = reading_block(book, affiliate)
+        if READ_START in text or READ_END in text:
+            if text.count(READ_START) != 1 or text.count(READ_END) != 1:
+                raise ValueError(f"{path}: expected one reading block.")
+            text = re.sub(re.escape(READ_START) + r".*?" + re.escape(READ_END), lambda _: reading, text, flags=re.S)
+        elif reading:
+            # Keep the existing catalog navigation as the final line.
+            navs = list(re.finditer(r"(?m)^\[(?:All books|Back to the catalog)\].*$", text))
+            nav = navs[-1] if navs else None
+            if nav:
+                text = text[:nav.start()] + reading + "\n\n" + text[nav.start():]
+            else:
+                text = text.rstrip() + "\n\n" + reading + "\n"
+        results[path] = text
     return results
 
 

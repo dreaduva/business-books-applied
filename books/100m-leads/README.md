@@ -133,6 +133,16 @@ npx skills add dreaduva/business-books-applied --skill lead-generation-planner
 
 Cover edition: ISBN 9781737475774. This guide is an independent practical application, not an official workbook. Read the full book for the author's wider argument and examples.
 
-[All books](../README.md) · [All skills](../../skills/README.md)
-
 Source scope: the official course index and book overview were inspected; the journal's indexed contents identify its broad topics. Full course videos, the full journal and the full book were not reviewed. The campaign procedure, worksheet, messages and examples are original applications, not a reproduction of the author's playbooks.
+
+<!-- BOOK-READING:START -->
+## Read the full book
+
+This toolkit develops one campaign, its useful entry resource and follow-up. Read the full book for Alex Hormozi’s broader lead-generation approach.
+
+[View $100M Leads on Amazon (affiliate link)](https://link.amazon/B0hpBZJw0)
+
+As an Amazon Associate I earn from qualifying purchases.
+<!-- BOOK-READING:END -->
+
+[All books](../README.md) · [All skills](../../skills/README.md)

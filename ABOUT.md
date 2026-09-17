@@ -20,7 +20,7 @@ The library began with a curated selection of 100 titles across business, entrep
 
 Book pages contain clearly labeled Amazon affiliate links. **As an Amazon Associate I earn from qualifying purchases.** The guides, templates, and skills remain free to use without buying a book.
 
-Purchase links appear beneath the covers on the relevant book pages. The supplied links currently open Amazon.de. Check the format, language and edition on Amazon before buying: a linked edition may differ from the cover shown. Author and publisher sources remain available in each guide. AI skill instructions contain no purchase links.
+Purchase links appear beneath the covers and in a short “Read the full book” section at the end of each published guide. Catalogs, playbooks, worksheets and worked examples lead to the relevant guide rather than repeating purchase links. The supplied links currently open Amazon.de. Check the format, language and edition on Amazon before buying: a linked edition may differ from the cover shown. Author and publisher sources remain available in each guide. AI skill instructions contain no purchase links.
 
 ## Covers and licensing
 

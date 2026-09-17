@@ -133,4 +133,14 @@ npx skills add dreaduva/business-books-applied --skill offer-design
 
 Cover edition: ISBN 9781737475712. This guide is an independent practical application, not an official workbook. Read the full book for the author's wider argument and examples.
 
+<!-- BOOK-READING:START -->
+## Read the full book
+
+This toolkit focuses on a scoped offer and its delivery constraints. Read the full book for Alex Hormozi’s wider approach to designing offers.
+
+[View $100M Offers on Amazon (affiliate link)](https://link.amazon/B06FFpoBv)
+
+As an Amazon Associate I earn from qualifying purchases.
+<!-- BOOK-READING:END -->
+
 [All books](../README.md) · [All skills](../../skills/README.md)

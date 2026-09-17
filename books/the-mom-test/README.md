@@ -211,4 +211,14 @@ The original English-language book, identified here by ISBN **9781492180746**. T
 - [Google Books bibliographic record](https://books.google.com/books/about/The_Mom_Test.html?id=ET4cnwEACAAJ): original-edition identity.
 - [Open Library cover record](https://openlibrary.org/isbn/9781492180746) and [embedding guidelines](https://openlibrary.org/dev/docs/api/covers): source of the cover thumbnail.
 
+<!-- BOOK-READING:START -->
+## Read the full book
+
+This toolkit helps plan interviews and turn notes into a next decision. Read the full book for Rob Fitzpatrick’s broader guidance on customer conversations.
+
+[View The Mom Test on Amazon (affiliate link)](https://link.amazon/B07ssLRDD)
+
+As an Amazon Associate I earn from qualifying purchases.
+<!-- BOOK-READING:END -->
+
 [Back to the catalog](../README.md) · [Follow the playbook](../../playbooks/customer-interviews.md)

@@ -96,6 +96,15 @@ if affiliate["enabled"]:
 markdown = [p for p in ROOT.rglob("*.md") if not set(p.relative_to(ROOT).parts) & {"private", ".git", "node_modules", ".venv"}]
 for path in markdown:
     text = path.read_text()
+    for slug, url in affiliate["links"].items():
+        count = text.count(url)
+        expected_path = ROOT / "books" / slug / "README.md"
+        if count:
+            check(path == expected_path, f"Affiliate purchase link outside its book guide: {path.relative_to(ROOT)}")
+        if path == expected_path:
+            expected_count = (2 if affiliate.get("reading_notes", {}).get(slug) else 1) if affiliate["enabled"] else 0
+            check(count == expected_count, f"Unexpected affiliate placement count: {slug}")
+            check(not count or text.count(affiliate["disclosure"]) >= expected_count, f"Missing nearby affiliate disclosures: {slug}")
     # Ignore code blocks when checking navigable links and heading anchors.
     body = re.sub(r"```.*?```", "", text, flags=re.S)
     check(len(re.findall(r"^# ", body, re.M)) == 1, f"Expected one H1: {path.relative_to(ROOT)}")

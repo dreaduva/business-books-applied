@@ -142,4 +142,14 @@ npx skills add dreaduva/business-books-applied --skill deep-work-planner
 
 Cover edition: ISBN 9781455586691. This guide is an independent practical application, not an official workbook. Read the full book for the author's wider argument and examples.
 
+<!-- BOOK-READING:START -->
+## Read the full book
+
+This toolkit helps plan and review focused work sessions. Read the full book for Cal Newport’s broader argument about concentration and demanding work.
+
+[View Deep Work on Amazon (affiliate link)](https://link.amazon/B0dKxdFhX)
+
+As an Amazon Associate I earn from qualifying purchases.
+<!-- BOOK-READING:END -->
+
 [All books](../README.md) · [All skills](../../skills/README.md)

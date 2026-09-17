@@ -138,6 +138,16 @@ npx skills add dreaduva/business-books-applied --skill landing-page-messaging
 
 Cover edition: ISBN 9780718033323. This guide is an independent practical application, not an official workbook. Read the full book for the author's wider argument and examples.
 
-[All books](../README.md) · [All skills](../../skills/README.md)
-
 Source scope: the official overview and original-edition publisher sample were checked. This is an original messaging application, not a full-book review or coverage of StoryBrand 2.0.
+
+<!-- BOOK-READING:START -->
+## Read the full book
+
+This toolkit focuses on a clear landing page and its next action. Read the full book for Donald Miller’s broader explanation of customer-centered messaging.
+
+[View Building a StoryBrand on Amazon (affiliate link)](https://link.amazon/B00RWw1s6)
+
+As an Amazon Associate I earn from qualifying purchases.
+<!-- BOOK-READING:END -->
+
+[All books](../README.md) · [All skills](../../skills/README.md)

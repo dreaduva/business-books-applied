@@ -138,6 +138,16 @@ npx skills add dreaduva/business-books-applied --skill habit-experiment-planner
 
 Cover edition: ISBN 9780735211292. This guide is an independent practical application, not an official workbook. Read the full book for the author's wider argument and examples.
 
-[All books](../README.md) · [All skills](../../skills/README.md)
-
 Further primary reading: [James Clear on identity-based habits](https://jamesclear.com/identity-based-habits). Source scope is the author's public book page and habit/identity excerpts; the work experiment and review criteria are original applications, not full-book coverage or a scientific validation study.
+
+<!-- BOOK-READING:START -->
+## Read the full book
+
+This toolkit applies the ideas to one observable work habit. Read the full book for James Clear’s broader treatment of habits and behavior change.
+
+[View Atomic Habits on Amazon (affiliate link)](https://link.amazon/B0jivjpy6)
+
+As an Amazon Associate I earn from qualifying purchases.
+<!-- BOOK-READING:END -->
+
+[All books](../README.md) · [All skills](../../skills/README.md)

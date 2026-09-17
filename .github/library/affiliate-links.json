@@ -14,5 +14,17 @@
     "the-lean-startup": "https://link.amazon/B0glRbA97",
     "the-mom-test": "https://link.amazon/B07ssLRDD",
     "traction-gabriel-weinberg": "https://link.amazon/B0fMPjuoq"
+  },
+  "reading_notes": {
+    "100m-offers": "This toolkit focuses on a scoped offer and its delivery constraints. Read the full book for Alex Hormozi’s wider approach to designing offers.",
+    "100m-leads": "This toolkit develops one campaign, its useful entry resource and follow-up. Read the full book for Alex Hormozi’s broader lead-generation approach.",
+    "atomic-habits": "This toolkit applies the ideas to one observable work habit. Read the full book for James Clear’s broader treatment of habits and behavior change.",
+    "building-a-storybrand": "This toolkit focuses on a clear landing page and its next action. Read the full book for Donald Miller’s broader explanation of customer-centered messaging.",
+    "deep-work": "This toolkit helps plan and review focused work sessions. Read the full book for Cal Newport’s broader argument about concentration and demanding work.",
+    "obviously-awesome": "This toolkit develops an evidence-linked positioning brief. Read the full book for April Dunford’s broader treatment of product positioning.",
+    "the-e-myth-revisited": "This toolkit makes one recurring process easier to hand off. Read the full book for Michael E. Gerber’s broader discussion of building a business around the work.",
+    "the-lean-startup": "This toolkit focuses on designing and interpreting a bounded experiment. Read the full book for Eric Ries’s broader approach to learning under uncertainty.",
+    "the-mom-test": "This toolkit helps plan interviews and turn notes into a next decision. Read the full book for Rob Fitzpatrick’s broader guidance on customer conversations.",
+    "traction-gabriel-weinberg": "This toolkit compares bounded channel tests. Read the full book for Gabriel Weinberg and Justin Mares’s broader exploration of customer acquisition."
   }
 }
