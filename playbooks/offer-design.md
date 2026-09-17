@@ -23,3 +23,7 @@ Estimate direct costs and hours. Compare the proposed customer count with availa
 After authorized testing, record purchases and objections separately from compliments. Track delivery effort alongside demand. Revise the scope or price assumptions when the actual work differs from the plan.
 
 [Completed example](../books/100m-offers/worked-example.md) · [Installable skill](../skills/offer-design/SKILL.md)
+
+## Compare, stress-test and revise
+
+Compare at least two meaningful delivery choices when alternatives would change the decision. Itemize all work, preserve a buffer and inspect an overrun. Write the actual offer only after its scope is clear. Save the unsupported first promise and its replacement so the tradeoff is visible. A useful pilot review records both whether a suitable buyer chose the offer and whether delivery stayed within its stated limits.
