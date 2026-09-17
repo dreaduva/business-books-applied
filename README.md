@@ -27,17 +27,26 @@ Then ask your assistant:
 Read a guide, copy a template, or follow a completed example. No installation needed.
 
 <!-- LIBRARY:START -->
-**2 published guides · 98 titles in the planned collection.** Every resource below is available now.
+**3 published guides · 97 titles in the planned collection.** Every resource below is available now.
 
 [A–Z book index](books/README.md) · [Planned collection](books/roadmap.md)
 
-<details open>
+<details>
 <summary><strong>Startups and discovery</strong> · 2 guides</summary>
 
 | Book and author | Put an idea to work | Resources |
 | --- | --- | --- |
 | [The Lean Startup](books/the-lean-startup/README.md)<br>Eric Ries | Startup Experiment Plan | [Worksheet](books/the-lean-startup/worksheet.md) · [Example](books/the-lean-startup/worked-example.md) · [AI skill](skills/startup-experiment-planner/SKILL.md) |
 | [The Mom Test](books/the-mom-test/README.md)<br>Rob Fitzpatrick | Interview plan, evidence debrief, and next test | [Template](books/the-mom-test/interview-plan.md) · [Example](books/the-mom-test/worked-example.md) · [Checklist](books/the-mom-test/question-checklist.md) · [AI skill](skills/customer-interview-planner/SKILL.md) |
+
+</details>
+
+<details>
+<summary><strong>Strategy and business models</strong> · 1 guide</summary>
+
+| Book and author | Put an idea to work | Resources |
+| --- | --- | --- |
+| [Obviously Awesome](books/obviously-awesome/README.md)<br>April Dunford | Positioning Brief | [Worksheet](books/obviously-awesome/worksheet.md) · [Example](books/obviously-awesome/worked-example.md) · [AI skill](skills/product-positioning/SKILL.md) |
 
 </details>
 

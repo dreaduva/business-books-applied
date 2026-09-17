@@ -1081,18 +1081,35 @@
     "author": "April Dunford",
     "slug": "obviously-awesome",
     "category": "Strategy and business models",
-    "status": "planned",
-    "guide_path": null,
-    "application_resource": "Positioning brief",
+    "status": "published",
+    "guide_path": "books/obviously-awesome/README.md",
+    "application_resource": "Positioning Brief",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
-      "ai_assisted": null,
+      "ai_assisted": true,
       "human_reviewer": null,
       "reviewed_on": null,
-      "source_scope": null
+      "source_scope": "Public primary sources: https://www.aprildunford.com/post/a-quickstart-guide-to-positioning; https://www.aprildunford.com/books. Original application; no full-book or human expert review claimed.",
+      "source_checked_on": "2026-09-17"
     },
-    "resources": {}
+    "resources": {
+      "Worksheet": "books/obviously-awesome/worksheet.md",
+      "Example": "books/obviously-awesome/worked-example.md",
+      "AI skill": "skills/product-positioning/SKILL.md"
+    },
+    "official_url": "https://www.aprildunford.com/books",
+    "completion": {
+      "version": "1.0.0",
+      "status": "complete",
+      "scope": "Positioning Brief",
+      "evaluation": "Skill format, repository integrity, portable resource synchronization, isolated installation, and authored scenario review; no independent comparative benchmark."
+    },
+    "toolkit": {
+      "skill": "product-positioning",
+      "title": "Product Positioning",
+      "artifact": "Positioning Brief"
+    }
   },
   {
     "id": 57,
