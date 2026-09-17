@@ -2,7 +2,7 @@
 
 [Home](../README.md) · [Browse by topic](../README.md#browse-the-library) · [Planned collection](roadmap.md)
 
-Browse published guides alphabetically by title. Each book has one permanent home, with its templates and examples linked alongside it. Publication describes availability, not human expert review; read each guide’s editorial note.
+Browse published guides alphabetically by title. Each book has one permanent home, with its templates and examples linked alongside it.
 
 | Book and author | Put an idea to work | Resources |
 | --- | --- | --- |

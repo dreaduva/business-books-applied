@@ -55,7 +55,7 @@ def outputs():
         raise ValueError('Expected one library block in root README.')
     result[ROOT/'README.md'] = re.sub(re.escape(START)+r'.*?'+re.escape(END), lambda _: '\n'.join(lines), root, flags=re.S)
     lines = ['# Business Book Summaries and Practical Guides', '', '[Home](../README.md) · [Browse by topic](../README.md#browse-the-library) · [Planned collection](roadmap.md)', '',
-             'Browse published guides alphabetically by title. Each book has one permanent home, with its templates and examples linked alongside it. Publication describes availability, not human expert review; read each guide’s editorial note.', '']
+             'Browse published guides alphabetically by title. Each book has one permanent home, with its templates and examples linked alongside it.', '']
     lines += table(published, 'books')
     result[ROOT/'books/README.md'] = '\n'.join(lines)+'\n'
     lines = [f'# Planned Business Book Collection', '', '[Home](../README.md) · [Published guides](README.md) · [Selection methodology](../ABOUT.md#the-collection)', '',

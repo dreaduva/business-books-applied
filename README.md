@@ -2,25 +2,29 @@
 
 # Business Books, Applied
 
-**Business book summaries, practical templates, worked examples, and AI skills.** A free library for people building products, running teams, and making better business decisions.
+**Business book summaries you can put to work—with templates, worked examples, and installable AI skills.**
 
-[**Browse the library**](#browse-the-library) · [**Solve a problem**](#solve-a-problem) · [**Use an AI skill**](#use-an-ai-skill)
+[Install](#install) · [Books](#browse-the-library) · [Playbooks](#solve-a-problem) · [Contribute](CONTRIBUTING.md)
 
----
+## Install
 
-## Start with The Mom Test
+Run in the project where you want to use the skills. Requires Node.js and npm.
 
-Preparing customer interviews? Learn to ask about real behavior, spot weak evidence, and plan your next conversation.
+```bash
+npx skills add dreaduva/business-books-applied
+```
 
-| Read | Apply | See it done | Prepare with AI |
-| --- | --- | --- | --- |
-| [Summary and interview questions](books/the-mom-test/README.md) | [Copy the interview template](books/the-mom-test/interview-plan.md) | [Tutor-scheduling example](books/the-mom-test/worked-example.md) | [Customer Interview Planner](skills/customer-interview-planner/SKILL.md) |
+Choose a skill and your assistant in the installer. Currently available: **Customer Interview Planner**, informed by *The Mom Test*.
 
-The worked example is fictional and clearly labeled. The template is original project material, ready to copy into your own notes.
+Then ask your assistant:
+
+> Use the customer-interview-planner skill to prepare interviews with independent tutors about schedule changes. I have an idea but no customer evidence yet.
+
+[Skill directory and installation options](skills/README.md) · [Read the skill first](skills/customer-interview-planner/SKILL.md)
 
 ## Browse the library
 
-Find a book by its main subject. Open its guide for the cover, summary, practical lessons, sources, and complete resource menu.
+Read a guide, copy a template, or follow a completed example. No installation needed.
 
 <!-- LIBRARY:START -->
 **1 published guide · 99 titles in the planned collection.** Every resource below is available now.
@@ -40,40 +44,16 @@ Find a book by its main subject. Open its guide for the cover, summary, practica
 
 ## Solve a problem
 
-Start with the task when you do not have a particular book in mind. Playbooks connect reading to a sequence you can follow.
-
-| Your task | Start here | Leave with |
-| --- | --- | --- |
-| Plan customer-discovery interviews | [Customer interview playbook](playbooks/customer-interviews.md) | A learning objective, neutral prompts, and an evidence log |
-| Improve an existing interview script | [Question-review checklist](books/the-mom-test/question-checklist.md) | Questions that leave room for an unexpected answer |
+| I want to… | Start here |
+| --- | --- |
+| Prepare customer interviews | [Follow the interview playbook](playbooks/customer-interviews.md) |
+| Improve my interview questions | [Use the question checklist](books/the-mom-test/question-checklist.md) |
+| See a completed plan | [Read the fictional tutor-scheduling example](books/the-mom-test/worked-example.md) |
 
 [All playbooks](playbooks/README.md)
 
-## Use an AI skill
+---
 
-Give your assistant a practical procedure for the task. Begin with the [Customer Interview Planner](skills/customer-interview-planner/SKILL.md), supply the skill instructions and its linked output template, then add your situation:
+[About and sources](ABOUT.md) · [Contributing](CONTRIBUTING.md) · [MIT license](LICENSE)
 
-```text
-Help me plan interviews with independent tutors about schedule changes.
-I suspect confirmations create admin work, but I have no customer evidence.
-Prepare questions that investigate the current process without pitching an app.
-```
-
-For assistants that import skill folders, include the whole folder and follow that assistant's installation instructions. [Browse skills and usage guidance](skills/README.md).
-
-## What to expect
-
-- **One home per book:** the guide, original templates, and worked examples stay together.
-- **Useful explanations:** summaries lead to questions, decisions, and exercises you can apply.
-- **Clear sources:** each guide identifies consulted materials, limitations, and AI assistance.
-- **A growing collection:** the original selection covers 100 books. Planned titles are kept separate from finished guides; it is not a verified all-time bestseller ranking.
-
-[How we write](ABOUT.md#editorial-standards) · [How books are selected](ABOUT.md#the-collection)
-
-## Help improve the library
-
-A clearer explanation, a better question, or a sourced correction can make a guide more useful. Read [the contribution guide](CONTRIBUTING.md) to help.
-
-Original project material is [MIT licensed](LICENSE). Book covers, quotations, and other third-party material retain their owners' rights. This project is independent of the authors and publishers.
-
-Amazon affiliate links are not active. If enabled, they will be clearly labeled on the relevant book pages. [Affiliate and cover policy](ABOUT.md#affiliate-links).
+Independent of book authors and publishers. Book covers and other third-party material retain their owners' rights. [Affiliate information](ABOUT.md#affiliate-links).
