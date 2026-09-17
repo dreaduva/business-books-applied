@@ -417,7 +417,7 @@
       "ai_assisted": true,
       "human_reviewer": null,
       "reviewed_on": null,
-      "source_scope": "Public primary sources: https://www.acquisition.com/training/leads; https://www.acquisition.com/hubfs/%24100M%20Journal.pdf?hsLang=en; https://shop.acquisition.com/. Original application; no full-book or human expert review claimed.",
+      "source_scope": "Public primary source scope: official Acquisition.com course index and shop book overview; journal indexed contents only, not full journal or videos. Original application; no full-book or human expert review claimed.",
       "source_checked_on": "2026-09-17"
     },
     "resources": {
@@ -427,10 +427,10 @@
     },
     "official_url": "https://shop.acquisition.com/",
     "completion": {
-      "version": "1.0.0",
-      "status": "revision-needed",
-      "scope": "Lead Generation Plan",
-      "evaluation": "Packaging checked; editorial depth requires revision against the applied-toolkit standard."
+      "version": "1.1.0",
+      "status": "complete",
+      "scope": "Useful campaign assets, qualification, complete reply journey and funnel diagnosis",
+      "evaluation": "Substantive review and recorded same-assistant behavioral exercises; source scope, original worked example, worksheet, skill format and isolated installation checked. No independent model benchmark or full-book expert review."
     },
     "toolkit": {
       "skill": "lead-generation-planner",

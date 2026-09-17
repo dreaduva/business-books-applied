@@ -23,3 +23,7 @@ Assign a reply owner, capacity, and follow-up boundary. Make opt-outs and reques
 After authorized distribution, record visits or exposures, requests, qualification, attendance, and purchases. Calculate rates with explicit denominators. Change audience fit or the handoff before increasing volume when those are the actual bottlenecks.
 
 [Completed example](../books/100m-leads/worked-example.md) · [Installable skill](../skills/lead-generation-planner/SKILL.md)
+
+## Finish the resource and the response path
+
+Write enough of the resource that a reader can use it without buying. Then draft the acknowledgement and first reply, assign an owner and check real capacity. During review, inspect unique people and mature follow-up windows. Separate audience mismatch from a reply the team failed to send. Save the revised asset and its unanswered question rather than declaring a new version successful before it runs.

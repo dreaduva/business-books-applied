@@ -19,7 +19,8 @@ Count available response slots and who owns them. If a campaign creates more req
 ## Sources and scope
 
 - [Acquisition.com — lead generation course](https://www.acquisition.com/training/leads)
-- [Author — public framework journal](https://www.acquisition.com/hubfs/%24100M%20Journal.pdf?hsLang=en)
 - [Author — books](https://shop.acquisition.com/)
 
 Independent practical application based on these public author or publisher materials. Full-book expert review and real-world outcome testing are not claimed. Worksheets and examples are original project material.
+
+Source scope: the official course index and book overview were inspected; the journal's indexed contents identify its broad topics. Full course videos, the full journal and the full book were not reviewed. The campaign procedure, worksheet, messages and examples are original applications, not a reproduction of the author's playbooks.
