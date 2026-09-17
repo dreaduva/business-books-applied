@@ -32,4 +32,20 @@ Original project worksheet. Fill unknowns explicitly; distinguish a proposed pla
 - Change made and rationale:
 - Version, owner, and next review trigger:
 
+## Make the hidden decisions explicit
+
+| Step | Input/source | Observable action | Decision or blocker | Output/evidence | Owner |
+| --- | --- | --- | --- | --- | --- |
+| | | | | | |
+
+- What the operator may decide without escalation:
+- What needs a separate authority decision:
+- Who owns the task until the next role accepts it:
+- What can continue while a blocker is unresolved:
+- First-pass acceptance checks, separate from timing targets:
+
+## Walkthrough record
+
+Use a normal case and a plausible exception. Record the exact supplied inputs, the operator's output, where an inference was required, the smallest procedure change and the result of rerunning that case. Label simulation versus live trial. Keep version, document owner and review trigger visible.
+
 [Book guide](README.md) · [Completed example](worked-example.md)

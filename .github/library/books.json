@@ -219,7 +219,7 @@
       "ai_assisted": true,
       "human_reviewer": null,
       "reviewed_on": null,
-      "source_scope": "Public primary sources: https://www.emyth.com/inside/groundbreaking-ideas-from-the-e-myth-revisited; https://www.emyth.com/inside/the-three-business-personalities-entrepreneur-manager-technician. Original application; no full-book or human expert review claimed.",
+      "source_scope": "Public primary materials: EMyth core-ideas and three-business-personalities articles. Original application; no full-book or human expert review claimed.",
       "source_checked_on": "2026-09-17"
     },
     "resources": {
@@ -229,10 +229,10 @@
     },
     "official_url": "https://www.emyth.com/inside/groundbreaking-ideas-from-the-e-myth-revisited",
     "completion": {
-      "version": "1.0.0",
-      "status": "revision-needed",
-      "scope": "Repeatable Process Brief",
-      "evaluation": "Packaging checked; editorial depth requires revision against the applied-toolkit standard."
+      "version": "1.1.0",
+      "status": "complete",
+      "scope": "Role-aware process mapping, complete SOP, exception handling and handoff revision",
+      "evaluation": "Substantive review and recorded same-assistant behavioral exercises; source scope, original worked example, worksheet, skill format and isolated installation checked. No independent model benchmark or full-book expert review."
     },
     "toolkit": {
       "skill": "business-process-design",
