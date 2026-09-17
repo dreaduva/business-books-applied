@@ -357,18 +357,35 @@
     "author": "Alex Hormozi",
     "slug": "100m-leads",
     "category": "Marketing and growth",
-    "status": "planned",
-    "guide_path": null,
-    "application_resource": "Lead-generation experiment plan",
+    "status": "published",
+    "guide_path": "books/100m-leads/README.md",
+    "application_resource": "Lead Generation Plan",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
-      "ai_assisted": null,
+      "ai_assisted": true,
       "human_reviewer": null,
       "reviewed_on": null,
-      "source_scope": null
+      "source_scope": "Public primary sources: https://www.acquisition.com/training/leads; https://www.acquisition.com/hubfs/%24100M%20Journal.pdf?hsLang=en; https://shop.acquisition.com/. Original application; no full-book or human expert review claimed.",
+      "source_checked_on": "2026-09-17"
     },
-    "resources": {}
+    "resources": {
+      "Worksheet": "books/100m-leads/worksheet.md",
+      "Example": "books/100m-leads/worked-example.md",
+      "AI skill": "skills/lead-generation-planner/SKILL.md"
+    },
+    "official_url": "https://shop.acquisition.com/",
+    "completion": {
+      "version": "1.0.0",
+      "status": "complete",
+      "scope": "Lead Generation Plan",
+      "evaluation": "Skill format, repository integrity, portable resource synchronization, isolated installation, and authored scenario review; no independent comparative benchmark."
+    },
+    "toolkit": {
+      "skill": "lead-generation-planner",
+      "title": "Lead Generation Planning",
+      "artifact": "Lead Generation Plan"
+    }
   },
   {
     "id": 18,

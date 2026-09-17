@@ -6,6 +6,7 @@ Browse published guides alphabetically by title. Each book has one permanent hom
 
 | Book and author | Put an idea to work | Resources |
 | --- | --- | --- |
+| [$100M Leads](100m-leads/README.md)<br>Alex Hormozi | Lead Generation Plan | [Worksheet](100m-leads/worksheet.md) · [Example](100m-leads/worked-example.md) · [AI skill](../skills/lead-generation-planner/SKILL.md) |
 | [$100M Offers](100m-offers/README.md)<br>Alex Hormozi | Offer Design Brief | [Worksheet](100m-offers/worksheet.md) · [Example](100m-offers/worked-example.md) · [AI skill](../skills/offer-design/SKILL.md) |
 | [Building a StoryBrand](building-a-storybrand/README.md)<br>Donald Miller | Landing-Page Messaging Brief | [Worksheet](building-a-storybrand/worksheet.md) · [Example](building-a-storybrand/worked-example.md) · [AI skill](../skills/landing-page-messaging/SKILL.md) |
 | [Obviously Awesome](obviously-awesome/README.md)<br>April Dunford | Positioning Brief | [Worksheet](obviously-awesome/worksheet.md) · [Example](obviously-awesome/worked-example.md) · [AI skill](../skills/product-positioning/SKILL.md) |

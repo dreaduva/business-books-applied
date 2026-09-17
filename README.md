@@ -27,7 +27,7 @@ Then ask your assistant:
 Read a guide, copy a template, or follow a completed example. No installation needed.
 
 <!-- LIBRARY:START -->
-**6 published guides · 94 titles in the planned collection.** Every resource below is available now.
+**7 published guides · 93 titles in the planned collection.** Every resource below is available now.
 
 [A–Z book index](books/README.md) · [Planned collection](books/roadmap.md)
 
@@ -51,10 +51,11 @@ Read a guide, copy a template, or follow a completed example. No installation ne
 </details>
 
 <details>
-<summary><strong>Marketing and growth</strong> · 2 guides</summary>
+<summary><strong>Marketing and growth</strong> · 3 guides</summary>
 
 | Book and author | Put an idea to work | Resources |
 | --- | --- | --- |
+| [$100M Leads](books/100m-leads/README.md)<br>Alex Hormozi | Lead Generation Plan | [Worksheet](books/100m-leads/worksheet.md) · [Example](books/100m-leads/worked-example.md) · [AI skill](skills/lead-generation-planner/SKILL.md) |
 | [Building a StoryBrand](books/building-a-storybrand/README.md)<br>Donald Miller | Landing-Page Messaging Brief | [Worksheet](books/building-a-storybrand/worksheet.md) · [Example](books/building-a-storybrand/worked-example.md) · [AI skill](skills/landing-page-messaging/SKILL.md) |
 | [Traction](books/traction-gabriel-weinberg/README.md)<br>Gabriel Weinberg; Justin Mares | Acquisition Channel Test Plan | [Worksheet](books/traction-gabriel-weinberg/worksheet.md) · [Example](books/traction-gabriel-weinberg/worked-example.md) · [AI skill](skills/acquisition-channel-testing/SKILL.md) |
 
