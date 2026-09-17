@@ -1,6 +1,6 @@
-# Business Books, Applied
+![Business Books, Applied — Read the idea. Put it to work.](.github/assets/business-books-applied-banner.png)
 
-### Read the idea. Put it to work.
+# Business Books, Applied
 
 **Business book summaries, practical templates, worked examples, and AI skills.** A free library for people building products, running teams, and making better business decisions.
 
