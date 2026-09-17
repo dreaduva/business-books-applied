@@ -1554,18 +1554,35 @@
     "author": "Donald Miller",
     "slug": "building-a-storybrand",
     "category": "Marketing and growth",
-    "status": "planned",
-    "guide_path": null,
-    "application_resource": "Landing-page messaging brief",
+    "status": "published",
+    "guide_path": "books/building-a-storybrand/README.md",
+    "application_resource": "Landing-Page Messaging Brief",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
-      "ai_assisted": null,
+      "ai_assisted": true,
       "human_reviewer": null,
       "reviewed_on": null,
-      "source_scope": null
+      "source_scope": "Public primary sources: https://storybrand.com/storybrand-clarify-your-message-new/; https://storybrand.com/downloads/StoryBrand-Online-Marketing-Course-Workbook.pdf; https://cdn.cokesbury.com/samples/pdf/9780718033323.pdf. Original application; no full-book or human expert review claimed.",
+      "source_checked_on": "2026-09-17"
     },
-    "resources": {}
+    "resources": {
+      "Worksheet": "books/building-a-storybrand/worksheet.md",
+      "Example": "books/building-a-storybrand/worked-example.md",
+      "AI skill": "skills/landing-page-messaging/SKILL.md"
+    },
+    "official_url": "https://storybrand.com/",
+    "completion": {
+      "version": "1.0.0",
+      "status": "complete",
+      "scope": "Landing-Page Messaging Brief",
+      "evaluation": "Skill format, repository integrity, portable resource synchronization, isolated installation, and authored scenario review; no independent comparative benchmark."
+    },
+    "toolkit": {
+      "skill": "landing-page-messaging",
+      "title": "Landing-Page Messaging",
+      "artifact": "Landing-Page Messaging Brief"
+    }
   },
   {
     "id": 81,

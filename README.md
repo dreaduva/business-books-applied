@@ -27,7 +27,7 @@ Then ask your assistant:
 Read a guide, copy a template, or follow a completed example. No installation needed.
 
 <!-- LIBRARY:START -->
-**3 published guides · 97 titles in the planned collection.** Every resource below is available now.
+**4 published guides · 96 titles in the planned collection.** Every resource below is available now.
 
 [A–Z book index](books/README.md) · [Planned collection](books/roadmap.md)
 
@@ -47,6 +47,15 @@ Read a guide, copy a template, or follow a completed example. No installation ne
 | Book and author | Put an idea to work | Resources |
 | --- | --- | --- |
 | [Obviously Awesome](books/obviously-awesome/README.md)<br>April Dunford | Positioning Brief | [Worksheet](books/obviously-awesome/worksheet.md) · [Example](books/obviously-awesome/worked-example.md) · [AI skill](skills/product-positioning/SKILL.md) |
+
+</details>
+
+<details>
+<summary><strong>Marketing and growth</strong> · 1 guide</summary>
+
+| Book and author | Put an idea to work | Resources |
+| --- | --- | --- |
+| [Building a StoryBrand](books/building-a-storybrand/README.md)<br>Donald Miller | Landing-Page Messaging Brief | [Worksheet](books/building-a-storybrand/worksheet.md) · [Example](books/building-a-storybrand/worked-example.md) · [AI skill](skills/landing-page-messaging/SKILL.md) |
 
 </details>
 

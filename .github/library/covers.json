@@ -29,5 +29,15 @@
     "permission_evidence_url": "https://openlibrary.org/dev/docs/api/covers",
     "edition": "ISBN 9781999023003",
     "checked_on": "2026-09-17"
+  },
+  "building-a-storybrand": {
+    "status": "service-embed",
+    "image_url": "https://covers.openlibrary.org/b/isbn/9780718033323-M.jpg?default=false",
+    "source_url": "https://openlibrary.org/isbn/9780718033323",
+    "credit": "via Open Library; artwork remains the property of its respective rights holders",
+    "permission_basis": "Direct small editorial cover embed following documented service guidelines; not a copyright license or local redistribution.",
+    "permission_evidence_url": "https://openlibrary.org/dev/docs/api/covers",
+    "edition": "ISBN 9780718033323",
+    "checked_on": "2026-09-17"
   }
 }
