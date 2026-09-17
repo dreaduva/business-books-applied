@@ -27,7 +27,7 @@ Then ask your assistant:
 Read a guide, copy a template, or follow a completed example. No installation needed.
 
 <!-- LIBRARY:START -->
-**8 published guides · 92 titles in the planned collection.** Every resource below is available now.
+**9 published guides · 91 titles in the planned collection.** Every resource below is available now.
 
 [A–Z book index](books/README.md) · [Planned collection](books/roadmap.md)
 
@@ -76,6 +76,15 @@ Read a guide, copy a template, or follow a completed example. No installation ne
 | Book and author | Put an idea to work | Resources |
 | --- | --- | --- |
 | [The E-Myth Revisited](books/the-e-myth-revisited/README.md)<br>Michael E. Gerber | Repeatable Process Brief | [Worksheet](books/the-e-myth-revisited/worksheet.md) · [Example](books/the-e-myth-revisited/worked-example.md) · [AI skill](skills/business-process-design/SKILL.md) |
+
+</details>
+
+<details>
+<summary><strong>Productivity and execution</strong> · 1 guide</summary>
+
+| Book and author | Put an idea to work | Resources |
+| --- | --- | --- |
+| [Atomic Habits](books/atomic-habits/README.md)<br>James Clear | Habit Experiment Plan | [Worksheet](books/atomic-habits/worksheet.md) · [Example](books/atomic-habits/worked-example.md) · [AI skill](skills/habit-experiment-planner/SKILL.md) |
 
 </details>
 

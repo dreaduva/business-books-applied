@@ -5,18 +5,35 @@
     "author": "James Clear",
     "slug": "atomic-habits",
     "category": "Productivity and execution",
-    "status": "planned",
-    "guide_path": null,
-    "application_resource": "Habit design worksheet",
+    "status": "published",
+    "guide_path": "books/atomic-habits/README.md",
+    "application_resource": "Habit Experiment Plan",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
-      "ai_assisted": null,
+      "ai_assisted": true,
       "human_reviewer": null,
       "reviewed_on": null,
-      "source_scope": null
+      "source_scope": "Public primary sources: https://jamesclear.com/atomic-habits; https://jamesclear.com/three-steps-habit-change. Original application; no full-book or human expert review claimed.",
+      "source_checked_on": "2026-09-17"
     },
-    "resources": {}
+    "resources": {
+      "Worksheet": "books/atomic-habits/worksheet.md",
+      "Example": "books/atomic-habits/worked-example.md",
+      "AI skill": "skills/habit-experiment-planner/SKILL.md"
+    },
+    "official_url": "https://jamesclear.com/atomic-habits",
+    "completion": {
+      "version": "1.0.0",
+      "status": "complete",
+      "scope": "Habit Experiment Plan",
+      "evaluation": "Skill format, repository integrity, portable resource synchronization, isolated installation, and authored scenario review; no independent comparative benchmark."
+    },
+    "toolkit": {
+      "skill": "habit-experiment-planner",
+      "title": "Habit Experiment Planning",
+      "artifact": "Habit Experiment Plan"
+    }
   },
   {
     "id": 2,
