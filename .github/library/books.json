@@ -312,7 +312,7 @@
       "ai_assisted": true,
       "human_reviewer": null,
       "reviewed_on": null,
-      "source_scope": "Public primary sources: https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/; https://calnewport.com/the-book-facebook-doesnt-want-you-to-read/; https://www.hachettebookgroup.com/titles/cal-newport/deep-work/9781455586691/. Original application; no full-book or human expert review claimed.",
+      "source_scope": "Public primary materials: Cal Newport book introduction and annotated four-rule overview, plus Hachette edition page. Original application; no full-book or human expert review claimed.",
       "source_checked_on": "2026-09-17"
     },
     "resources": {
@@ -322,10 +322,10 @@
     },
     "official_url": "https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/",
     "completion": {
-      "version": "1.0.0",
-      "status": "revision-needed",
-      "scope": "Focused Work Plan",
-      "evaluation": "Packaging checked; editorial depth requires revision against the applied-toolkit standard."
+      "version": "1.1.0",
+      "status": "complete",
+      "scope": "Calendar-feasible focus planning, artifact review, interruption recovery and week revision",
+      "evaluation": "Substantive review and recorded same-assistant behavioral exercises; source scope, original worked example, worksheet, skill format and isolated installation checked. No independent model benchmark or full-book expert review."
     },
     "toolkit": {
       "skill": "deep-work-planner",

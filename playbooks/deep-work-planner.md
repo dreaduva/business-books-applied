@@ -23,3 +23,7 @@ Advance the defined output. When an essential interruption occurs, leave a brief
 Save the work, mark what remains incomplete, and return to ordinary responsibilities. Compare the planned block with actual output and interruptions. Change the next session's scope or timing based on that evidence.
 
 [Completed example](../books/deep-work/worked-example.md) · [Installable skill](../skills/deep-work-planner/SKILL.md)
+
+## Close the loop with the actual artifact
+
+Total the proposed minutes and check every block against fixed duties. After a session, record actual focus and the output it produced. Treat legitimate interruptions separately from unnecessary switching. If the artifact does not answer the original question, make the missing reasoning the next first action. Publish no success claim for a revised schedule that has not run.

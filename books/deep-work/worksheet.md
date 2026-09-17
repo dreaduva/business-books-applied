@@ -32,4 +32,23 @@ Original project worksheet. Fill unknowns explicitly; distinguish a proposed pla
 - Interruptions or blockers:
 - Adjustment and next action:
 
+## Calendar feasibility
+
+| Day | Fixed commitments and duties | Proposed focus start/end | Transition/preparation | Output |
+| --- | --- | --- | --- | --- |
+| | | | | |
+
+- Total proposed focus minutes:
+- Overlaps or assumed coverage requiring resolution:
+- Protected versus intentionally interruptible windows:
+- Scope to reduce if available time is insufficient:
+
+## Actual work and revision
+
+| Session | Planned minutes | Actual focused minutes | Interruption/blocker | Artifact produced | Next thinking step |
+| --- | --- | --- | --- | --- | --- |
+| | | | | | |
+
+Assess the artifact against the original acceptance criteria. Keep legitimate incident work separate from unrelated switching. Write the revised calendar and scope, preserve ordinary responsibilities, and state whether the new plan has actually run. Do not infer improved productivity from a tidier schedule alone.
+
 [Book guide](README.md) · [Completed example](worked-example.md)
