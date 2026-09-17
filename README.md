@@ -1,4 +1,4 @@
-![Business Books, Applied — Read the idea. Put it to work.](.github/assets/business-books-applied-banner.png)
+![Business Books, Applied — Read the idea. Put it to work.](.github/assets/business-books-applied-staircase-v3.png)
 
 # Business Books, Applied
 
