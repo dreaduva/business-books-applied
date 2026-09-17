@@ -27,7 +27,7 @@ Then ask your assistant:
 Read a guide, copy a template, or follow a completed example. No installation needed.
 
 <!-- LIBRARY:START -->
-**7 published guides · 93 titles in the planned collection.** Every resource below is available now.
+**8 published guides · 92 titles in the planned collection.** Every resource below is available now.
 
 [A–Z book index](books/README.md) · [Planned collection](books/roadmap.md)
 
@@ -67,6 +67,15 @@ Read a guide, copy a template, or follow a completed example. No installation ne
 | Book and author | Put an idea to work | Resources |
 | --- | --- | --- |
 | [$100M Offers](books/100m-offers/README.md)<br>Alex Hormozi | Offer Design Brief | [Worksheet](books/100m-offers/worksheet.md) · [Example](books/100m-offers/worked-example.md) · [AI skill](skills/offer-design/SKILL.md) |
+
+</details>
+
+<details>
+<summary><strong>Money and operations</strong> · 1 guide</summary>
+
+| Book and author | Put an idea to work | Resources |
+| --- | --- | --- |
+| [The E-Myth Revisited](books/the-e-myth-revisited/README.md)<br>Michael E. Gerber | Repeatable Process Brief | [Worksheet](books/the-e-myth-revisited/worksheet.md) · [Example](books/the-e-myth-revisited/worked-example.md) · [AI skill](skills/business-process-design/SKILL.md) |
 
 </details>
 

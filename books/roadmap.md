@@ -2,7 +2,7 @@
 
 [Home](../README.md) · [Published guides](README.md) · [Selection methodology](../ABOUT.md#the-collection)
 
-The collection currently contains 100 selected titles. The 93 entries below are planned or in development, not published summaries. This is a curated reading list, not an all-time sales ranking. No publication dates are promised.
+The collection currently contains 100 selected titles. The 92 entries below are planned or in development, not published summaries. This is a curated reading list, not an all-time sales ranking. No publication dates are promised.
 
 [Startups and discovery](#startups-and-discovery) · [Strategy and business models](#strategy-and-business-models) · [Product and innovation](#product-and-innovation) · [Marketing and growth](#marketing-and-growth) · [Sales and communication](#sales-and-communication) · [Money and operations](#money-and-operations) · [Leadership and teams](#leadership-and-teams) · [Productivity and execution](#productivity-and-execution) · [Founder stories and judgment](#founder-stories-and-judgment)
 
@@ -97,7 +97,6 @@ The collection currently contains 100 selected titles. The 93 entries below are 
 | Scaling Up | Verne Harnish | Planned |
 | The $100 Startup | Chris Guillebeau | Planned |
 | The 4-Hour Workweek | Timothy Ferriss | Planned |
-| The E-Myth Revisited | Michael E. Gerber | Planned |
 | The Millionaire Next Door | Thomas J. Stanley; William D. Danko | Planned |
 | The Psychology of Money | Morgan Housel | Planned |
 | The Richest Man in Babylon | George S. Clason | Planned |

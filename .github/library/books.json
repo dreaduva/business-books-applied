@@ -193,18 +193,35 @@
     "author": "Michael E. Gerber",
     "slug": "the-e-myth-revisited",
     "category": "Money and operations",
-    "status": "planned",
-    "guide_path": null,
-    "application_resource": "Founder role audit",
+    "status": "published",
+    "guide_path": "books/the-e-myth-revisited/README.md",
+    "application_resource": "Repeatable Process Brief",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
-      "ai_assisted": null,
+      "ai_assisted": true,
       "human_reviewer": null,
       "reviewed_on": null,
-      "source_scope": null
+      "source_scope": "Public primary sources: https://www.emyth.com/inside/groundbreaking-ideas-from-the-e-myth-revisited; https://www.emyth.com/inside/the-three-business-personalities-entrepreneur-manager-technician. Original application; no full-book or human expert review claimed.",
+      "source_checked_on": "2026-09-17"
     },
-    "resources": {}
+    "resources": {
+      "Worksheet": "books/the-e-myth-revisited/worksheet.md",
+      "Example": "books/the-e-myth-revisited/worked-example.md",
+      "AI skill": "skills/business-process-design/SKILL.md"
+    },
+    "official_url": "https://www.emyth.com/inside/groundbreaking-ideas-from-the-e-myth-revisited",
+    "completion": {
+      "version": "1.0.0",
+      "status": "complete",
+      "scope": "Repeatable Process Brief",
+      "evaluation": "Skill format, repository integrity, portable resource synchronization, isolated installation, and authored scenario review; no independent comparative benchmark."
+    },
+    "toolkit": {
+      "skill": "business-process-design",
+      "title": "Business Process Design",
+      "artifact": "Repeatable Process Brief"
+    }
   },
   {
     "id": 11,
