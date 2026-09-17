@@ -10,6 +10,8 @@ Cover: via Open Library; artwork remains the property of its respective rights h
 
 **Rob Fitzpatrick · Customer discovery · Original-edition guide**
 
+**Complete toolkit · v1.0** — [Plan an interview](interview-plan.md), [review questions](question-checklist.md), [analyze notes](../../skills/customer-interview-planner/assets/research-debrief.md), and [choose the next test](../../skills/customer-interview-planner/assets/next-test.md).
+
 [Summary](#the-mom-test-summary) · [Three rules](#the-three-rules-in-practice) · [Interview questions](#customer-interview-questions-move-from-opinions-to-incidents) · [Commitment](#compliments-interest-and-commitment) · [Worked example](#worked-example-the-calendar-was-not-the-starting-point) · [FAQ](#frequently-asked-questions)
 
 [All books](../README.md) · [Interview template](interview-plan.md) · [Worked example](worked-example.md) · [Question checklist](question-checklist.md) · [AI skill](../../skills/customer-interview-planner/SKILL.md)
@@ -44,7 +46,7 @@ The book's three central rules, paraphrased, are to focus on the customer's situ
 | Ask about a real event | Anchor the discussion in one recent incident, then follow its sequence. | The answer describes an ideal future without a concrete example. |
 | Leave room for the answer | Ask a short question, pause, and follow up on what you heard. | You finish the participant's sentence or suggest the answer. |
 
-There is no need to turn listening into a speaking-time quota. A short clarification can be useful; a long answer can still contain little evidence. Judge the substance of the conversation.
+Listen for a sequence you can reconstruct. A short clarification is more useful than silently accepting a vague answer.
 
 ## Customer interview questions: move from opinions to incidents
 
@@ -116,7 +118,7 @@ The sensible next move is to investigate that coordination problem. It would be 
 | No buying behavior was observed | Willingness to pay remains unknown. |
 | Only one fictional participant is described | This demonstrates a method, not market evidence. |
 
-The [completed example plan](worked-example.md) shows the objective, prompts, evidence fields, and next decision together.
+The [completed example](worked-example.md) fills every field in the interview template, then compares three fictional notes from two participants and completes a next-test card.
 
 <details>
 <summary>Read a short fictional conversation and its annotations</summary>
@@ -141,22 +143,15 @@ The [completed example plan](worked-example.md) shows the objective, prompts, ev
 
 **What is missing:** no verified cost, no evidence from other tutors, no comparison of existing solutions, and no buying behavior.
 
-All dialogue above is invented for this guide; it is not a passage from the book or a real interview.
-
 </details>
 
-## A checklist before your next conversation
+## From interview notes to a decision
 
-- [ ] I can name the decision this conversation should inform.
-- [ ] This participant has relevant experience, not just an opinion about the idea.
-- [ ] My opening gives context without asking for approval of a product.
-- [ ] My main prompts can produce answers that contradict my assumption.
-- [ ] I have space to record the current workaround and alternatives tried.
-- [ ] I will separate reported behavior, interpretation, and unknowns.
-- [ ] I will ask for a next step only when it makes sense for both people.
-- [ ] I know what this conversation cannot establish.
+Use the [research debrief](../../skills/customer-interview-planner/assets/research-debrief.md) to give each note an ID and separate reported behavior from interpretation. Group comparable situations before looking for patterns. A tutor communicating with a parent may face a different workflow from one scheduling directly with an adult student.
 
-Use the [question-review checklist](question-checklist.md) to revise a script before you send invitations.
+For each finding, include supporting and conflicting note IDs. If someone says an incident was unusual, retain that detail beside the incident. A pattern can justify further investigation without establishing how common it is across the market.
+
+Finish with the [next-test card](../../skills/customer-interview-planner/assets/next-test.md): identify the remaining uncertainty, the action that could resolve it, the observable signal, and what would make you stop. These are original project tools. The [playbook](../../playbooks/customer-interviews.md) takes you through preparation, the conversation, the debrief, and the decision.
 
 ## What this approach cannot tell you by itself
 
@@ -166,9 +161,9 @@ Use interviews to improve your understanding and decide what evidence to seek ne
 
 ## Use the AI skill
 
-The [Customer Interview Planner](../../skills/customer-interview-planner/SKILL.md) turns your idea, customer segment, and assumptions into an interview guide and evidence log.
+The [Customer Interview Planner](../../skills/customer-interview-planner/SKILL.md) supports interview planning, question revision, analysis of supplied notes, and next-test design. The installed folder includes the templates, question-design reference, evidence guide, and completed example.
 
-Example request:
+[Install instructions](../../skills/README.md). Example request:
 
 ```text
 Help me plan interviews with independent tutors about schedule changes.

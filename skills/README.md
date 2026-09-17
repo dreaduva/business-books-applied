@@ -6,7 +6,7 @@ Install a focused business workflow in your AI assistant. These are instructions
 
 | Skill | Use it to | Based on |
 | --- | --- | --- |
-| [Customer Interview Planner](customer-interview-planner/SKILL.md) | Prepare neutral questions, an interview plan, and an evidence log | [The Mom Test](../books/the-mom-test/README.md) |
+| [Customer Interview Planner](customer-interview-planner/SKILL.md) | Plan interviews, repair questions, analyze notes, and choose the next test | [The Mom Test](../books/the-mom-test/README.md) |
 
 ## Quick install
 
@@ -42,7 +42,7 @@ tutors about schedule changes. I suspect confirmations create admin work,
 but I have no customer evidence. Help me investigate without pitching an app.
 ```
 
-Expect a learning objective, participant criteria, interview prompts, and an evidence log using the bundled template. You still need to conduct the interviews and supply real findings.
+For planning, expect a learning objective, participant criteria, actual interview questions, and an evidence log. For existing scripts, ask for a question-by-question revision. For supplied notes, ask for a traceable debrief and next-test card. You still need to conduct the interviews and supply real findings.
 
 ## Preview or use manually
 
@@ -55,3 +55,12 @@ npx skills add dreaduva/business-books-applied --list
 For a chat assistant without skill installation, provide the [skill instructions](customer-interview-planner/SKILL.md) and [output template](customer-interview-planner/assets/interview-plan.md) as context, then describe your situation. This is manual use, not a persistent installation.
 
 The installer is the [open-source skills CLI](https://github.com/vercel-labs/skills). Packages follow the [Agent Skills format](https://agentskills.io/specification); each skill folder includes its own supporting files. Book guides and purchase links stay outside the installed skill.
+
+## Included in version 1.0
+
+- Interview plan, research debrief, and next-test templates.
+- Question-design and evidence-analysis references, loaded only when useful.
+- A fully completed fictional example, including contradictory evidence.
+- Source context and scope.
+
+The package is self-contained: its local references work without the rest of this repository. The book template and portable example are synchronized automatically to prevent divergent copies.

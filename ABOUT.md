@@ -8,7 +8,7 @@ An independent library of business-book guides, original templates, worked examp
 
 Guides explain useful ideas in our own words and identify the sources actually consulted. Original exercises are distinguished from the author's material; fictional examples are labeled. We do not invent customer evidence, personal experience, endorsements, or reviewer credits.
 
-Each guide states its source-check scope and substantial AI assistance. Publication means a resource is available, not that a person has reviewed it or that the full book has been read. Human-review credits appear only when that review has actually happened. Our guides complement the books rather than reproduce them.
+This library is prepared with AI assistance. Book pages cite their consulted sources; detailed source-check records are maintained with the catalog. Publication means a resource is available, not that a person has reviewed it or that the full book has been read. Human-review credits appear only when that review has actually happened. Our guides complement the books rather than reproduce them.
 
 To report an error, identify the passage and provide a supporting source through an issue or pull request. See [how to contribute](CONTRIBUTING.md).
 

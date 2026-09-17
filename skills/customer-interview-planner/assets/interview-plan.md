@@ -1,36 +1,44 @@
-# Interview Plan
+# Customer Interview Plan and Evidence Log
 
-## Context
+Original template from Business Books, Applied. Adapt it to the situation; it is not an official companion to *The Mom Test*.
 
-- Customer segment and relevant situation:
-- Decision to inform:
-- Learning objective:
-- Existing evidence:
-- Assumptions:
-- What would change our mind:
+## Learning objective
 
-## Participants
+- Decision this research should inform:
+- Target customer and relevant situation:
+- What we believe but have not established:
+- Evidence that would change our mind:
+
+## Participant selection
 
 - Relevant recent experience:
-- Recruitment approach and blind spots:
+- How we will recruit:
+- Perspectives this sample may miss:
+- Privacy and recording arrangements, if relevant:
 
-## Conversation
+## Conversation guide
 
-- Opening context:
-- Recent incident prompt:
-- Sequence and workaround prompts:
-- Consequences and alternatives prompts:
-- Clarifying follow-ups:
-- Closing and possible next step:
+- Opening context, without a product pitch:
+- Prompt about a recent incident:
+- Follow-up about the sequence of actions:
+- Follow-up about tools and workarounds:
+- Follow-up about time, money, or another concrete consequence:
+- Follow-up about alternatives tried:
+- Closing question and appropriate next step:
 
 ## Evidence log
 
-| Reported behavior | Source or participant | Our interpretation | Still unknown |
-| --- | --- | --- | --- |
-| | | | |
+Use an anonymized participant identifier when sharing notes.
 
-## Decision boundaries
+| Participant / date | What happened, according to the participant | Existing workaround | Consequence | Our interpretation | Still unknown |
+| --- | --- | --- | --- | --- | --- |
+| | | | | | |
 
-- What these conversations could help establish:
-- What they cannot establish:
-- Next evidence to seek:
+## Review after the conversation
+
+- What surprised us:
+- What contradicted our assumption:
+- Which questions were leading or unclear:
+- What needs a follow-up:
+- What this evidence cannot establish:
+- Next investigation and reason:

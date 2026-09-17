@@ -106,7 +106,18 @@ for path in ROOT.glob("skills/*/SKILL.md"):
     check("description: " in text.split("---", 2)[1], f"Missing skill description: {path}")
     check("amzn.to/" not in text and "?tag=" not in text, f"Affiliate link in skill: {path}")
 
-for script in ["build_catalog.py", "render_headers.py"]:
+# A skill must remain useful after installing only its own directory.
+for package in ROOT.glob("skills/*"):
+    if not (package / "SKILL.md").is_file():
+        continue
+    for resource in package.rglob("*.md"):
+        for _, url in re.findall(r"\[([^\]]+)\]\(([^\s)]+)\)", resource.read_text()):
+            parsed = urlsplit(url)
+            if not parsed.scheme and not parsed.netloc:
+                target = (resource.parent / unquote(parsed.path)).resolve() if parsed.path else resource
+                check(target.is_relative_to(package.resolve()), f"Installed skill dependency escapes package: {resource} → {url}")
+
+for script in ["build_catalog.py", "render_headers.py", "build_skill_assets.py"]:
     result = subprocess.run([sys.executable, str(ROOT / ".github/library" / script), "--check"], capture_output=True, text=True)
     if result.returncode:
         errors.append(result.stdout + result.stderr)

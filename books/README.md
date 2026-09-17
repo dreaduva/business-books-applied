@@ -6,4 +6,4 @@ Browse published guides alphabetically by title. Each book has one permanent hom
 
 | Book and author | Put an idea to work | Resources |
 | --- | --- | --- |
-| [The Mom Test](the-mom-test/README.md)<br>Rob Fitzpatrick | Customer interview guide | [Template](the-mom-test/interview-plan.md) · [Example](the-mom-test/worked-example.md) · [Checklist](the-mom-test/question-checklist.md) · [AI skill](../skills/customer-interview-planner/SKILL.md) |
+| [The Mom Test](the-mom-test/README.md)<br>Rob Fitzpatrick | Interview plan, evidence debrief, and next test | [Template](the-mom-test/interview-plan.md) · [Example](the-mom-test/worked-example.md) · [Checklist](the-mom-test/question-checklist.md) · [AI skill](../skills/customer-interview-planner/SKILL.md) |

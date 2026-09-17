@@ -1,6 +1,6 @@
 # The Mom Test Worked Example: Tutor Scheduling
 
-[Book guide](README.md) · [Blank interview plan](interview-plan.md) · [Playbook](../../playbooks/customer-interviews.md)
+[Blank interview plan](../assets/interview-plan.md) · [Evidence and decisions](evidence-and-decisions.md)
 
 **Fictional teaching example.** Every participant, conversation, note, and result below is invented to demonstrate the workflow. This is original project material, not a case from the book. The completed plan follows the fields in the blank template.
 
@@ -30,7 +30,7 @@
 
 ## Evidence log
 
-The rows below are fictional notes, not measured outcomes. A and B refer to different invented participants. The dialogue for A appears in the [book guide](README.md#worked-example-the-calendar-was-not-the-starting-point).
+The rows below are fictional notes, not measured outcomes. A and B refer to different invented participants.
 
 | Participant / date | What happened, according to the participant | Existing workaround | Consequence | Our interpretation | Still unknown |
 | --- | --- | --- | --- | --- | --- |
@@ -84,4 +84,4 @@ The critical contrast is **N1 versus N2**: an awkward event happened, but the sa
 - **Owner and review point:** the fictional founder, when the workflow review is complete.
 - **Result, completed after the test:** not run. There is no result to report.
 
-[Copy the blank plan](interview-plan.md) · [Use the research debrief](../../skills/customer-interview-planner/assets/research-debrief.md) · [Use the next-test card](../../skills/customer-interview-planner/assets/next-test.md)
+[Copy the blank plan](../assets/interview-plan.md) · [Use the research debrief](../assets/research-debrief.md) · [Use the next-test card](../assets/next-test.md)

@@ -273,7 +273,7 @@
     "category": "Startups and discovery",
     "status": "published",
     "guide_path": "books/the-mom-test/README.md",
-    "application_resource": "Customer interview guide",
+    "application_resource": "Interview plan, evidence debrief, and next test",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -289,6 +289,13 @@
       "Example": "books/the-mom-test/worked-example.md",
       "Checklist": "books/the-mom-test/question-checklist.md",
       "AI skill": "skills/customer-interview-planner/SKILL.md"
+    },
+    "completion": {
+      "version": "1.0.0",
+      "status": "complete",
+      "scope": "Independent applied customer-interview toolkit: prepare, revise questions, analyze supplied notes, choose next test.",
+      "evaluation": "Four same-assistant synthetic scenario exercises; package installed and checked for Claude Code and Codex. No independent comparative or customer outcome claim.",
+      "affiliate": "Deferred by owner; not a v1 completion requirement."
     }
   },
   {
