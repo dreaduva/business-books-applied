@@ -1326,18 +1326,35 @@
     "author": "Gabriel Weinberg; Justin Mares",
     "slug": "traction-gabriel-weinberg",
     "category": "Marketing and growth",
-    "status": "planned",
-    "guide_path": null,
-    "application_resource": "Acquisition-channel experiment plan",
+    "status": "published",
+    "guide_path": "books/traction-gabriel-weinberg/README.md",
+    "application_resource": "Acquisition Channel Test Plan",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
-      "ai_assisted": null,
+      "ai_assisted": true,
       "human_reviewer": null,
       "reviewed_on": null,
-      "source_scope": null
+      "source_scope": "Public primary sources: https://www.penguinrandomhouse.com/books/319121/traction-by-gabriel-weinberg-and-justin-mares/. Original application; no full-book or human expert review claimed.",
+      "source_checked_on": "2026-09-17"
     },
-    "resources": {}
+    "resources": {
+      "Worksheet": "books/traction-gabriel-weinberg/worksheet.md",
+      "Example": "books/traction-gabriel-weinberg/worked-example.md",
+      "AI skill": "skills/acquisition-channel-testing/SKILL.md"
+    },
+    "official_url": "https://www.penguinrandomhouse.com/books/319121/traction-by-gabriel-weinberg-and-justin-mares/",
+    "completion": {
+      "version": "1.0.0",
+      "status": "complete",
+      "scope": "Acquisition Channel Test Plan",
+      "evaluation": "Skill format, repository integrity, portable resource synchronization, isolated installation, and authored scenario review; no independent comparative benchmark."
+    },
+    "toolkit": {
+      "skill": "acquisition-channel-testing",
+      "title": "Acquisition Channel Testing",
+      "artifact": "Acquisition Channel Test Plan"
+    }
   },
   {
     "id": 69,
