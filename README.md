@@ -27,7 +27,7 @@ Then ask your assistant:
 Read a guide, copy a template, or follow a completed example. No installation needed.
 
 <!-- LIBRARY:START -->
-**5 published guides · 95 titles in the planned collection.** Every resource below is available now.
+**6 published guides · 94 titles in the planned collection.** Every resource below is available now.
 
 [A–Z book index](books/README.md) · [Planned collection](books/roadmap.md)
 
@@ -57,6 +57,15 @@ Read a guide, copy a template, or follow a completed example. No installation ne
 | --- | --- | --- |
 | [Building a StoryBrand](books/building-a-storybrand/README.md)<br>Donald Miller | Landing-Page Messaging Brief | [Worksheet](books/building-a-storybrand/worksheet.md) · [Example](books/building-a-storybrand/worked-example.md) · [AI skill](skills/landing-page-messaging/SKILL.md) |
 | [Traction](books/traction-gabriel-weinberg/README.md)<br>Gabriel Weinberg; Justin Mares | Acquisition Channel Test Plan | [Worksheet](books/traction-gabriel-weinberg/worksheet.md) · [Example](books/traction-gabriel-weinberg/worked-example.md) · [AI skill](skills/acquisition-channel-testing/SKILL.md) |
+
+</details>
+
+<details>
+<summary><strong>Sales and communication</strong> · 1 guide</summary>
+
+| Book and author | Put an idea to work | Resources |
+| --- | --- | --- |
+| [$100M Offers](books/100m-offers/README.md)<br>Alex Hormozi | Offer Design Brief | [Worksheet](books/100m-offers/worksheet.md) · [Example](books/100m-offers/worked-example.md) · [AI skill](skills/offer-design/SKILL.md) |
 
 </details>
 

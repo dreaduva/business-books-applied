@@ -321,18 +321,35 @@
     "author": "Alex Hormozi",
     "slug": "100m-offers",
     "category": "Sales and communication",
-    "status": "planned",
-    "guide_path": null,
-    "application_resource": "Offer assumptions worksheet",
+    "status": "published",
+    "guide_path": "books/100m-offers/README.md",
+    "application_resource": "Offer Design Brief",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
-      "ai_assisted": null,
+      "ai_assisted": true,
       "human_reviewer": null,
       "reviewed_on": null,
-      "source_scope": null
+      "source_scope": "Public primary sources: https://shop.acquisition.com/products/100m-offers-hardcover; https://www.acquisition.com/hubfs/Offer%20Checklists%20-%20PDF%20Downloads/Pricing-Value-Checklist.pdf?hsLang=en. Original application; no full-book or human expert review claimed.",
+      "source_checked_on": "2026-09-17"
     },
-    "resources": {}
+    "resources": {
+      "Worksheet": "books/100m-offers/worksheet.md",
+      "Example": "books/100m-offers/worked-example.md",
+      "AI skill": "skills/offer-design/SKILL.md"
+    },
+    "official_url": "https://shop.acquisition.com/products/100m-offers-hardcover",
+    "completion": {
+      "version": "1.0.0",
+      "status": "complete",
+      "scope": "Offer Design Brief",
+      "evaluation": "Skill format, repository integrity, portable resource synchronization, isolated installation, and authored scenario review; no independent comparative benchmark."
+    },
+    "toolkit": {
+      "skill": "offer-design",
+      "title": "Offer Design",
+      "artifact": "Offer Design Brief"
+    }
   },
   {
     "id": 17,
