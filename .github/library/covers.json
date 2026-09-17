@@ -9,5 +9,15 @@
     "edition": "Original English edition, ISBN 9781492180746",
     "checked_on": "2026-09-17",
     "note": "HTTP 200 image/jpeg verified; visually checked pink The Mom Test cover, 180 by 277 pixels."
+  },
+  "the-lean-startup": {
+    "status": "service-embed",
+    "image_url": "https://covers.openlibrary.org/b/isbn/9780307887894-M.jpg?default=false",
+    "source_url": "https://openlibrary.org/isbn/9780307887894",
+    "credit": "via Open Library; artwork remains the property of its respective rights holders",
+    "permission_basis": "Direct small editorial cover embed following documented service guidelines; not a copyright license or local redistribution.",
+    "permission_evidence_url": "https://openlibrary.org/dev/docs/api/covers",
+    "edition": "ISBN 9780307887894",
+    "checked_on": "2026-09-17"
   }
 }

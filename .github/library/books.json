@@ -119,18 +119,35 @@
     "author": "Eric Ries",
     "slug": "the-lean-startup",
     "category": "Startups and discovery",
-    "status": "planned",
-    "guide_path": null,
-    "application_resource": "Experiment plan and decision log",
+    "status": "published",
+    "guide_path": "books/the-lean-startup/README.md",
+    "application_resource": "Startup Experiment Plan",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
-      "ai_assisted": null,
+      "ai_assisted": true,
       "human_reviewer": null,
       "reviewed_on": null,
-      "source_scope": null
+      "source_scope": "Public primary sources: https://theleanstartup.com/principles; https://www.penguinrandomhouse.com/books/210088/the-lean-startup-by-eric-ries/. Original application; no full-book or human expert review claimed.",
+      "source_checked_on": "2026-09-17"
     },
-    "resources": {}
+    "resources": {
+      "Worksheet": "books/the-lean-startup/worksheet.md",
+      "Example": "books/the-lean-startup/worked-example.md",
+      "AI skill": "skills/startup-experiment-planner/SKILL.md"
+    },
+    "official_url": "https://theleanstartup.com/",
+    "completion": {
+      "version": "1.0.0",
+      "status": "complete",
+      "scope": "Startup Experiment Plan",
+      "evaluation": "Skill format, repository integrity, portable resource synchronization, isolated installation, and authored scenario review; no independent comparative benchmark."
+    },
+    "toolkit": {
+      "skill": "startup-experiment-planner",
+      "title": "Startup Experiment Planner",
+      "artifact": "Startup Experiment Plan"
+    }
   },
   {
     "id": 8,

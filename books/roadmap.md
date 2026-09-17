@@ -2,7 +2,7 @@
 
 [Home](../README.md) · [Published guides](README.md) · [Selection methodology](../ABOUT.md#the-collection)
 
-The collection currently contains 100 selected titles. The 99 entries below are planned or in development, not published summaries. This is a curated reading list, not an all-time sales ranking. No publication dates are promised.
+The collection currently contains 100 selected titles. The 98 entries below are planned or in development, not published summaries. This is a curated reading list, not an all-time sales ranking. No publication dates are promised.
 
 [Startups and discovery](#startups-and-discovery) · [Strategy and business models](#strategy-and-business-models) · [Product and innovation](#product-and-innovation) · [Marketing and growth](#marketing-and-growth) · [Sales and communication](#sales-and-communication) · [Money and operations](#money-and-operations) · [Leadership and teams](#leadership-and-teams) · [Productivity and execution](#productivity-and-execution) · [Founder stories and judgment](#founder-stories-and-judgment)
 
@@ -15,7 +15,6 @@ The collection currently contains 100 selected titles. The 99 entries below are 
 | Running Lean | Ash Maurya | Planned |
 | The Art of the Start 2.0 | Guy Kawasaki | Planned |
 | The Four Steps to the Epiphany | Steve Blank | Planned |
-| The Lean Startup | Eric Ries | Planned |
 | The Startup Checklist | David S. Rose | Planned |
 | The Startup Owner's Manual | Steve Blank; Bob Dorf | Planned |
 | The Startup Playbook | David S. Kidder | Planned |
