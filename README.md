@@ -1,43 +1,79 @@
 # Business Books, Applied
 
-**Business book summaries, practical playbooks, and AI skills.**
+### Read the idea. Put it to work.
 
-Turn a useful idea into a decision, an experiment, or a better way of working. This free library is being built around 100 business books, with original explanations, editable templates, and worked examples.
+**Business book summaries, practical templates, worked examples, and AI skills.** A free library for people building products, running teams, and making better business decisions.
 
-[Browse the books](books/README.md) · [Find a playbook](playbooks/README.md) · [Use an AI skill](skills/README.md) · [How we write](docs/editorial-standards.md)
+[**Browse the library**](#browse-the-library) · [**Solve a problem**](#solve-a-problem) · [**Use an AI skill**](#use-an-ai-skill)
 
-## Start with a problem
+---
 
-| You want to… | Start here | Take away |
+## Start with The Mom Test
+
+Preparing customer interviews? Learn to ask about real behavior, spot weak evidence, and plan your next conversation.
+
+| Read | Apply | See it done | Prepare with AI |
+| --- | --- | --- | --- |
+| [Summary and interview questions](books/the-mom-test/README.md) | [Copy the interview template](books/the-mom-test/templates/interview-plan.md) | [Tutor-scheduling example](books/the-mom-test/examples/tutor-scheduling.md) | [Customer Interview Planner](skills/customer-interview-planner/SKILL.md) |
+
+The worked example is fictional and clearly labeled. The template is original project material, ready to copy into your own notes.
+
+## Browse the library
+
+Find a book by its main subject. Open its guide for the cover, summary, practical lessons, sources, and complete resource menu.
+
+<!-- LIBRARY:START -->
+**1 published guide · 99 titles in the planned collection.** Every resource below is available now.
+
+[A–Z book index](books/README.md) · [Browse topics](topics/README.md) · [Planned collection](books/roadmap.md)
+
+<details open>
+<summary><strong>Startups and discovery</strong> · 1 guide</summary>
+
+| Book and author | Put an idea to work | Resources |
 | --- | --- | --- |
-| Ask better customer questions | [The Mom Test: summary and interview questions](books/the-mom-test/README.md) | A conversation plan and an evidence log |
-| Investigate a startup idea | [Plan your first customer interviews](playbooks/customer-interviews.md) | A sequence you can follow before building |
-| Prepare with an AI assistant | [Customer Interview Planner](skills/customer-interview-planner/SKILL.md) | Questions that explore behavior without pitching |
+| [The Mom Test](books/the-mom-test/README.md)<br>Rob Fitzpatrick | Customer interview guide | [Template](books/the-mom-test/templates/interview-plan.md) · [Example](books/the-mom-test/examples/tutor-scheduling.md) · [Checklist](books/the-mom-test/question-checklist.md) · [AI skill](skills/customer-interview-planner/SKILL.md) |
 
-## Browse by subject
+</details>
 
-[Startups and discovery](books/README.md#startups-and-discovery) · [Strategy and business models](books/README.md#strategy-and-business-models) · [Product and innovation](books/README.md#product-and-innovation) · [Marketing and growth](books/README.md#marketing-and-growth) · [Sales and communication](books/README.md#sales-and-communication) · [Money and operations](books/README.md#money-and-operations) · [Leadership and teams](books/README.md#leadership-and-teams) · [Productivity and execution](books/README.md#productivity-and-execution) · [Founder stories and judgment](books/README.md#founder-stories-and-judgment)
+<!-- LIBRARY:END -->
 
-The catalog contains 100 selected titles. **The Mom Test guide is published**, with a cover, original exercises, a worked conversation, and an AI skill. The remaining titles are planned. Each guide explains its sources and use of AI; publication does not imply human expert review.
+## Solve a problem
 
-## See an idea applied
+Start with the task when you do not have a particular book in mind. Playbooks connect reading to a sequence you can follow.
 
-A fictional founder is considering appointment software for independent tutors. Start with the [completed interview-planning example](examples/tutor-scheduling/customer-interview-plan.md), then copy the [blank template](templates/customer-interview-plan.md) for your own business.
+| Your task | Start here | Leave with |
+| --- | --- | --- |
+| Plan customer-discovery interviews | [Customer interview playbook](playbooks/customer-interviews.md) | A learning objective, neutral prompts, and an evidence log |
+| Improve an existing interview script | [Question-review checklist](books/the-mom-test/question-checklist.md) | Questions that leave room for an unexpected answer |
 
-The example distinguishes assumptions, fictional observations, and the next decision. It is a teaching example, not evidence that the business would succeed.
+[All playbooks](playbooks/README.md)
 
-## What is in a book guide?
+## Use an AI skill
 
-A concise summary, a useful application, a worked example, limitations, and links to the relevant template and AI skill. Some books will support a practical workflow; biographies will focus on decisions, context, and lessons that may not generalize.
+Give your assistant a practical procedure for the task. Begin with the [Customer Interview Planner](skills/customer-interview-planner/SKILL.md), supply the skill instructions and its linked output template, then add your situation:
 
-The book catalog is a curated selection, not a verified ranking of the 100 best-selling business books of all time. See the [selection methodology](docs/book-selection.md).
+```text
+Help me plan interviews with independent tutors about schedule changes.
+I suspect confirmations create admin work, but I have no customer evidence.
+Prepare questions that investigate the current process without pitching an app.
+```
 
-## Contribute
+For assistants that import skill folders, include the whole folder and follow that assistant's installation instructions. [Browse skills and usage guidance](skills/README.md).
 
-Found a weak question, an unsupported claim, or an example that does not work? See [CONTRIBUTING.md](CONTRIBUTING.md). Small, specific corrections are welcome.
+## What to expect
 
-Original project material is [MIT licensed](LICENSE). Book text, covers, trademarks, and other third-party material retain their owners' rights. This project is independent of the authors and publishers.
+- **One home per book:** the guide, original templates, and worked examples stay together.
+- **Useful explanations:** summaries lead to questions, decisions, and exercises you can apply.
+- **Clear sources:** each guide identifies consulted materials, limitations, and AI assistance.
+- **A growing collection:** the original selection covers 100 books. Planned titles are kept separate from finished guides; it is not a verified all-time bestseller ranking.
 
-**Affiliate status:** Amazon affiliate links are not active. When enabled, each relevant book guide will display a clearly labeled link and a nearby disclosure. See the [affiliate and cover policy](docs/affiliate-and-cover-policy.md).
+[How we write](docs/editorial-standards.md) · [How books are selected](docs/book-selection.md)
 
-[Implementation plan](docs/implementation-plan.md) · [SEO research and limitations](docs/seo-strategy.md) · [Maintainer guide](docs/maintaining.md)
+## Help improve the library
+
+A clearer explanation, a better question, or a sourced correction can make a guide more useful. Read [the contribution guide](CONTRIBUTING.md) to help.
+
+Original project material is [MIT licensed](LICENSE). Book covers, quotations, and other third-party material retain their owners' rights. This project is independent of the authors and publishers.
+
+Amazon affiliate links are not active. If enabled, they will be clearly labeled on the relevant book pages. [Affiliate and cover policy](docs/affiliate-and-cover-policy.md).

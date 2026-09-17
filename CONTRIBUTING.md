@@ -14,13 +14,13 @@ Follow the [editorial standards](docs/editorial-standards.md). Disclose substant
 
 ## Add a book guide
 
-Use [the guide template](docs/book-guide-template.md) and the book's entry in [the editorial keyword briefs](docs/keyword-briefs.md). Keep the stable catalog ID. Disambiguate identical titles with the author; the two books titled *Traction* are separate works.
+Use [the guide template](docs/book-guide-template.md) and the book's entry in [the planned collection](books/roadmap.md). Keep the stable catalog ID. Disambiguate identical titles with the author; the two books titled *Traction* are separate works.
 
 Create a guide only when it contains useful original material. Planned titles stay in the catalog without empty book pages. Human review, source checking, and cover rights are recorded separately in the catalog.
 
 ## Propose a different book
 
-Include the title, author, edition, why it belongs, and dated evidence of popularity. Explain which existing title it would replace and why. A change to the 100-book scope needs a recorded editorial decision.
+Include the title, author, edition, why it belongs, and dated evidence of popularity. Explain how it extends the collection. Additions and replacements need a recorded editorial decision.
 
 ## Rights
 

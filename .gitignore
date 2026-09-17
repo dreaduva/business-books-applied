@@ -9,3 +9,12 @@ node_modules/
 private/
 *.key
 *.pem
+
+# Local authoring and agent workspace; usable public skills stay under skills/.
+AGENTS.md
+CLAUDE.md
+.codex/
+.agents/
+.claude/
+research/
+outputs/

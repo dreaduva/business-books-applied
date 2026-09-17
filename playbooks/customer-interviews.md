@@ -22,7 +22,7 @@ Before the conversation, run each prompt through the [question-review checklist]
 
 ## 4. Capture what you heard without turning it into a feature request
 
-Copy the [interview plan and evidence log](../templates/customer-interview-plan.md). Use separate fields for observed or reported behavior, your interpretation, and unanswered questions. Do not manufacture a quote to make your notes look complete.
+Copy the [interview plan and evidence log](../books/the-mom-test/templates/interview-plan.md). Use separate fields for observed or reported behavior, your interpretation, and unanswered questions. Do not manufacture a quote to make your notes look complete.
 
 ## 5. Choose the next investigation
 
@@ -32,6 +32,6 @@ Decide what would change your mind before collecting more evidence. Avoid callin
 
 ## See the finished artifact
 
-[Tutor scheduling: completed interview plan](../examples/tutor-scheduling/customer-interview-plan.md) is an explicitly fictional example. It shows how a founder can narrow a question without pretending the market has been proven.
+[Tutor scheduling: completed interview plan](../books/the-mom-test/examples/tutor-scheduling.md) is an explicitly fictional example. It shows how a founder can narrow a question without pretending the market has been proven.
 
 To prepare with an assistant, use the [Customer Interview Planner skill](../skills/customer-interview-planner/SKILL.md). Read the [underlying book guide](../books/the-mom-test/README.md) for the source context and limitations.

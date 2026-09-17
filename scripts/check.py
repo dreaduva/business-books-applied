@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Check catalog integrity, internal navigation, publication metadata, and generated content."""
+import argparse
 import json
 import re
 import subprocess
@@ -8,6 +9,7 @@ from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
 from render_headers import safe_url
+from build_catalog import CATEGORIES
 
 ROOT = Path(__file__).resolve().parents[1]
 errors = []
@@ -30,24 +32,36 @@ def anchors(text):
 
 
 books = json.loads((ROOT / "catalog/books.json").read_text())
-research = json.loads((ROOT / "catalog/keywords.json").read_text())
+parser = argparse.ArgumentParser(description=__doc__)
+parser.add_argument("--research", action="store_true", help="Also validate ignored local keyword evidence")
+args = parser.parse_args()
+research = json.loads((ROOT / "private/catalog/keywords.json").read_text()) if args.research else None
 covers = json.loads((ROOT / "config/covers.json").read_text())
 affiliate = json.loads((ROOT / "config/affiliate-links.json").read_text())
-check(len(books) == 100, "Catalog must preserve exactly 100 books.")
-check(len({b["id"] for b in books}) == 100, "Duplicate catalog ID.")
-check(len({b["slug"] for b in books}) == 100, "Duplicate book slug; disambiguate identical titles.")
+check(set(range(1, 101)).issubset({b["id"] for b in books}), "Preserve the original 100 catalog IDs.")
+check(len({b["id"] for b in books}) == len(books), "Duplicate catalog ID.")
+check(len({b["slug"] for b in books}) == len(books), "Duplicate book slug; disambiguate identical titles.")
 ids = {b["id"] for b in books}
-for q in research["queries"]:
-    check(q["id"] in ids, f"Unknown keyword book ID: {q['id']}")
-    if q["volume"] is not None:
-        check(isinstance(q["volume"], (int, float)) and q["volume"] >= 0, "Invalid search estimate.")
-        check(q["status"] == "Provider estimate" and bool(q["url"]), "Numerical estimate lacks provenance.")
-measured = [q for q in research["queries"] if q["volume"] is not None]
-check(len(measured) == research["stats"]["measured"], "Research measured-row count is stale.")
-check(len(research["queries"]) == research["stats"]["keywords"], "Research keyword count is stale.")
-check(len({q["id"] for q in measured}) == research["stats"]["booksWithEstimates"], "Research book coverage count is stale.")
+if research is not None:
+    for q in research["queries"]:
+        check(q["id"] in ids, f"Unknown keyword book ID: {q['id']}")
+        if q["volume"] is not None:
+            check(isinstance(q["volume"], (int, float)) and q["volume"] >= 0, "Invalid search estimate.")
+            check(q["status"] == "Provider estimate" and bool(q["url"]), "Numerical estimate lacks provenance.")
+    measured = [q for q in research["queries"] if q["volume"] is not None]
+    check(len(measured) == research["stats"]["measured"], "Research measured-row count is stale.")
+    check(len(research["queries"]) == research["stats"]["keywords"], "Research keyword count is stale.")
+    check(len({q["id"] for q in measured}) == research["stats"]["booksWithEstimates"], "Research book coverage count is stale.")
 
 for book in books:
+    check(book["category"] in CATEGORIES, f"Unknown category: {book['slug']}")
+    check(re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", book["slug"]), "Unsafe book slug")
+    check(not any(k in book for k in ["primary_query", "primary_query_estimate", "application_query", "source_keyword"]), "Private SEO fields in public catalog")
+    for label, resource in book.get("resources", {}).items():
+        target = (ROOT / resource).resolve()
+        check(target.is_relative_to(ROOT) and target.is_file(), f"Missing or unsafe resource: {resource}")
+    if book.get("guide_path"):
+        check(book["guide_path"] == f"books/{book['slug']}/README.md", "Guide must have its canonical book home")
     check(book["status"] in {"planned", "draft", "published"}, f"Invalid status: {book['slug']}")
     path = book.get("guide_path")
     if book["status"] != "planned":
@@ -67,7 +81,7 @@ for slug, url in affiliate["links"].items():
 if affiliate["enabled"]:
     check(all(affiliate.get(k) for k in ["marketplace", "site_registered", "account_confirmed"]), "Affiliate account confirmation incomplete.")
 
-markdown = list(ROOT.rglob("*.md"))
+markdown = [p for p in ROOT.rglob("*.md") if not set(p.relative_to(ROOT).parts) & {"private", ".git", "node_modules", ".venv"}]
 for path in markdown:
     text = path.read_text()
     # Ignore code blocks when checking navigable links and heading anchors.
@@ -78,6 +92,7 @@ for path in markdown:
         if parsed.scheme or parsed.netloc:
             continue
         target = (path.parent / unquote(parsed.path)).resolve() if parsed.path else path
+        check("private" not in target.relative_to(ROOT).parts if target.is_relative_to(ROOT) else False, f"Public link targets private material: {url}")
         check(target.is_relative_to(ROOT), f"Link escapes repository: {path.relative_to(ROOT)} → {url}")
         check(target.is_file(), f"Broken or directory-only link: {path.relative_to(ROOT)} → {url}")
         if parsed.fragment and target.is_file() and target.suffix == ".md":
@@ -99,4 +114,6 @@ for script in ["build_catalog.py", "render_headers.py"]:
 if errors:
     print("\n".join("ERROR: " + e for e in errors))
     raise SystemExit(1)
-print(f"PASS: {len(books)} books, {len(research['queries'])} keyword rows, {len(markdown)} Markdown files; links, metadata, and generated content checked.")
+print(f"PASS: {len(books)} books, {len(markdown)} public Markdown files; links, metadata, and generated content checked.")
+if research is not None:
+    print(f"Private research: {len(research['queries'])} keyword rows validated.")

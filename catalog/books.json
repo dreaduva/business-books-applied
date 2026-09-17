@@ -5,19 +5,9 @@
     "author": "James Clear",
     "slug": "atomic-habits",
     "category": "Productivity and execution",
-    "original_category": "Productivity",
-    "source_keyword": "atomic habits",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/atomic-habits/README.md",
-    "proposed_heading": "Atomic Habits: Summary and habit design worksheet",
-    "primary_query": "atomic habits summary",
-    "primary_query_estimate": 6600,
-    "application_query": "atomic habits worksheet",
-    "application_query_estimate": 1600,
     "application_resource": "Habit design worksheet",
-    "proposed_skill": "habit-design",
-    "comparison_candidate": "Deep Work",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -25,7 +15,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 2,
@@ -33,19 +24,9 @@
     "author": "Robert T. Kiyosaki",
     "slug": "rich-dad-poor-dad",
     "category": "Money and operations",
-    "original_category": "Money mindset",
-    "source_keyword": "rich dad poor dad",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/rich-dad-poor-dad/README.md",
-    "proposed_heading": "Rich Dad Poor Dad: Summary and financial assumptions discussion guide",
-    "primary_query": "rich dad poor dad summary",
-    "primary_query_estimate": null,
-    "application_query": "rich dad poor dad lessons",
-    "application_query_estimate": null,
     "application_resource": "Financial assumptions discussion guide",
-    "proposed_skill": "money-beliefs-review",
-    "comparison_candidate": "The Psychology of Money",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -53,7 +34,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 3,
@@ -61,19 +43,9 @@
     "author": "Morgan Housel",
     "slug": "the-psychology-of-money",
     "category": "Money and operations",
-    "original_category": "Money mindset",
-    "source_keyword": "the psychology of money",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-psychology-of-money/README.md",
-    "proposed_heading": "The Psychology of Money: Summary and money decision reflection log",
-    "primary_query": "the psychology of money summary",
-    "primary_query_estimate": 1300,
-    "application_query": "the psychology of money lessons",
-    "application_query_estimate": null,
     "application_resource": "Money decision reflection log",
-    "proposed_skill": "money-decision-reflection",
-    "comparison_candidate": "Rich Dad Poor Dad",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -81,7 +53,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 4,
@@ -89,19 +62,9 @@
     "author": "Napoleon Hill",
     "slug": "think-and-grow-rich",
     "category": "Money and operations",
-    "original_category": "Money mindset",
-    "source_keyword": "think and grow rich",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/think-and-grow-rich/README.md",
-    "proposed_heading": "Think and Grow Rich: Summary and goal assumptions and action worksheet",
-    "primary_query": "think and grow rich summary",
-    "primary_query_estimate": null,
-    "application_query": "think and grow rich principles",
-    "application_query_estimate": 90,
     "application_resource": "Goal assumptions and action worksheet",
-    "proposed_skill": "goal-action-planning",
-    "comparison_candidate": "The Richest Man in Babylon",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -109,7 +72,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 5,
@@ -117,19 +81,9 @@
     "author": "Dale Carnegie",
     "slug": "how-to-win-friends-and-influence-people",
     "category": "Sales and communication",
-    "original_category": "Communication",
-    "source_keyword": "how to win friends and influence people",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/how-to-win-friends-and-influence-people/README.md",
-    "proposed_heading": "How to Win Friends and Influence People: Summary and conversation rehearsal guide",
-    "primary_query": "how to win friends and influence people summary",
-    "primary_query_estimate": null,
-    "application_query": "how to win friends and influence people principles",
-    "application_query_estimate": null,
     "application_resource": "Conversation rehearsal guide",
-    "proposed_skill": "conversation-practice",
-    "comparison_candidate": "Never Split the Difference",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -137,7 +91,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 6,
@@ -145,19 +100,9 @@
     "author": "Stephen R. Covey",
     "slug": "the-7-habits-of-highly-effective-people",
     "category": "Productivity and execution",
-    "original_category": "Productivity",
-    "source_keyword": "the 7 habits of highly effective people",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-7-habits-of-highly-effective-people/README.md",
-    "proposed_heading": "The 7 Habits of Highly Effective People: Summary and personal effectiveness reflection",
-    "primary_query": "the 7 habits of highly effective people summary",
-    "primary_query_estimate": null,
-    "application_query": "the 7 habits of highly effective people worksheet",
-    "application_query_estimate": null,
     "application_resource": "Personal effectiveness reflection",
-    "proposed_skill": "personal-effectiveness-review",
-    "comparison_candidate": "Atomic Habits",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -165,7 +110,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 7,
@@ -173,19 +119,9 @@
     "author": "Eric Ries",
     "slug": "the-lean-startup",
     "category": "Startups and discovery",
-    "original_category": "Startups",
-    "source_keyword": "the lean startup",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-lean-startup/README.md",
-    "proposed_heading": "The Lean Startup: Summary and experiment plan and decision log",
-    "primary_query": "the lean startup summary",
-    "primary_query_estimate": 210,
-    "application_query": "lean startup methodology",
-    "application_query_estimate": 720,
     "application_resource": "Experiment plan and decision log",
-    "proposed_skill": "startup-experiment-design",
-    "comparison_candidate": "Running Lean",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -193,7 +129,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 8,
@@ -201,19 +138,9 @@
     "author": "Peter Thiel; Blake Masters",
     "slug": "zero-to-one",
     "category": "Startups and discovery",
-    "original_category": "Startups",
-    "source_keyword": "zero to one",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/zero-to-one/README.md",
-    "proposed_heading": "Zero to One: Summary and startup differentiation questions",
-    "primary_query": "zero to one summary",
-    "primary_query_estimate": 320,
-    "application_query": "zero to one questions",
-    "application_query_estimate": null,
     "application_resource": "Startup differentiation questions",
-    "proposed_skill": "differentiation-review",
-    "comparison_candidate": "The Lean Startup",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -221,7 +148,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 9,
@@ -229,19 +157,9 @@
     "author": "Timothy Ferriss",
     "slug": "the-4-hour-workweek",
     "category": "Money and operations",
-    "original_category": "Small business",
-    "source_keyword": "the 4 hour workweek",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-4-hour-workweek/README.md",
-    "proposed_heading": "The 4-Hour Workweek: Summary and work elimination and delegation audit",
-    "primary_query": "the 4 hour workweek summary",
-    "primary_query_estimate": null,
-    "application_query": "the 4 hour workweek deal framework",
-    "application_query_estimate": null,
     "application_resource": "Work elimination and delegation audit",
-    "proposed_skill": "work-audit",
-    "comparison_candidate": "Company of One",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -249,7 +167,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 10,
@@ -257,19 +176,9 @@
     "author": "Michael E. Gerber",
     "slug": "the-e-myth-revisited",
     "category": "Money and operations",
-    "original_category": "Small business",
-    "source_keyword": "the e myth revisited",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-e-myth-revisited/README.md",
-    "proposed_heading": "The E-Myth Revisited: Summary and founder role audit",
-    "primary_query": "the e myth revisited summary",
-    "primary_query_estimate": null,
-    "application_query": "the e myth revisited technician manager entrepreneur",
-    "application_query_estimate": null,
     "application_resource": "Founder role audit",
-    "proposed_skill": "founder-role-review",
-    "comparison_candidate": "Built to Sell",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -277,7 +186,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 11,
@@ -285,19 +195,9 @@
     "author": "Ben Horowitz",
     "slug": "the-hard-thing-about-hard-things",
     "category": "Leadership and teams",
-    "original_category": "Leadership",
-    "source_keyword": "the hard thing about hard things",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-hard-thing-about-hard-things/README.md",
-    "proposed_heading": "The Hard Thing About Hard Things: Summary and difficult management decision brief",
-    "primary_query": "the hard thing about hard things summary",
-    "primary_query_estimate": null,
-    "application_query": "the hard thing about hard things lessons",
-    "application_query_estimate": null,
     "application_resource": "Difficult management decision brief",
-    "proposed_skill": "management-decision-review",
-    "comparison_candidate": "High Output Management",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -305,7 +205,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 12,
@@ -313,19 +214,9 @@
     "author": "Simon Sinek",
     "slug": "start-with-why",
     "category": "Leadership and teams",
-    "original_category": "Leadership",
-    "source_keyword": "start with why",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/start-with-why/README.md",
-    "proposed_heading": "Start with Why: Summary and purpose and messaging brief",
-    "primary_query": "start with why summary",
-    "primary_query_estimate": null,
-    "application_query": "start with why golden circle",
-    "application_query_estimate": 170,
     "application_resource": "Purpose and messaging brief",
-    "proposed_skill": "purpose-messaging",
-    "comparison_candidate": "Building a StoryBrand",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -333,7 +224,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 13,
@@ -341,19 +233,9 @@
     "author": "Jim Collins",
     "slug": "good-to-great",
     "category": "Strategy and business models",
-    "original_category": "Strategy",
-    "source_keyword": "good to great",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/good-to-great/README.md",
-    "proposed_heading": "Good to Great: Summary and business feedback-loop sketch",
-    "primary_query": "good to great summary",
-    "primary_query_estimate": null,
-    "application_query": "good to great flywheel",
-    "application_query_estimate": 210,
     "application_resource": "Business feedback-loop sketch",
-    "proposed_skill": "flywheel-mapping",
-    "comparison_candidate": "Good Strategy Bad Strategy",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -361,7 +243,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 14,
@@ -369,19 +252,9 @@
     "author": "Cal Newport",
     "slug": "deep-work",
     "category": "Productivity and execution",
-    "original_category": "Productivity",
-    "source_keyword": "deep work book",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/deep-work/README.md",
-    "proposed_heading": "Deep Work: Summary and focus session plan and review",
-    "primary_query": "deep work book summary",
-    "primary_query_estimate": null,
-    "application_query": "deep work rules",
-    "application_query_estimate": 40,
     "application_resource": "Focus session plan and review",
-    "proposed_skill": "focus-planning",
-    "comparison_candidate": "Essentialism",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -389,7 +262,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 15,
@@ -397,19 +271,9 @@
     "author": "Rob Fitzpatrick",
     "slug": "the-mom-test",
     "category": "Startups and discovery",
-    "original_category": "Customer research",
-    "source_keyword": "the mom test",
     "status": "published",
     "guide_path": "books/the-mom-test/README.md",
-    "proposed_guide_path": "books/the-mom-test/README.md",
-    "proposed_heading": "The Mom Test: Summary and Customer Interview Questions",
-    "primary_query": "the mom test summary",
-    "primary_query_estimate": 90,
-    "application_query": "the mom test questions",
-    "application_query_estimate": 30,
     "application_resource": "Customer interview guide",
-    "proposed_skill": "customer-interview-planner",
-    "comparison_candidate": "The Lean Startup",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -419,7 +283,13 @@
       "source_scope": "Public author book page and teacher resources, author interview with SaaS Club, bibliographic record; original applications checked for consistency. No full-book or human expert review claimed.",
       "source_checked_on": "2026-09-17"
     },
-    "official_url": "https://www.momtestbook.com/"
+    "official_url": "https://www.momtestbook.com/",
+    "resources": {
+      "Template": "books/the-mom-test/templates/interview-plan.md",
+      "Example": "books/the-mom-test/examples/tutor-scheduling.md",
+      "Checklist": "books/the-mom-test/question-checklist.md",
+      "AI skill": "skills/customer-interview-planner/SKILL.md"
+    }
   },
   {
     "id": 16,
@@ -427,19 +297,9 @@
     "author": "Alex Hormozi",
     "slug": "100m-offers",
     "category": "Sales and communication",
-    "original_category": "Sales",
-    "source_keyword": "100m offers",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/100m-offers/README.md",
-    "proposed_heading": "$100M Offers: Summary and offer assumptions worksheet",
-    "primary_query": "100m offers summary",
-    "primary_query_estimate": null,
-    "application_query": "100m offers value equation",
-    "application_query_estimate": null,
     "application_resource": "Offer assumptions worksheet",
-    "proposed_skill": "offer-design",
-    "comparison_candidate": "Monetizing Innovation",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -447,7 +307,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 17,
@@ -455,19 +316,9 @@
     "author": "Alex Hormozi",
     "slug": "100m-leads",
     "category": "Marketing and growth",
-    "original_category": "Marketing",
-    "source_keyword": "100m leads",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/100m-leads/README.md",
-    "proposed_heading": "$100M Leads: Summary and lead-generation experiment plan",
-    "primary_query": "100m leads summary",
-    "primary_query_estimate": null,
-    "application_query": "100m leads core four",
-    "application_query_estimate": null,
     "application_resource": "Lead-generation experiment plan",
-    "proposed_skill": "lead-experiment-planning",
-    "comparison_candidate": "Traction by Gabriel Weinberg",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -475,7 +326,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 18,
@@ -483,19 +335,9 @@
     "author": "Alex Hormozi",
     "slug": "100m-money-models",
     "category": "Strategy and business models",
-    "original_category": "Business models",
-    "source_keyword": "100m money models",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/100m-money-models/README.md",
-    "proposed_heading": "$100M Money Models: Summary and offer sequence hypothesis map",
-    "primary_query": "100m money models summary",
-    "primary_query_estimate": null,
-    "application_query": "100m money models examples",
-    "application_query_estimate": null,
     "application_resource": "Offer sequence hypothesis map",
-    "proposed_skill": "offer-sequence-planning",
-    "comparison_candidate": "$100M Offers",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -503,7 +345,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 19,
@@ -511,19 +354,9 @@
     "author": "Josh Kaufman",
     "slug": "the-personal-mba",
     "category": "Strategy and business models",
-    "original_category": "Business fundamentals",
-    "source_keyword": "the personal mba",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-personal-mba/README.md",
-    "proposed_heading": "The Personal MBA: Summary and business fundamentals diagnostic",
-    "primary_query": "the personal mba summary",
-    "primary_query_estimate": null,
-    "application_query": "the personal mba concepts",
-    "application_query_estimate": null,
     "application_resource": "Business fundamentals diagnostic",
-    "proposed_skill": "business-fundamentals-review",
-    "comparison_candidate": "The $100 Startup",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -531,7 +364,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 20,
@@ -539,19 +373,9 @@
     "author": "Mike Michalowicz",
     "slug": "profit-first",
     "category": "Money and operations",
-    "original_category": "Small business",
-    "source_keyword": "profit first",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/profit-first/README.md",
-    "proposed_heading": "Profit First: Summary and editable allocation scenario worksheet",
-    "primary_query": "profit first summary",
-    "primary_query_estimate": null,
-    "application_query": "profit first percentages",
-    "application_query_estimate": 1000,
     "application_resource": "Editable allocation scenario worksheet",
-    "proposed_skill": "allocation-scenario-review",
-    "comparison_candidate": "The E-Myth Revisited",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -559,7 +383,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 21,
@@ -567,19 +392,9 @@
     "author": "Paul Jarvis",
     "slug": "company-of-one",
     "category": "Money and operations",
-    "original_category": "Small business",
-    "source_keyword": "company of one book",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/company-of-one/README.md",
-    "proposed_heading": "Company of One: Summary and small-business capacity plan",
-    "primary_query": "company of one book summary",
-    "primary_query_estimate": null,
-    "application_query": "company of one paul jarvis lessons",
-    "application_query_estimate": null,
     "application_resource": "Small-business capacity plan",
-    "proposed_skill": "capacity-planning",
-    "comparison_candidate": "Rework",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -587,7 +402,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 22,
@@ -595,19 +411,9 @@
     "author": "Chris Guillebeau",
     "slug": "the-100-startup",
     "category": "Money and operations",
-    "original_category": "Small business",
-    "source_keyword": "the 100 startup",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-100-startup/README.md",
-    "proposed_heading": "The $100 Startup: Summary and one-page business assumptions",
-    "primary_query": "the 100 startup summary",
-    "primary_query_estimate": null,
-    "application_query": "the 100 startup one page business plan",
-    "application_query_estimate": null,
     "application_resource": "One-page business assumptions",
-    "proposed_skill": "one-page-business-plan",
-    "comparison_candidate": "Company of One",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -615,7 +421,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 23,
@@ -623,19 +430,9 @@
     "author": "Jason Fried; David Heinemeier Hansson",
     "slug": "rework",
     "category": "Money and operations",
-    "original_category": "Small business",
-    "source_keyword": "rework book",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/rework/README.md",
-    "proposed_heading": "Rework: Summary and operating assumptions review",
-    "primary_query": "rework book summary",
-    "primary_query_estimate": null,
-    "application_query": "rework jason fried principles",
-    "application_query_estimate": null,
     "application_resource": "Operating assumptions review",
-    "proposed_skill": "operating-principles-review",
-    "comparison_candidate": "Company of One",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -643,7 +440,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 24,
@@ -651,19 +449,9 @@
     "author": "M. J. DeMarco",
     "slug": "the-millionaire-fastlane",
     "category": "Strategy and business models",
-    "original_category": "Business models",
-    "source_keyword": "the millionaire fastlane",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-millionaire-fastlane/README.md",
-    "proposed_heading": "The Millionaire Fastlane: Summary and business-model reflection",
-    "primary_query": "the millionaire fastlane summary",
-    "primary_query_estimate": null,
-    "application_query": "the millionaire fastlane cents framework",
-    "application_query_estimate": null,
     "application_resource": "Business-model reflection",
-    "proposed_skill": "business-model-reflection",
-    "comparison_candidate": "Unscripted",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -671,7 +459,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 25,
@@ -679,19 +468,9 @@
     "author": "M. J. DeMarco",
     "slug": "unscripted",
     "category": "Strategy and business models",
-    "original_category": "Business models",
-    "source_keyword": "unscripted mj demarco",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/unscripted/README.md",
-    "proposed_heading": "Unscripted: Summary and autonomy and business-model reflection",
-    "primary_query": "unscripted mj demarco summary",
-    "primary_query_estimate": null,
-    "application_query": "unscripted mj demarco lessons",
-    "application_query_estimate": null,
     "application_resource": "Autonomy and business-model reflection",
-    "proposed_skill": "autonomy-review",
-    "comparison_candidate": "The Millionaire Fastlane",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -699,7 +478,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 26,
@@ -707,19 +487,9 @@
     "author": "Thomas J. Stanley; William D. Danko",
     "slug": "the-millionaire-next-door",
     "category": "Money and operations",
-    "original_category": "Money mindset",
-    "source_keyword": "the millionaire next door",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-millionaire-next-door/README.md",
-    "proposed_heading": "The Millionaire Next Door: Summary and spending beliefs discussion guide",
-    "primary_query": "the millionaire next door summary",
-    "primary_query_estimate": null,
-    "application_query": "the millionaire next door lessons",
-    "application_query_estimate": null,
     "application_resource": "Spending beliefs discussion guide",
-    "proposed_skill": "spending-beliefs-review",
-    "comparison_candidate": "The Psychology of Money",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -727,7 +497,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 27,
@@ -735,19 +506,9 @@
     "author": "George S. Clason",
     "slug": "the-richest-man-in-babylon",
     "category": "Money and operations",
-    "original_category": "Money mindset",
-    "source_keyword": "the richest man in babylon",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-richest-man-in-babylon/README.md",
-    "proposed_heading": "The Richest Man in Babylon: Summary and savings habits reflection",
-    "primary_query": "the richest man in babylon summary",
-    "primary_query_estimate": null,
-    "application_query": "the richest man in babylon principles",
-    "application_query_estimate": null,
     "application_resource": "Savings habits reflection",
-    "proposed_skill": "savings-habits-reflection",
-    "comparison_candidate": "Think and Grow Rich",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -755,7 +516,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 28,
@@ -763,19 +525,9 @@
     "author": "Eric Jorgenson",
     "slug": "the-almanack-of-naval-ravikant",
     "category": "Founder stories and judgment",
-    "original_category": "Founder mindset",
-    "source_keyword": "the almanack of naval ravikant",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-almanack-of-naval-ravikant/README.md",
-    "proposed_heading": "The Almanack of Naval Ravikant: Summary and skills and leverage inventory",
-    "primary_query": "the almanack of naval ravikant summary",
-    "primary_query_estimate": null,
-    "application_query": "the almanack of naval ravikant specific knowledge",
-    "application_query_estimate": null,
     "application_resource": "Skills and leverage inventory",
-    "proposed_skill": "skills-leverage-review",
-    "comparison_candidate": "Company of One",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -783,7 +535,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 29,
@@ -791,19 +544,9 @@
     "author": "Phil Knight",
     "slug": "shoe-dog",
     "category": "Founder stories and judgment",
-    "original_category": "Founder biography",
-    "source_keyword": "shoe dog",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/shoe-dog/README.md",
-    "proposed_heading": "Shoe Dog: Summary and founder decision case study",
-    "primary_query": "shoe dog summary",
-    "primary_query_estimate": null,
-    "application_query": "shoe dog phil knight lessons",
-    "application_query_estimate": null,
     "application_resource": "Founder decision case study",
-    "proposed_skill": "founder-case-analysis",
-    "comparison_candidate": "Grinding It Out",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -811,7 +554,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 30,
@@ -819,19 +563,9 @@
     "author": "Walter Isaacson",
     "slug": "steve-jobs",
     "category": "Founder stories and judgment",
-    "original_category": "Founder biography",
-    "source_keyword": "steve jobs book",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/steve-jobs/README.md",
-    "proposed_heading": "Steve Jobs: Summary and product leadership case study",
-    "primary_query": "steve jobs book summary",
-    "primary_query_estimate": null,
-    "application_query": "steve jobs walter isaacson lessons",
-    "application_query_estimate": null,
     "application_resource": "Product leadership case study",
-    "proposed_skill": "product-leadership-case",
-    "comparison_candidate": "Shoe Dog",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -839,7 +573,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 31,
@@ -847,19 +582,9 @@
     "author": "Walter Isaacson",
     "slug": "elon-musk",
     "category": "Founder stories and judgment",
-    "original_category": "Founder biography",
-    "source_keyword": "elon musk walter isaacson",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/elon-musk/README.md",
-    "proposed_heading": "Elon Musk: Summary and leadership tradeoff case study",
-    "primary_query": "elon musk walter isaacson summary",
-    "primary_query_estimate": null,
-    "application_query": "elon musk walter isaacson lessons",
-    "application_query_estimate": null,
     "application_resource": "Leadership tradeoff case study",
-    "proposed_skill": "leadership-tradeoff-case",
-    "comparison_candidate": "Steve Jobs by Walter Isaacson",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -867,7 +592,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 32,
@@ -875,19 +601,9 @@
     "author": "Brad Stone",
     "slug": "the-everything-store",
     "category": "Founder stories and judgment",
-    "original_category": "Founder biography",
-    "source_keyword": "the everything store",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-everything-store/README.md",
-    "proposed_heading": "The Everything Store: Summary and customer-focus decision case",
-    "primary_query": "the everything store summary",
-    "primary_query_estimate": null,
-    "application_query": "the everything store leadership lessons",
-    "application_query_estimate": null,
     "application_resource": "Customer-focus decision case",
-    "proposed_skill": "customer-focus-case",
-    "comparison_candidate": "Made in America by Sam Walton",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -895,7 +611,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 33,
@@ -903,19 +620,9 @@
     "author": "Sam Walton; John Huey",
     "slug": "made-in-america",
     "category": "Founder stories and judgment",
-    "original_category": "Founder biography",
-    "source_keyword": "sam walton made in america",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/made-in-america/README.md",
-    "proposed_heading": "Made in America: Summary and retail operating-principle reflection",
-    "primary_query": "sam walton made in america summary",
-    "primary_query_estimate": null,
-    "application_query": "sam walton made in america rules",
-    "application_query_estimate": null,
     "application_resource": "Retail operating-principle reflection",
-    "proposed_skill": "retail-principles-review",
-    "comparison_candidate": "The Everything Store",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -923,7 +630,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 34,
@@ -931,19 +639,9 @@
     "author": "Ray Kroc",
     "slug": "grinding-it-out",
     "category": "Founder stories and judgment",
-    "original_category": "Founder biography",
-    "source_keyword": "grinding it out",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/grinding-it-out/README.md",
-    "proposed_heading": "Grinding It Out: Summary and repeatable-service case analysis",
-    "primary_query": "grinding it out summary",
-    "primary_query_estimate": null,
-    "application_query": "grinding it out ray kroc lessons",
-    "application_query_estimate": null,
     "application_resource": "Repeatable-service case analysis",
-    "proposed_skill": "service-replication-case",
-    "comparison_candidate": "The E-Myth Revisited",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -951,7 +649,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 35,
@@ -959,19 +658,9 @@
     "author": "Richard Branson",
     "slug": "losing-my-virginity",
     "category": "Founder stories and judgment",
-    "original_category": "Founder biography",
-    "source_keyword": "losing my virginity book",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/losing-my-virginity/README.md",
-    "proposed_heading": "Losing My Virginity: Summary and risk-taking case discussion",
-    "primary_query": "losing my virginity book summary",
-    "primary_query_estimate": null,
-    "application_query": "losing my virginity richard branson lessons",
-    "application_query_estimate": null,
     "application_resource": "Risk-taking case discussion",
-    "proposed_skill": "risk-case-discussion",
-    "comparison_candidate": "Shoe Dog",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -979,7 +668,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 36,
@@ -987,19 +677,9 @@
     "author": "Richard Branson",
     "slug": "the-virgin-way",
     "category": "Leadership and teams",
-    "original_category": "Leadership",
-    "source_keyword": "the virgin way",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-virgin-way/README.md",
-    "proposed_heading": "The Virgin Way: Summary and leadership behavior reflection",
-    "primary_query": "the virgin way summary",
-    "primary_query_estimate": null,
-    "application_query": "the virgin way richard branson leadership",
-    "application_query_estimate": null,
     "application_resource": "Leadership behavior reflection",
-    "proposed_skill": "leadership-behavior-review",
-    "comparison_candidate": "Radical Candor",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1007,7 +687,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 37,
@@ -1015,19 +696,9 @@
     "author": "Daymond John",
     "slug": "the-power-of-broke",
     "category": "Founder stories and judgment",
-    "original_category": "Founder mindset",
-    "source_keyword": "the power of broke",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-power-of-broke/README.md",
-    "proposed_heading": "The Power of Broke: Summary and resource constraint planning",
-    "primary_query": "the power of broke summary",
-    "primary_query_estimate": null,
-    "application_query": "the power of broke daymond john lessons",
-    "application_query_estimate": null,
     "application_resource": "Resource constraint planning",
-    "proposed_skill": "resource-constraint-planning",
-    "comparison_candidate": "The $100 Startup",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1035,7 +706,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 38,
@@ -1043,19 +715,9 @@
     "author": "Jessica Livingston",
     "slug": "founders-at-work",
     "category": "Founder stories and judgment",
-    "original_category": "Founder interviews",
-    "source_keyword": "founders at work",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/founders-at-work/README.md",
-    "proposed_heading": "Founders at Work: Summary and early-stage founder case comparison",
-    "primary_query": "founders at work summary",
-    "primary_query_estimate": null,
-    "application_query": "founders at work jessica livingston lessons",
-    "application_query_estimate": null,
     "application_resource": "Early-stage founder case comparison",
-    "proposed_skill": "founder-case-comparison",
-    "comparison_candidate": "The Founders by Jimmy Soni",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1063,7 +725,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 39,
@@ -1071,19 +734,9 @@
     "author": "Jimmy Soni",
     "slug": "the-founders",
     "category": "Founder stories and judgment",
-    "original_category": "Founder biography",
-    "source_keyword": "the founders jimmy soni",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-founders/README.md",
-    "proposed_heading": "The Founders: Summary and founding-team decision case",
-    "primary_query": "the founders jimmy soni summary",
-    "primary_query_estimate": null,
-    "application_query": "the founders jimmy soni lessons",
-    "application_query_estimate": null,
     "application_resource": "Founding-team decision case",
-    "proposed_skill": "founding-team-case",
-    "comparison_candidate": "Founders at Work",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1091,7 +744,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 40,
@@ -1099,19 +753,9 @@
     "author": "Andrew Chen",
     "slug": "the-cold-start-problem",
     "category": "Marketing and growth",
-    "original_category": "Growth",
-    "source_keyword": "the cold start problem",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-cold-start-problem/README.md",
-    "proposed_heading": "The Cold Start Problem: Summary and initial-network hypothesis map",
-    "primary_query": "the cold start problem summary",
-    "primary_query_estimate": null,
-    "application_query": "the cold start problem atomic network",
-    "application_query_estimate": null,
     "application_resource": "Initial-network hypothesis map",
-    "proposed_skill": "network-launch-planning",
-    "comparison_candidate": "Crossing the Chasm",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1119,7 +763,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 41,
@@ -1127,19 +772,9 @@
     "author": "Reid Hoffman; Chris Yeh",
     "slug": "blitzscaling",
     "category": "Marketing and growth",
-    "original_category": "Growth",
-    "source_keyword": "blitzscaling",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/blitzscaling/README.md",
-    "proposed_heading": "Blitzscaling: Summary and growth-readiness assumptions review",
-    "primary_query": "blitzscaling summary",
-    "primary_query_estimate": null,
-    "application_query": "blitzscaling framework",
-    "application_query_estimate": null,
     "application_resource": "Growth-readiness assumptions review",
-    "proposed_skill": "growth-readiness-review",
-    "comparison_candidate": "Scaling Up",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1147,7 +782,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 42,
@@ -1155,19 +791,9 @@
     "author": "Reid Hoffman; June Cohen; Deron Triff",
     "slug": "masters-of-scale",
     "category": "Marketing and growth",
-    "original_category": "Growth",
-    "source_keyword": "masters of scale book",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/masters-of-scale/README.md",
-    "proposed_heading": "Masters of Scale: Summary and scaling case reflection",
-    "primary_query": "masters of scale book summary",
-    "primary_query_estimate": null,
-    "application_query": "masters of scale reid hoffman lessons",
-    "application_query_estimate": null,
     "application_resource": "Scaling case reflection",
-    "proposed_skill": "scaling-case-review",
-    "comparison_candidate": "Blitzscaling",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1175,7 +801,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 43,
@@ -1183,19 +810,9 @@
     "author": "Steve Blank; Bob Dorf",
     "slug": "the-startup-owner-s-manual",
     "category": "Startups and discovery",
-    "original_category": "Startups",
-    "source_keyword": "the startup owners manual",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-startup-owner-s-manual/README.md",
-    "proposed_heading": "The Startup Owner's Manual: Summary and customer-development evidence log",
-    "primary_query": "the startup owners manual summary",
-    "primary_query_estimate": null,
-    "application_query": "the startup owners manual customer development",
-    "application_query_estimate": null,
     "application_resource": "Customer-development evidence log",
-    "proposed_skill": "customer-development-planning",
-    "comparison_candidate": "The Four Steps to the Epiphany",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1203,7 +820,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 44,
@@ -1211,19 +829,9 @@
     "author": "Steve Blank",
     "slug": "the-four-steps-to-the-epiphany",
     "category": "Startups and discovery",
-    "original_category": "Startups",
-    "source_keyword": "the four steps to the epiphany",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-four-steps-to-the-epiphany/README.md",
-    "proposed_heading": "The Four Steps to the Epiphany: Summary and customer discovery and validation plan",
-    "primary_query": "the four steps to the epiphany summary",
-    "primary_query_estimate": null,
-    "application_query": "the four steps to the epiphany customer development",
-    "application_query_estimate": null,
     "application_resource": "Customer discovery and validation plan",
-    "proposed_skill": "customer-development-review",
-    "comparison_candidate": "The Lean Startup",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1231,7 +839,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 45,
@@ -1239,19 +848,9 @@
     "author": "Ash Maurya",
     "slug": "running-lean",
     "category": "Startups and discovery",
-    "original_category": "Startups",
-    "source_keyword": "running lean",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/running-lean/README.md",
-    "proposed_heading": "Running Lean: Summary and business-model assumptions canvas",
-    "primary_query": "running lean summary",
-    "primary_query_estimate": null,
-    "application_query": "running lean ash maurya lean canvas",
-    "application_query_estimate": null,
     "application_resource": "Business-model assumptions canvas",
-    "proposed_skill": "lean-assumptions-mapping",
-    "comparison_candidate": "The Lean Startup",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1259,7 +858,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 46,
@@ -1267,19 +867,9 @@
     "author": "Alistair Croll; Benjamin Yoskovitz",
     "slug": "lean-analytics",
     "category": "Product and innovation",
-    "original_category": "Analytics",
-    "source_keyword": "lean analytics",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/lean-analytics/README.md",
-    "proposed_heading": "Lean Analytics: Summary and metric selection brief",
-    "primary_query": "lean analytics summary",
-    "primary_query_estimate": null,
-    "application_query": "lean analytics one metric that matters",
-    "application_query_estimate": null,
     "application_resource": "Metric selection brief",
-    "proposed_skill": "metric-selection",
-    "comparison_candidate": "Measure What Matters",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1287,7 +877,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 47,
@@ -1295,19 +886,9 @@
     "author": "Bill Aulet",
     "slug": "disciplined-entrepreneurship",
     "category": "Startups and discovery",
-    "original_category": "Startups",
-    "source_keyword": "disciplined entrepreneurship",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/disciplined-entrepreneurship/README.md",
-    "proposed_heading": "Disciplined Entrepreneurship: Summary and startup planning checkpoints",
-    "primary_query": "disciplined entrepreneurship summary",
-    "primary_query_estimate": null,
-    "application_query": "disciplined entrepreneurship 24 steps",
-    "application_query_estimate": null,
     "application_resource": "Startup planning checkpoints",
-    "proposed_skill": "startup-checkpoints",
-    "comparison_candidate": "The Startup Owner's Manual",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1315,7 +896,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 48,
@@ -1323,19 +905,9 @@
     "author": "Guy Kawasaki",
     "slug": "the-art-of-the-start-2-0",
     "category": "Startups and discovery",
-    "original_category": "Startups",
-    "source_keyword": "the art of the start 2.0",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-art-of-the-start-2-0/README.md",
-    "proposed_heading": "The Art of the Start 2.0: Summary and startup pitch rehearsal",
-    "primary_query": "the art of the start 2.0 summary",
-    "primary_query_estimate": null,
-    "application_query": "the art of the start 2.0 pitch",
-    "application_query_estimate": null,
     "application_resource": "Startup pitch rehearsal",
-    "proposed_skill": "pitch-rehearsal",
-    "comparison_candidate": "The Startup Playbook by David Kidder",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1343,7 +915,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 49,
@@ -1351,19 +924,9 @@
     "author": "David S. Kidder",
     "slug": "the-startup-playbook",
     "category": "Startups and discovery",
-    "original_category": "Startups",
-    "source_keyword": "the startup playbook david kidder",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-startup-playbook/README.md",
-    "proposed_heading": "The Startup Playbook: Summary and founder lessons discussion",
-    "primary_query": "the startup playbook david kidder summary",
-    "primary_query_estimate": null,
-    "application_query": "the startup playbook david kidder lessons",
-    "application_query_estimate": null,
     "application_resource": "Founder lessons discussion",
-    "proposed_skill": "founder-lessons-review",
-    "comparison_candidate": "Founders at Work",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1371,7 +934,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 50,
@@ -1379,19 +943,9 @@
     "author": "David S. Rose",
     "slug": "the-startup-checklist",
     "category": "Startups and discovery",
-    "original_category": "Startups",
-    "source_keyword": "the startup checklist",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-startup-checklist/README.md",
-    "proposed_heading": "The Startup Checklist: Summary and launch-readiness checklist",
-    "primary_query": "the startup checklist summary",
-    "primary_query_estimate": null,
-    "application_query": "the startup checklist david rose",
-    "application_query_estimate": null,
     "application_resource": "Launch-readiness checklist",
-    "proposed_skill": "launch-readiness-review",
-    "comparison_candidate": "The Startup Owner's Manual",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1399,7 +953,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 51,
@@ -1407,19 +962,9 @@
     "author": "Dan Olsen",
     "slug": "the-lean-product-playbook",
     "category": "Product and innovation",
-    "original_category": "Product",
-    "source_keyword": "the lean product playbook",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-lean-product-playbook/README.md",
-    "proposed_heading": "The Lean Product Playbook: Summary and product assumptions review",
-    "primary_query": "the lean product playbook summary",
-    "primary_query_estimate": null,
-    "application_query": "the lean product playbook product market fit pyramid",
-    "application_query_estimate": null,
     "application_resource": "Product assumptions review",
-    "proposed_skill": "product-assumptions-review",
-    "comparison_candidate": "Inspired by Marty Cagan",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1427,7 +972,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 52,
@@ -1435,19 +981,9 @@
     "author": "Marty Cagan",
     "slug": "inspired",
     "category": "Product and innovation",
-    "original_category": "Product",
-    "source_keyword": "inspired marty cagan",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/inspired/README.md",
-    "proposed_heading": "Inspired: Summary and product discovery brief",
-    "primary_query": "inspired marty cagan summary",
-    "primary_query_estimate": null,
-    "application_query": "inspired marty cagan product discovery",
-    "application_query_estimate": null,
     "application_resource": "Product discovery brief",
-    "proposed_skill": "product-discovery-planning",
-    "comparison_candidate": "Continuous Discovery Habits",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1455,7 +991,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 53,
@@ -1463,19 +1000,9 @@
     "author": "Teresa Torres",
     "slug": "continuous-discovery-habits",
     "category": "Startups and discovery",
-    "original_category": "Customer research",
-    "source_keyword": "continuous discovery habits",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/continuous-discovery-habits/README.md",
-    "proposed_heading": "Continuous Discovery Habits: Summary and opportunity and assumption map",
-    "primary_query": "continuous discovery habits summary",
-    "primary_query_estimate": null,
-    "application_query": "continuous discovery habits opportunity solution tree",
-    "application_query_estimate": null,
     "application_resource": "Opportunity and assumption map",
-    "proposed_skill": "opportunity-mapping",
-    "comparison_candidate": "The Mom Test",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1483,7 +1010,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 54,
@@ -1491,19 +1019,9 @@
     "author": "Don Norman",
     "slug": "the-design-of-everyday-things",
     "category": "Product and innovation",
-    "original_category": "Product",
-    "source_keyword": "the design of everyday things",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-design-of-everyday-things/README.md",
-    "proposed_heading": "The Design of Everyday Things: Summary and product usability observation sheet",
-    "primary_query": "the design of everyday things summary",
-    "primary_query_estimate": null,
-    "application_query": "the design of everyday things affordances",
-    "application_query_estimate": null,
     "application_resource": "Product usability observation sheet",
-    "proposed_skill": "usability-observation",
-    "comparison_candidate": "Hooked by Nir Eyal",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1511,7 +1029,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 55,
@@ -1519,19 +1038,9 @@
     "author": "Nir Eyal",
     "slug": "hooked",
     "category": "Product and innovation",
-    "original_category": "Product",
-    "source_keyword": "hooked nir eyal",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/hooked/README.md",
-    "proposed_heading": "Hooked: Summary and product engagement hypothesis review",
-    "primary_query": "hooked nir eyal summary",
-    "primary_query_estimate": null,
-    "application_query": "hooked nir eyal hook model",
-    "application_query_estimate": null,
     "application_resource": "Product engagement hypothesis review",
-    "proposed_skill": "engagement-review",
-    "comparison_candidate": "The Design of Everyday Things",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1539,7 +1048,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 56,
@@ -1547,19 +1057,9 @@
     "author": "April Dunford",
     "slug": "obviously-awesome",
     "category": "Strategy and business models",
-    "original_category": "Positioning",
-    "source_keyword": "obviously awesome",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/obviously-awesome/README.md",
-    "proposed_heading": "Obviously Awesome: Summary and positioning brief",
-    "primary_query": "obviously awesome summary",
-    "primary_query_estimate": null,
-    "application_query": "obviously awesome positioning framework",
-    "application_query_estimate": null,
     "application_resource": "Positioning brief",
-    "proposed_skill": "positioning-workshop",
-    "comparison_candidate": "Crossing the Chasm",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1567,7 +1067,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 57,
@@ -1575,19 +1076,9 @@
     "author": "Geoffrey A. Moore",
     "slug": "crossing-the-chasm",
     "category": "Strategy and business models",
-    "original_category": "Positioning",
-    "source_keyword": "crossing the chasm",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/crossing-the-chasm/README.md",
-    "proposed_heading": "Crossing the Chasm: Summary and initial target-market selection brief",
-    "primary_query": "crossing the chasm summary",
-    "primary_query_estimate": null,
-    "application_query": "crossing the chasm beachhead market",
-    "application_query_estimate": null,
     "application_resource": "Initial target-market selection brief",
-    "proposed_skill": "beachhead-selection",
-    "comparison_candidate": "Obviously Awesome",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1595,7 +1086,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 58,
@@ -1603,19 +1095,9 @@
     "author": "W. Chan Kim; Renee Mauborgne",
     "slug": "blue-ocean-strategy",
     "category": "Strategy and business models",
-    "original_category": "Strategy",
-    "source_keyword": "blue ocean strategy book",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/blue-ocean-strategy/README.md",
-    "proposed_heading": "Blue Ocean Strategy: Summary and competitive-factor comparison",
-    "primary_query": "blue ocean strategy book summary",
-    "primary_query_estimate": null,
-    "application_query": "blue ocean strategy canvas",
-    "application_query_estimate": null,
     "application_resource": "Competitive-factor comparison",
-    "proposed_skill": "strategy-factor-mapping",
-    "comparison_candidate": "Good Strategy Bad Strategy",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1623,7 +1105,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 59,
@@ -1631,19 +1114,9 @@
     "author": "Richard Rumelt",
     "slug": "good-strategy-bad-strategy",
     "category": "Strategy and business models",
-    "original_category": "Strategy",
-    "source_keyword": "good strategy bad strategy",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/good-strategy-bad-strategy/README.md",
-    "proposed_heading": "Good Strategy Bad Strategy: Summary and diagnosis and action brief",
-    "primary_query": "good strategy bad strategy summary",
-    "primary_query_estimate": null,
-    "application_query": "good strategy bad strategy kernel",
-    "application_query_estimate": null,
     "application_resource": "Diagnosis and action brief",
-    "proposed_skill": "strategy-diagnosis",
-    "comparison_candidate": "Playing to Win",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1651,7 +1124,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 60,
@@ -1659,19 +1133,9 @@
     "author": "Clayton M. Christensen",
     "slug": "the-innovator-s-dilemma",
     "category": "Strategy and business models",
-    "original_category": "Strategy",
-    "source_keyword": "the innovators dilemma",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-innovator-s-dilemma/README.md",
-    "proposed_heading": "The Innovator's Dilemma: Summary and disruption assumptions case review",
-    "primary_query": "the innovators dilemma summary",
-    "primary_query_estimate": null,
-    "application_query": "the innovators dilemma disruptive innovation",
-    "application_query_estimate": null,
     "application_resource": "Disruption assumptions case review",
-    "proposed_skill": "disruption-case-review",
-    "comparison_candidate": "The Innovator's Solution",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1679,7 +1143,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 61,
@@ -1687,19 +1152,9 @@
     "author": "Clayton M. Christensen; Michael E. Raynor",
     "slug": "the-innovator-s-solution",
     "category": "Strategy and business models",
-    "original_category": "Strategy",
-    "source_keyword": "the innovators solution",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-innovator-s-solution/README.md",
-    "proposed_heading": "The Innovator's Solution: Summary and customer-job hypothesis brief",
-    "primary_query": "the innovators solution summary",
-    "primary_query_estimate": null,
-    "application_query": "the innovators solution jobs to be done",
-    "application_query_estimate": null,
     "application_resource": "Customer-job hypothesis brief",
-    "proposed_skill": "customer-job-mapping",
-    "comparison_candidate": "The Innovator's Dilemma",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1707,7 +1162,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 62,
@@ -1715,19 +1171,9 @@
     "author": "A. G. Lafley; Roger L. Martin",
     "slug": "playing-to-win",
     "category": "Strategy and business models",
-    "original_category": "Strategy",
-    "source_keyword": "playing to win book",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/playing-to-win/README.md",
-    "proposed_heading": "Playing to Win: Summary and strategy choices worksheet",
-    "primary_query": "playing to win book summary",
-    "primary_query_estimate": null,
-    "application_query": "playing to win strategy cascade",
-    "application_query_estimate": null,
     "application_resource": "Strategy choices worksheet",
-    "proposed_skill": "strategy-choices",
-    "comparison_candidate": "Good Strategy Bad Strategy",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1735,7 +1181,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 63,
@@ -1743,19 +1190,9 @@
     "author": "Hamilton Helmer",
     "slug": "7-powers",
     "category": "Strategy and business models",
-    "original_category": "Strategy",
-    "source_keyword": "7 powers",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/7-powers/README.md",
-    "proposed_heading": "7 Powers: Summary and competitive advantage evidence log",
-    "primary_query": "7 powers summary",
-    "primary_query_estimate": null,
-    "application_query": "7 powers hamilton helmer framework",
-    "application_query_estimate": null,
     "application_resource": "Competitive advantage evidence log",
-    "proposed_skill": "advantage-review",
-    "comparison_candidate": "Zero to One",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1763,7 +1200,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 64,
@@ -1771,19 +1209,9 @@
     "author": "Alexander Osterwalder; Yves Pigneur",
     "slug": "business-model-generation",
     "category": "Strategy and business models",
-    "original_category": "Business models",
-    "source_keyword": "business model generation",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/business-model-generation/README.md",
-    "proposed_heading": "Business Model Generation: Summary and business-model evidence map",
-    "primary_query": "business model generation summary",
-    "primary_query_estimate": null,
-    "application_query": "business model generation canvas",
-    "application_query_estimate": null,
     "application_resource": "Business-model evidence map",
-    "proposed_skill": "business-model-mapping",
-    "comparison_candidate": "Value Proposition Design",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1791,7 +1219,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 65,
@@ -1799,19 +1228,9 @@
     "author": "Alexander Osterwalder; Yves Pigneur; Greg Bernarda; Alan Smith",
     "slug": "value-proposition-design",
     "category": "Strategy and business models",
-    "original_category": "Business models",
-    "source_keyword": "value proposition design",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/value-proposition-design/README.md",
-    "proposed_heading": "Value Proposition Design: Summary and customer-value assumptions map",
-    "primary_query": "value proposition design summary",
-    "primary_query_estimate": null,
-    "application_query": "value proposition design canvas",
-    "application_query_estimate": null,
     "application_resource": "Customer-value assumptions map",
-    "proposed_skill": "customer-value-mapping",
-    "comparison_candidate": "Business Model Generation",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1819,7 +1238,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 66,
@@ -1827,19 +1247,9 @@
     "author": "Madhavan Ramanujam; Georg Tacke",
     "slug": "monetizing-innovation",
     "category": "Sales and communication",
-    "original_category": "Pricing",
-    "source_keyword": "monetizing innovation",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/monetizing-innovation/README.md",
-    "proposed_heading": "Monetizing Innovation: Summary and pricing research interview brief",
-    "primary_query": "monetizing innovation summary",
-    "primary_query_estimate": null,
-    "application_query": "monetizing innovation willingness to pay",
-    "application_query_estimate": null,
     "application_resource": "Pricing research interview brief",
-    "proposed_skill": "pricing-research-planning",
-    "comparison_candidate": "$100M Offers",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1847,7 +1257,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 67,
@@ -1855,19 +1266,9 @@
     "author": "Thomas T. Nagle; Georg Muller; Evert Gruyaert",
     "slug": "the-strategy-and-tactics-of-pricing",
     "category": "Sales and communication",
-    "original_category": "Pricing",
-    "source_keyword": "the strategy and tactics of pricing",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-strategy-and-tactics-of-pricing/README.md",
-    "proposed_heading": "The Strategy and Tactics of Pricing: Summary and pricing assumptions comparison",
-    "primary_query": "the strategy and tactics of pricing summary",
-    "primary_query_estimate": null,
-    "application_query": "the strategy and tactics of pricing value based pricing",
-    "application_query_estimate": null,
     "application_resource": "Pricing assumptions comparison",
-    "proposed_skill": "pricing-assumptions-review",
-    "comparison_candidate": "Monetizing Innovation",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1875,7 +1276,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 68,
@@ -1883,19 +1285,9 @@
     "author": "Gabriel Weinberg; Justin Mares",
     "slug": "traction-gabriel-weinberg",
     "category": "Marketing and growth",
-    "original_category": "Marketing",
-    "source_keyword": "traction gabriel weinberg",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/traction-gabriel-weinberg/README.md",
-    "proposed_heading": "Traction: Summary and acquisition-channel experiment plan",
-    "primary_query": "traction gabriel weinberg summary",
-    "primary_query_estimate": null,
-    "application_query": "traction gabriel weinberg bullseye framework",
-    "application_query_estimate": null,
     "application_resource": "Acquisition-channel experiment plan",
-    "proposed_skill": "channel-experiment-planning",
-    "comparison_candidate": "$100M Leads",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1903,7 +1295,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 69,
@@ -1911,19 +1304,9 @@
     "author": "Gino Wickman",
     "slug": "traction-gino-wickman",
     "category": "Money and operations",
-    "original_category": "Operations",
-    "source_keyword": "traction gino wickman",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/traction-gino-wickman/README.md",
-    "proposed_heading": "Traction: Summary and operating cadence and issue log",
-    "primary_query": "traction gino wickman summary",
-    "primary_query_estimate": null,
-    "application_query": "traction gino wickman tools",
-    "application_query_estimate": null,
     "application_resource": "Operating cadence and issue log",
-    "proposed_skill": "operating-cadence",
-    "comparison_candidate": "Scaling Up",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1931,7 +1314,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 70,
@@ -1939,19 +1323,9 @@
     "author": "Verne Harnish",
     "slug": "scaling-up",
     "category": "Money and operations",
-    "original_category": "Operations",
-    "source_keyword": "scaling up verne harnish",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/scaling-up/README.md",
-    "proposed_heading": "Scaling Up: Summary and growth planning worksheet",
-    "primary_query": "scaling up verne harnish summary",
-    "primary_query_estimate": null,
-    "application_query": "scaling up verne harnish one page strategic plan",
-    "application_query_estimate": null,
     "application_resource": "Growth planning worksheet",
-    "proposed_skill": "growth-planning",
-    "comparison_candidate": "Traction by Gino Wickman",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1959,7 +1333,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 71,
@@ -1967,19 +1342,9 @@
     "author": "John Warrillow",
     "slug": "built-to-sell",
     "category": "Money and operations",
-    "original_category": "Small business",
-    "source_keyword": "built to sell",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/built-to-sell/README.md",
-    "proposed_heading": "Built to Sell: Summary and service dependency audit",
-    "primary_query": "built to sell summary",
-    "primary_query_estimate": null,
-    "application_query": "built to sell john warrillow lessons",
-    "application_query_estimate": null,
     "application_resource": "Service dependency audit",
-    "proposed_skill": "business-dependency-review",
-    "comparison_candidate": "The E-Myth Revisited",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -1987,7 +1352,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 72,
@@ -1995,19 +1361,9 @@
     "author": "John Warrillow",
     "slug": "the-automatic-customer",
     "category": "Strategy and business models",
-    "original_category": "Business models",
-    "source_keyword": "the automatic customer",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-automatic-customer/README.md",
-    "proposed_heading": "The Automatic Customer: Summary and recurring-revenue hypotheses",
-    "primary_query": "the automatic customer summary",
-    "primary_query_estimate": null,
-    "application_query": "the automatic customer subscription models",
-    "application_query_estimate": null,
     "application_resource": "Recurring-revenue hypotheses",
-    "proposed_skill": "subscription-model-review",
-    "comparison_candidate": "$100M Money Models",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2015,7 +1371,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 73,
@@ -2023,19 +1380,9 @@
     "author": "Dan Martell",
     "slug": "buy-back-your-time",
     "category": "Productivity and execution",
-    "original_category": "Productivity",
-    "source_keyword": "buy back your time",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/buy-back-your-time/README.md",
-    "proposed_heading": "Buy Back Your Time: Summary and time and delegation audit",
-    "primary_query": "buy back your time summary",
-    "primary_query_estimate": null,
-    "application_query": "buy back your time time audit",
-    "application_query_estimate": null,
     "application_resource": "Time and delegation audit",
-    "proposed_skill": "delegation-planning",
-    "comparison_candidate": "The 4-Hour Workweek",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2043,7 +1390,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 74,
@@ -2051,19 +1399,9 @@
     "author": "Walker Deibel",
     "slug": "buy-then-build",
     "category": "Money and operations",
-    "original_category": "Acquisition",
-    "source_keyword": "buy then build",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/buy-then-build/README.md",
-    "proposed_heading": "Buy Then Build: Summary and acquisition research checklist",
-    "primary_query": "buy then build summary",
-    "primary_query_estimate": null,
-    "application_query": "buy then build acquisition criteria",
-    "application_query_estimate": null,
     "application_resource": "Acquisition research checklist",
-    "proposed_skill": "acquisition-research-checklist",
-    "comparison_candidate": "Built to Sell",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2071,7 +1409,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 75,
@@ -2079,19 +1418,9 @@
     "author": "Allan Dib",
     "slug": "the-1-page-marketing-plan",
     "category": "Marketing and growth",
-    "original_category": "Marketing",
-    "source_keyword": "the 1 page marketing plan",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-1-page-marketing-plan/README.md",
-    "proposed_heading": "The 1-Page Marketing Plan: Summary and marketing assumptions worksheet",
-    "primary_query": "the 1 page marketing plan summary",
-    "primary_query_estimate": null,
-    "application_query": "the 1 page marketing plan template",
-    "application_query_estimate": null,
     "application_resource": "Marketing assumptions worksheet",
-    "proposed_skill": "marketing-plan",
-    "comparison_candidate": "This Is Marketing",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2099,7 +1428,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 76,
@@ -2107,19 +1437,9 @@
     "author": "Seth Godin",
     "slug": "this-is-marketing",
     "category": "Marketing and growth",
-    "original_category": "Marketing",
-    "source_keyword": "this is marketing",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/this-is-marketing/README.md",
-    "proposed_heading": "This Is Marketing: Summary and audience definition brief",
-    "primary_query": "this is marketing summary",
-    "primary_query_estimate": null,
-    "application_query": "this is marketing smallest viable audience",
-    "application_query_estimate": null,
     "application_resource": "Audience definition brief",
-    "proposed_skill": "audience-definition",
-    "comparison_candidate": "The 1-Page Marketing Plan",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2127,7 +1447,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 77,
@@ -2135,19 +1456,9 @@
     "author": "Seth Godin",
     "slug": "purple-cow",
     "category": "Marketing and growth",
-    "original_category": "Marketing",
-    "source_keyword": "purple cow book",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/purple-cow/README.md",
-    "proposed_heading": "Purple Cow: Summary and product differentiation brainstorm",
-    "primary_query": "purple cow book summary",
-    "primary_query_estimate": null,
-    "application_query": "purple cow seth godin examples",
-    "application_query_estimate": null,
     "application_resource": "Product differentiation brainstorm",
-    "proposed_skill": "remarkability-review",
-    "comparison_candidate": "Obviously Awesome",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2155,7 +1466,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 78,
@@ -2163,19 +1475,9 @@
     "author": "Seth Godin",
     "slug": "permission-marketing",
     "category": "Marketing and growth",
-    "original_category": "Marketing",
-    "source_keyword": "permission marketing book",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/permission-marketing/README.md",
-    "proposed_heading": "Permission Marketing: Summary and consent-based communication plan",
-    "primary_query": "permission marketing book summary",
-    "primary_query_estimate": null,
-    "application_query": "permission marketing seth godin principles",
-    "application_query_estimate": null,
     "application_resource": "Consent-based communication plan",
-    "proposed_skill": "permission-marketing-plan",
-    "comparison_candidate": "This Is Marketing",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2183,7 +1485,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 79,
@@ -2191,19 +1494,9 @@
     "author": "Seth Godin",
     "slug": "all-marketers-are-liars",
     "category": "Marketing and growth",
-    "original_category": "Marketing",
-    "source_keyword": "all marketers are liars",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/all-marketers-are-liars/README.md",
-    "proposed_heading": "All Marketers Are Liars: Summary and message credibility review",
-    "primary_query": "all marketers are liars summary",
-    "primary_query_estimate": null,
-    "application_query": "all marketers are liars storytelling",
-    "application_query_estimate": null,
     "application_resource": "Message credibility review",
-    "proposed_skill": "message-credibility-review",
-    "comparison_candidate": "Building a StoryBrand",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2211,7 +1504,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 80,
@@ -2219,19 +1513,9 @@
     "author": "Donald Miller",
     "slug": "building-a-storybrand",
     "category": "Marketing and growth",
-    "original_category": "Marketing",
-    "source_keyword": "building a storybrand",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/building-a-storybrand/README.md",
-    "proposed_heading": "Building a StoryBrand: Summary and landing-page messaging brief",
-    "primary_query": "building a storybrand summary",
-    "primary_query_estimate": null,
-    "application_query": "building a storybrand framework",
-    "application_query_estimate": 70,
     "application_resource": "Landing-page messaging brief",
-    "proposed_skill": "landing-page-messaging",
-    "comparison_candidate": "Made to Stick",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2239,7 +1523,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 81,
@@ -2247,19 +1532,9 @@
     "author": "Chip Heath; Dan Heath",
     "slug": "made-to-stick",
     "category": "Sales and communication",
-    "original_category": "Communication",
-    "source_keyword": "made to stick",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/made-to-stick/README.md",
-    "proposed_heading": "Made to Stick: Summary and message clarity checklist",
-    "primary_query": "made to stick summary",
-    "primary_query_estimate": null,
-    "application_query": "made to stick success framework",
-    "application_query_estimate": null,
     "application_resource": "Message clarity checklist",
-    "proposed_skill": "message-clarity-review",
-    "comparison_candidate": "Building a StoryBrand",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2267,7 +1542,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 82,
@@ -2275,19 +1551,9 @@
     "author": "Jonah Berger",
     "slug": "contagious",
     "category": "Marketing and growth",
-    "original_category": "Marketing",
-    "source_keyword": "contagious jonah berger",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/contagious/README.md",
-    "proposed_heading": "Contagious: Summary and shareability hypothesis worksheet",
-    "primary_query": "contagious jonah berger summary",
-    "primary_query_estimate": null,
-    "application_query": "contagious jonah berger stepps",
-    "application_query_estimate": null,
     "application_resource": "Shareability hypothesis worksheet",
-    "proposed_skill": "shareability-planning",
-    "comparison_candidate": "Made to Stick",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2295,7 +1561,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 83,
@@ -2303,19 +1570,9 @@
     "author": "Robert B. Cialdini",
     "slug": "influence",
     "category": "Sales and communication",
-    "original_category": "Sales",
-    "source_keyword": "influence robert cialdini",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/influence/README.md",
-    "proposed_heading": "Influence: Summary and persuasion and ethics review",
-    "primary_query": "influence robert cialdini summary",
-    "primary_query_estimate": null,
-    "application_query": "influence robert cialdini principles",
-    "application_query_estimate": null,
     "application_resource": "Persuasion and ethics review",
-    "proposed_skill": "persuasion-review",
-    "comparison_candidate": "Pre-Suasion",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2323,7 +1580,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 84,
@@ -2331,19 +1589,9 @@
     "author": "Robert Cialdini",
     "slug": "pre-suasion",
     "category": "Sales and communication",
-    "original_category": "Sales",
-    "source_keyword": "pre suasion",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/pre-suasion/README.md",
-    "proposed_heading": "Pre-Suasion: Summary and communication context review",
-    "primary_query": "pre suasion summary",
-    "primary_query_estimate": null,
-    "application_query": "pre suasion robert cialdini examples",
-    "application_query_estimate": null,
     "application_resource": "Communication context review",
-    "proposed_skill": "communication-context-review",
-    "comparison_candidate": "Influence by Robert Cialdini",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2351,7 +1599,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 85,
@@ -2359,19 +1608,9 @@
     "author": "David Ogilvy",
     "slug": "ogilvy-on-advertising",
     "category": "Marketing and growth",
-    "original_category": "Marketing",
-    "source_keyword": "ogilvy on advertising",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/ogilvy-on-advertising/README.md",
-    "proposed_heading": "Ogilvy on Advertising: Summary and advertising draft critique",
-    "primary_query": "ogilvy on advertising summary",
-    "primary_query_estimate": null,
-    "application_query": "ogilvy on advertising lessons",
-    "application_query_estimate": null,
     "application_resource": "Advertising draft critique",
-    "proposed_skill": "advertising-review",
-    "comparison_candidate": "Scientific Advertising",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2379,7 +1618,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 86,
@@ -2387,19 +1627,9 @@
     "author": "Claude C. Hopkins",
     "slug": "scientific-advertising",
     "category": "Marketing and growth",
-    "original_category": "Marketing",
-    "source_keyword": "scientific advertising",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/scientific-advertising/README.md",
-    "proposed_heading": "Scientific Advertising: Summary and advertising experiment brief",
-    "primary_query": "scientific advertising summary",
-    "primary_query_estimate": null,
-    "application_query": "scientific advertising claude hopkins principles",
-    "application_query_estimate": null,
     "application_resource": "Advertising experiment brief",
-    "proposed_skill": "ad-experiment-planning",
-    "comparison_candidate": "Ogilvy on Advertising",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2407,7 +1637,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 87,
@@ -2415,19 +1646,9 @@
     "author": "Eugene M. Schwartz",
     "slug": "breakthrough-advertising",
     "category": "Marketing and growth",
-    "original_category": "Marketing",
-    "source_keyword": "breakthrough advertising",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/breakthrough-advertising/README.md",
-    "proposed_heading": "Breakthrough Advertising: Summary and audience-awareness messaging map",
-    "primary_query": "breakthrough advertising summary",
-    "primary_query_estimate": null,
-    "application_query": "breakthrough advertising levels of awareness",
-    "application_query_estimate": null,
     "application_resource": "Audience-awareness messaging map",
-    "proposed_skill": "awareness-messaging",
-    "comparison_candidate": "Ogilvy on Advertising",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2435,7 +1656,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 88,
@@ -2443,19 +1665,9 @@
     "author": "Sabri Suby",
     "slug": "sell-like-crazy",
     "category": "Sales and communication",
-    "original_category": "Sales",
-    "source_keyword": "sell like crazy",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/sell-like-crazy/README.md",
-    "proposed_heading": "Sell Like Crazy: Summary and lead-to-sale assumptions map",
-    "primary_query": "sell like crazy summary",
-    "primary_query_estimate": null,
-    "application_query": "sell like crazy sabri suby framework",
-    "application_query_estimate": null,
     "application_resource": "Lead-to-sale assumptions map",
-    "proposed_skill": "sales-funnel-review",
-    "comparison_candidate": "$100M Offers",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2463,7 +1675,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 89,
@@ -2471,19 +1684,9 @@
     "author": "Neil Rackham",
     "slug": "spin-selling",
     "category": "Sales and communication",
-    "original_category": "Sales",
-    "source_keyword": "spin selling",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/spin-selling/README.md",
-    "proposed_heading": "SPIN Selling: Summary and discovery-call question plan",
-    "primary_query": "spin selling summary",
-    "primary_query_estimate": null,
-    "application_query": "spin selling questions examples",
-    "application_query_estimate": null,
     "application_resource": "Discovery-call question plan",
-    "proposed_skill": "sales-discovery-planning",
-    "comparison_candidate": "The Challenger Sale",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2491,7 +1694,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 90,
@@ -2499,19 +1703,9 @@
     "author": "Matthew Dixon; Brent Adamson",
     "slug": "the-challenger-sale",
     "category": "Sales and communication",
-    "original_category": "Sales",
-    "source_keyword": "the challenger sale",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-challenger-sale/README.md",
-    "proposed_heading": "The Challenger Sale: Summary and sales insight brief",
-    "primary_query": "the challenger sale summary",
-    "primary_query_estimate": null,
-    "application_query": "the challenger sale teach tailor take control",
-    "application_query_estimate": null,
     "application_resource": "Sales insight brief",
-    "proposed_skill": "sales-insight-planning",
-    "comparison_candidate": "SPIN Selling",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2519,7 +1713,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 91,
@@ -2527,19 +1722,9 @@
     "author": "Chris Voss; Tahl Raz",
     "slug": "never-split-the-difference",
     "category": "Sales and communication",
-    "original_category": "Negotiation",
-    "source_keyword": "never split the difference",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/never-split-the-difference/README.md",
-    "proposed_heading": "Never Split the Difference: Summary and negotiation rehearsal and debrief",
-    "primary_query": "never split the difference summary",
-    "primary_query_estimate": null,
-    "application_query": "never split the difference techniques",
-    "application_query_estimate": null,
     "application_resource": "Negotiation rehearsal and debrief",
-    "proposed_skill": "negotiation-practice",
-    "comparison_candidate": "Getting to Yes",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2547,7 +1732,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 92,
@@ -2555,19 +1741,9 @@
     "author": "Roger Fisher; William Ury; Bruce Patton",
     "slug": "getting-to-yes",
     "category": "Sales and communication",
-    "original_category": "Negotiation",
-    "source_keyword": "getting to yes",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/getting-to-yes/README.md",
-    "proposed_heading": "Getting to Yes: Summary and negotiation options worksheet",
-    "primary_query": "getting to yes summary",
-    "primary_query_estimate": null,
-    "application_query": "getting to yes batna",
-    "application_query_estimate": null,
     "application_resource": "Negotiation options worksheet",
-    "proposed_skill": "negotiation-preparation",
-    "comparison_candidate": "Never Split the Difference",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2575,7 +1751,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 93,
@@ -2583,19 +1760,9 @@
     "author": "Andrew S. Grove",
     "slug": "high-output-management",
     "category": "Leadership and teams",
-    "original_category": "Leadership",
-    "source_keyword": "high output management",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/high-output-management/README.md",
-    "proposed_heading": "High Output Management: Summary and one-on-one meeting plan",
-    "primary_query": "high output management summary",
-    "primary_query_estimate": null,
-    "application_query": "high output management one on one meetings",
-    "application_query_estimate": null,
     "application_resource": "One-on-one meeting plan",
-    "proposed_skill": "one-on-one-planning",
-    "comparison_candidate": "The Effective Executive",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2603,7 +1770,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 94,
@@ -2611,19 +1779,9 @@
     "author": "Peter F. Drucker",
     "slug": "the-effective-executive",
     "category": "Leadership and teams",
-    "original_category": "Leadership",
-    "source_keyword": "the effective executive",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-effective-executive/README.md",
-    "proposed_heading": "The Effective Executive: Summary and executive time audit",
-    "primary_query": "the effective executive summary",
-    "primary_query_estimate": null,
-    "application_query": "the effective executive time management",
-    "application_query_estimate": null,
     "application_resource": "Executive time audit",
-    "proposed_skill": "executive-time-review",
-    "comparison_candidate": "High Output Management",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2631,7 +1789,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 95,
@@ -2639,19 +1798,9 @@
     "author": "Kim Scott",
     "slug": "radical-candor",
     "category": "Leadership and teams",
-    "original_category": "Leadership",
-    "source_keyword": "radical candor book",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/radical-candor/README.md",
-    "proposed_heading": "Radical Candor: Summary and feedback conversation rehearsal",
-    "primary_query": "radical candor book summary",
-    "primary_query_estimate": null,
-    "application_query": "radical candor feedback examples",
-    "application_query_estimate": null,
     "application_resource": "Feedback conversation rehearsal",
-    "proposed_skill": "feedback-practice",
-    "comparison_candidate": "The Five Dysfunctions of a Team",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2659,7 +1808,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 96,
@@ -2667,19 +1817,9 @@
     "author": "Patrick Lencioni",
     "slug": "the-five-dysfunctions-of-a-team",
     "category": "Leadership and teams",
-    "original_category": "Leadership",
-    "source_keyword": "the five dysfunctions of a team",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-five-dysfunctions-of-a-team/README.md",
-    "proposed_heading": "The Five Dysfunctions of a Team: Summary and team reflection prompts",
-    "primary_query": "the five dysfunctions of a team summary",
-    "primary_query_estimate": null,
-    "application_query": "the five dysfunctions of a team assessment",
-    "application_query_estimate": null,
     "application_resource": "Team reflection prompts",
-    "proposed_skill": "team-reflection",
-    "comparison_candidate": "Radical Candor",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2687,7 +1827,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 97,
@@ -2695,19 +1836,9 @@
     "author": "John Doerr",
     "slug": "measure-what-matters",
     "category": "Money and operations",
-    "original_category": "Operations",
-    "source_keyword": "measure what matters",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/measure-what-matters/README.md",
-    "proposed_heading": "Measure What Matters: Summary and objectives and evidence review",
-    "primary_query": "measure what matters summary",
-    "primary_query_estimate": null,
-    "application_query": "measure what matters okr examples",
-    "application_query_estimate": null,
     "application_resource": "Objectives and evidence review",
-    "proposed_skill": "okr-drafting",
-    "comparison_candidate": "Lean Analytics",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2715,7 +1846,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 98,
@@ -2723,19 +1855,9 @@
     "author": "Greg McKeown",
     "slug": "essentialism",
     "category": "Productivity and execution",
-    "original_category": "Productivity",
-    "source_keyword": "essentialism book",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/essentialism/README.md",
-    "proposed_heading": "Essentialism: Summary and commitment and priority review",
-    "primary_query": "essentialism book summary",
-    "primary_query_estimate": null,
-    "application_query": "essentialism greg mckeown exercises",
-    "application_query_estimate": null,
     "application_resource": "Commitment and priority review",
-    "proposed_skill": "priority-review",
-    "comparison_candidate": "Deep Work",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2743,7 +1865,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 99,
@@ -2751,19 +1874,9 @@
     "author": "Gary Keller; Jay Papasan",
     "slug": "the-one-thing",
     "category": "Productivity and execution",
-    "original_category": "Productivity",
-    "source_keyword": "the one thing book",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/the-one-thing/README.md",
-    "proposed_heading": "The ONE Thing: Summary and priority and next-action brief",
-    "primary_query": "the one thing book summary",
-    "primary_query_estimate": null,
-    "application_query": "the one thing gary keller focusing question",
-    "application_query_estimate": null,
     "application_resource": "Priority and next-action brief",
-    "proposed_skill": "next-action-planning",
-    "comparison_candidate": "Essentialism",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2771,7 +1884,8 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   },
   {
     "id": 100,
@@ -2779,19 +1893,9 @@
     "author": "David Allen",
     "slug": "getting-things-done",
     "category": "Productivity and execution",
-    "original_category": "Productivity",
-    "source_keyword": "getting things done book",
     "status": "planned",
     "guide_path": null,
-    "proposed_guide_path": "books/getting-things-done/README.md",
-    "proposed_heading": "Getting Things Done: Summary and weekly review and next-action log",
-    "primary_query": "getting things done book summary",
-    "primary_query_estimate": null,
-    "application_query": "getting things done weekly review checklist",
-    "application_query_estimate": null,
     "application_resource": "Weekly review and next-action log",
-    "proposed_skill": "weekly-review",
-    "comparison_candidate": "The ONE Thing",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
@@ -2799,6 +1903,7 @@
       "human_reviewer": null,
       "reviewed_on": null,
       "source_scope": null
-    }
+    },
+    "resources": {}
   }
 ]

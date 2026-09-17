@@ -1,6 +1,6 @@
 # Review Your Customer Interview Questions
 
-[Book guide](README.md) · [Interview template](../../templates/customer-interview-plan.md)
+[Book guide](README.md) · [Interview template](templates/interview-plan.md)
 
 An original practice tool from Business Books, Applied, informed by the approach discussed in *The Mom Test*. This is not an official worksheet or a validated scoring instrument.
 

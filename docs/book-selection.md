@@ -1,4 +1,4 @@
-# How the 100 books are selected
+# How books are selected
 
 The current catalog preserves the owner's existing 100-book research list. It spans business fundamentals, entrepreneurship, management, marketing, personal effectiveness, money, and founder biographies. This broad scope is intentional, but it is not a verified list of the 100 most popular business books of all time.
 
@@ -18,7 +18,7 @@ The `popularity_evidence` field in `catalog/books.json` holds sourced observatio
 
 ## Changes to the list
 
-Preserve the 100-title scope while auditing candidates. Do not silently remove books with low measured search volume or mistake unavailable data for a lack of readers. Record replacements and the owner's editorial decision before changing the scope.
+Preserve the original 100 catalog IDs while auditing candidates; future additions receive new IDs. Do not silently remove books with low measured search volume or mistake unavailable data for a lack of readers. Record replacements and the owner's editorial decision before changing the scope.
 
 Two entries are titled *Traction*: Gabriel Weinberg and Justin Mares's marketing book, and Gino Wickman's operations book. Keep their authors, slugs, sources, and query intent separate.
 
