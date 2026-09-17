@@ -23,3 +23,7 @@ After authorized tests, preserve raw counts, costs, hours, and missing data. Che
 Choose a follow-up based on fit, observed outcomes, uncertainty, and constraints. Specify what would make you stop or change the test. A channel with promising early evidence still needs confirmation that it can be reached repeatedly.
 
 [Completed example](../books/traction-gabriel-weinberg/worked-example.md) · [Installable skill](../skills/acquisition-channel-testing/SKILL.md)
+
+## Review the funnel before increasing the budget
+
+Rebuild the totals from anonymous event records and mark which cohorts have completed follow-up. Compare cost per the same outcome, with hours visible. Examine repeatable access and support work before choosing the next allocation. Save the rejected interpretation as well as the choice: cheap respondents, tiny cohorts and one-off partner favors are common reasons to repeat a bounded test instead of scaling.

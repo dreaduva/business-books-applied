@@ -21,3 +21,5 @@ A single buyer may be unusual. An attractive observed cost supports a follow-up 
 - [Publisher — Traction description and edition](https://www.penguinrandomhouse.com/books/319121/traction-by-gabriel-weinberg-and-justin-mares/)
 
 Independent practical application based on these public author or publisher materials. Full-book expert review and real-world outcome testing are not claimed. Worksheets and examples are original project material.
+
+Checked conceptual sources: [Weinberg's Bullseye explanation](https://medium.com/@yegg/the-bullseye-framework-for-getting-traction-ef49d05bfd7e) and [nineteen-channel overview](https://medium.com/@yegg/the-19-channels-you-can-use-to-get-traction-93c762d19339). The calculation methods, test records and examples here are original applications. No full-book review is claimed.
