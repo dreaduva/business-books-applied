@@ -1,6 +1,6 @@
 # Planned Business Book Collection
 
-[Home](../README.md) · [Published guides](README.md) · [Selection methodology](../docs/book-selection.md)
+[Home](../README.md) · [Published guides](README.md) · [Selection methodology](../ABOUT.md#the-collection)
 
 The collection currently contains 100 selected titles. The 99 entries below are planned or in development, not published summaries. This is a curated reading list, not an all-time sales ranking. No publication dates are promised.
 

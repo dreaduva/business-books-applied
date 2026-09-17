@@ -68,7 +68,7 @@ For assistants that import skill folders, include the whole folder and follow th
 - **Clear sources:** each guide identifies consulted materials, limitations, and AI assistance.
 - **A growing collection:** the original selection covers 100 books. Planned titles are kept separate from finished guides; it is not a verified all-time bestseller ranking.
 
-[How we write](docs/editorial-standards.md) · [How books are selected](docs/book-selection.md)
+[How we write](ABOUT.md#editorial-standards) · [How books are selected](ABOUT.md#the-collection)
 
 ## Help improve the library
 
@@ -76,4 +76,4 @@ A clearer explanation, a better question, or a sourced correction can make a gui
 
 Original project material is [MIT licensed](LICENSE). Book covers, quotations, and other third-party material retain their owners' rights. This project is independent of the authors and publishers.
 
-Amazon affiliate links are not active. If enabled, they will be clearly labeled on the relevant book pages. [Affiliate and cover policy](docs/affiliate-and-cover-policy.md).
+Amazon affiliate links are not active. If enabled, they will be clearly labeled on the relevant book pages. [Affiliate and cover policy](ABOUT.md#affiliate-links).

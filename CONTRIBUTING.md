@@ -10,11 +10,11 @@ Useful corrections matter more than the number of pages. Start with an existing 
 4. Run `python3 .github/library/check.py`.
 5. In your pull request, explain the reader benefit and what you checked.
 
-Follow the [editorial standards](docs/editorial-standards.md). Disclose substantial AI assistance. Do not add invented experience, unsupported sales figures, copied summaries, unlicensed illustrations, or affiliate links belonging to contributors.
+Follow the [editorial standards](ABOUT.md#editorial-standards). Disclose substantial AI assistance. Do not add invented experience, unsupported sales figures, copied summaries, unlicensed illustrations, or affiliate links belonging to contributors.
 
 ## Add a book guide
 
-Use [the guide template](docs/book-guide-template.md) and the book's entry in [the planned collection](books/roadmap.md). Keep the stable catalog ID. Disambiguate identical titles with the author; the two books titled *Traction* are separate works.
+Follow [The Mom Test's structure](books/the-mom-test/README.md) and the book's entry in [the planned collection](books/roadmap.md). Include a sourced summary, an original application, useful supporting resources, limitations, and an editorial note. Keep the guide at `books/<slug>/README.md` and its supporting files alongside it. Keep the stable catalog ID. Disambiguate identical titles with the author; the two books titled *Traction* are separate works.
 
 Create a guide only when it contains useful original material. Planned titles stay in the catalog without empty book pages. Human review, source checking, and cover rights are recorded separately in the catalog.
 

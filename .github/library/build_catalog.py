@@ -58,7 +58,7 @@ def outputs():
              'Browse published guides alphabetically by title. Each book has one permanent home, with its templates and examples linked alongside it. Publication describes availability, not human expert review; read each guide’s editorial note.', '']
     lines += table(published, 'books')
     result[ROOT/'books/README.md'] = '\n'.join(lines)+'\n'
-    lines = [f'# Planned Business Book Collection', '', '[Home](../README.md) · [Published guides](README.md) · [Selection methodology](../docs/book-selection.md)', '',
+    lines = [f'# Planned Business Book Collection', '', '[Home](../README.md) · [Published guides](README.md) · [Selection methodology](../ABOUT.md#the-collection)', '',
              f'The collection currently contains {len(books)} selected titles. The {len(planned)} entries below are planned or in development, not published summaries. This is a curated reading list, not an all-time sales ranking. No publication dates are promised.', '',
              ' · '.join(f'[{c}](#{slug(c)})' for c in CATEGORIES if any(b['category']==c for b in planned)), '']
     for c in CATEGORIES:

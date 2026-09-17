@@ -214,6 +214,6 @@ The original English-language book, identified here by ISBN **9781492180746**. T
 - [Google Books bibliographic record](https://books.google.com/books/about/The_Mom_Test.html?id=ET4cnwEACAAJ): original-edition identity.
 - [Open Library cover record](https://openlibrary.org/isbn/9781492180746) and [embedding guidelines](https://openlibrary.org/dev/docs/api/covers): source of the cover thumbnail.
 
-**Editorial note:** Prepared with AI assistance and checked against the public sources listed above on 2026-09-17. This is an independent practical guide, not an authorized adaptation or a claim of full-book or human expert review. Questions, templates, dialogue, and the tutor scenario are original project material. No real customer testing is claimed. See [our editorial standards](../../docs/editorial-standards.md).
+**Editorial note:** Prepared with AI assistance and checked against the public sources listed above on 2026-09-17. This is an independent practical guide, not an authorized adaptation or a claim of full-book or human expert review. Questions, templates, dialogue, and the tutor scenario are original project material. No real customer testing is claimed. See [our editorial standards](../../ABOUT.md#editorial-standards).
 
 [Back to the catalog](../README.md) · [Follow the playbook](../../playbooks/customer-interviews.md)
