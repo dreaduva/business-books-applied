@@ -8,7 +8,7 @@
 Cover: via Open Library; artwork remains the property of its respective rights holders. [Image source](https://openlibrary.org/isbn/9781591848363).
 <!-- BOOK-HEADER:END -->
 
-**Gabriel Weinberg and Justin Mares · Complete applied toolkit v1.0**
+**Gabriel Weinberg and Justin Mares · Applied toolkit · first edition**
 
 [Summary](#summary) · [Worksheet](worksheet.md) · [Worked example](worked-example.md) · [Playbook](../../playbooks/acquisition-channel-testing.md) · [AI skill](../../skills/acquisition-channel-testing/SKILL.md)
 

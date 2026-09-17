@@ -8,7 +8,7 @@
 Cover: via Open Library; artwork remains the property of its respective rights holders. [Image source](https://openlibrary.org/isbn/9781737475774).
 <!-- BOOK-HEADER:END -->
 
-**Alex Hormozi · Complete applied toolkit v1.0**
+**Alex Hormozi · Applied toolkit · first edition**
 
 [Summary](#summary) · [Worksheet](worksheet.md) · [Worked example](worked-example.md) · [Playbook](../../playbooks/lead-generation-planner.md) · [AI skill](../../skills/lead-generation-planner/SKILL.md)
 

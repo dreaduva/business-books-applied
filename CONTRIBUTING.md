@@ -18,6 +18,12 @@ Follow [The Mom Test's structure](books/the-mom-test/README.md) and the book's e
 
 Create a guide only when it contains useful original material. Planned titles stay in the catalog without empty book pages. Human review, source checking, and cover rights are recorded separately in the catalog.
 
+## When a toolkit is complete
+
+File presence and successful installation check packaging, not editorial depth. Before marking a toolkit complete, review its explanations, meaningful alternatives, end-to-end worked example, troubleshooting, and skill behavior. Record which passages and exercises support that judgment. Use The Mom Test as a depth reference, not a word-count target.
+
+A worked example should show inputs, reasoning, the output, and what changes when evidence conflicts. Skills should help critique or revise work where the task calls for it. Distinguish authored exercises from independently tested behavior. Keep incomplete revisions labeled accurately; do not mark a whole batch complete from a template.
+
 ## Propose a different book
 
 Include the title, author, edition, why it belongs, and dated evidence of popularity. Explain how it extends the collection. Additions and replacements need a recorded editorial decision.

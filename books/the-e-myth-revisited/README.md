@@ -8,7 +8,7 @@
 Cover: via Open Library; artwork remains the property of its respective rights holders. [Image source](https://openlibrary.org/isbn/9780887307287).
 <!-- BOOK-HEADER:END -->
 
-**Michael E. Gerber · Complete applied toolkit v1.0**
+**Michael E. Gerber · Applied toolkit · first edition**
 
 [Summary](#summary) · [Worksheet](worksheet.md) · [Worked example](worked-example.md) · [Playbook](../../playbooks/business-process-design.md) · [AI skill](../../skills/business-process-design/SKILL.md)
 

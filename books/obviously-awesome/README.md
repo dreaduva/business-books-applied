@@ -8,7 +8,7 @@
 Cover: via Open Library; artwork remains the property of its respective rights holders. [Image source](https://openlibrary.org/isbn/9781999023003).
 <!-- BOOK-HEADER:END -->
 
-**April Dunford · Complete applied toolkit v1.0**
+**April Dunford · Applied toolkit · first edition**
 
 [Summary](#summary) · [Worksheet](worksheet.md) · [Worked example](worked-example.md) · [Playbook](../../playbooks/product-positioning.md) · [AI skill](../../skills/product-positioning/SKILL.md)
 

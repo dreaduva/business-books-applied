@@ -8,7 +8,7 @@
 Cover: via Open Library; artwork remains the property of its respective rights holders. [Image source](https://openlibrary.org/isbn/9780718033323).
 <!-- BOOK-HEADER:END -->
 
-**Donald Miller · Complete applied toolkit v1.0**
+**Donald Miller · Applied toolkit · first edition**
 
 [Summary](#summary) · [Worksheet](worksheet.md) · [Worked example](worked-example.md) · [Playbook](../../playbooks/landing-page-messaging.md) · [AI skill](../../skills/landing-page-messaging/SKILL.md)
 

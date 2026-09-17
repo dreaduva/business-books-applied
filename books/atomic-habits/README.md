@@ -8,7 +8,7 @@
 Cover: via Open Library; artwork remains the property of its respective rights holders. [Image source](https://openlibrary.org/isbn/9780735211292).
 <!-- BOOK-HEADER:END -->
 
-**James Clear · Complete applied toolkit v1.0**
+**James Clear · Applied toolkit · first edition**
 
 [Summary](#summary) · [Worksheet](worksheet.md) · [Worked example](worked-example.md) · [Playbook](../../playbooks/habit-experiment-planner.md) · [AI skill](../../skills/habit-experiment-planner/SKILL.md)
 

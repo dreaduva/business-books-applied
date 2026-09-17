@@ -8,7 +8,7 @@
 Cover: via Open Library; artwork remains the property of its respective rights holders. [Image source](https://openlibrary.org/isbn/9781455586691).
 <!-- BOOK-HEADER:END -->
 
-**Cal Newport · Complete applied toolkit v1.0**
+**Cal Newport · Applied toolkit · first edition**
 
 [Summary](#summary) · [Worksheet](worksheet.md) · [Worked example](worked-example.md) · [Playbook](../../playbooks/deep-work-planner.md) · [AI skill](../../skills/deep-work-planner/SKILL.md)
 

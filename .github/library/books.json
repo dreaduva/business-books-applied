@@ -25,9 +25,9 @@
     "official_url": "https://jamesclear.com/atomic-habits",
     "completion": {
       "version": "1.0.0",
-      "status": "complete",
+      "status": "revision-needed",
       "scope": "Habit Experiment Plan",
-      "evaluation": "Skill format, repository integrity, portable resource synchronization, isolated installation, and authored scenario review; no independent comparative benchmark."
+      "evaluation": "Packaging checked; editorial depth requires revision against the applied-toolkit standard."
     },
     "toolkit": {
       "skill": "habit-experiment-planner",
@@ -145,7 +145,7 @@
       "ai_assisted": true,
       "human_reviewer": null,
       "reviewed_on": null,
-      "source_scope": "Public primary sources: https://theleanstartup.com/principles; https://www.penguinrandomhouse.com/books/210088/the-lean-startup-by-eric-ries/. Original application; no full-book or human expert review claimed.",
+      "source_scope": "Public primary materials: author methodology, MVP guide, MVPs and Excellence, LSE lecture slides, and publisher edition record. Original application and fictional example; no full-book or human expert review claimed.",
       "source_checked_on": "2026-09-17"
     },
     "resources": {
@@ -155,10 +155,10 @@
     },
     "official_url": "https://theleanstartup.com/",
     "completion": {
-      "version": "1.0.0",
+      "version": "1.1.0",
       "status": "complete",
-      "scope": "Startup Experiment Plan",
-      "evaluation": "Skill format, repository integrity, portable resource synchronization, isolated installation, and authored scenario review; no independent comparative benchmark."
+      "scope": "Experiment design, plan critique, event-log analysis, and next-test revision",
+      "evaluation": "Substantive review of concept coverage, decisions, full event-log example, troubleshooting, and four executed same-assistant reasoning exercises; arithmetic and portable-package checks. No independent model benchmark or full-book expert review."
     },
     "toolkit": {
       "skill": "startup-experiment-planner",
@@ -230,9 +230,9 @@
     "official_url": "https://www.emyth.com/inside/groundbreaking-ideas-from-the-e-myth-revisited",
     "completion": {
       "version": "1.0.0",
-      "status": "complete",
+      "status": "revision-needed",
       "scope": "Repeatable Process Brief",
-      "evaluation": "Skill format, repository integrity, portable resource synchronization, isolated installation, and authored scenario review; no independent comparative benchmark."
+      "evaluation": "Packaging checked; editorial depth requires revision against the applied-toolkit standard."
     },
     "toolkit": {
       "skill": "business-process-design",
@@ -323,9 +323,9 @@
     "official_url": "https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/",
     "completion": {
       "version": "1.0.0",
-      "status": "complete",
+      "status": "revision-needed",
       "scope": "Focused Work Plan",
-      "evaluation": "Skill format, repository integrity, portable resource synchronization, isolated installation, and authored scenario review; no independent comparative benchmark."
+      "evaluation": "Packaging checked; editorial depth requires revision against the applied-toolkit standard."
     },
     "toolkit": {
       "skill": "deep-work-planner",
@@ -392,9 +392,9 @@
     "official_url": "https://shop.acquisition.com/products/100m-offers-hardcover",
     "completion": {
       "version": "1.0.0",
-      "status": "complete",
+      "status": "revision-needed",
       "scope": "Offer Design Brief",
-      "evaluation": "Skill format, repository integrity, portable resource synchronization, isolated installation, and authored scenario review; no independent comparative benchmark."
+      "evaluation": "Packaging checked; editorial depth requires revision against the applied-toolkit standard."
     },
     "toolkit": {
       "skill": "offer-design",
@@ -428,9 +428,9 @@
     "official_url": "https://shop.acquisition.com/",
     "completion": {
       "version": "1.0.0",
-      "status": "complete",
+      "status": "revision-needed",
       "scope": "Lead Generation Plan",
-      "evaluation": "Skill format, repository integrity, portable resource synchronization, isolated installation, and authored scenario review; no independent comparative benchmark."
+      "evaluation": "Packaging checked; editorial depth requires revision against the applied-toolkit standard."
     },
     "toolkit": {
       "skill": "lead-generation-planner",
@@ -1186,9 +1186,9 @@
     "official_url": "https://www.aprildunford.com/books",
     "completion": {
       "version": "1.0.0",
-      "status": "complete",
+      "status": "revision-needed",
       "scope": "Positioning Brief",
-      "evaluation": "Skill format, repository integrity, portable resource synchronization, isolated installation, and authored scenario review; no independent comparative benchmark."
+      "evaluation": "Packaging checked; editorial depth requires revision against the applied-toolkit standard."
     },
     "toolkit": {
       "skill": "product-positioning",
@@ -1431,9 +1431,9 @@
     "official_url": "https://www.penguinrandomhouse.com/books/319121/traction-by-gabriel-weinberg-and-justin-mares/",
     "completion": {
       "version": "1.0.0",
-      "status": "complete",
+      "status": "revision-needed",
       "scope": "Acquisition Channel Test Plan",
-      "evaluation": "Skill format, repository integrity, portable resource synchronization, isolated installation, and authored scenario review; no independent comparative benchmark."
+      "evaluation": "Packaging checked; editorial depth requires revision against the applied-toolkit standard."
     },
     "toolkit": {
       "skill": "acquisition-channel-testing",
@@ -1676,9 +1676,9 @@
     "official_url": "https://storybrand.com/",
     "completion": {
       "version": "1.0.0",
-      "status": "complete",
+      "status": "revision-needed",
       "scope": "Landing-Page Messaging Brief",
-      "evaluation": "Skill format, repository integrity, portable resource synchronization, isolated installation, and authored scenario review; no independent comparative benchmark."
+      "evaluation": "Packaging checked; editorial depth requires revision against the applied-toolkit standard."
     },
     "toolkit": {
       "skill": "landing-page-messaging",
