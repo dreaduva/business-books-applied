@@ -14,7 +14,7 @@
       "ai_assisted": true,
       "human_reviewer": null,
       "reviewed_on": null,
-      "source_scope": "Public primary sources: https://jamesclear.com/atomic-habits; https://jamesclear.com/three-steps-habit-change. Original application; no full-book or human expert review claimed.",
+      "source_scope": "Public primary materials: James Clear Atomic Habits page, habit-loop/four-laws excerpt and identity-based habits excerpt. Original application; no full-book or human expert review claimed.",
       "source_checked_on": "2026-09-17"
     },
     "resources": {
@@ -24,10 +24,10 @@
     },
     "official_url": "https://jamesclear.com/atomic-habits",
     "completion": {
-      "version": "1.0.0",
-      "status": "revision-needed",
-      "scope": "Habit Experiment Plan",
-      "evaluation": "Packaging checked; editorial depth requires revision against the applied-toolkit standard."
+      "version": "1.1.0",
+      "status": "complete",
+      "scope": "Work-habit design, opportunity-aware logs, useful output checks and recovery revision",
+      "evaluation": "Substantive review and recorded same-assistant behavioral exercises; source scope, original worked example, worksheet, skill format and isolated installation checked. No independent model benchmark or full-book expert review."
     },
     "toolkit": {
       "skill": "habit-experiment-planner",

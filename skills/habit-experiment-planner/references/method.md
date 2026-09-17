@@ -22,3 +22,5 @@ Distinguish forgetting, missing materials, conflicting obligations, and an actio
 - [James Clear — habit loop and four laws](https://jamesclear.com/three-steps-habit-change)
 
 Independent practical application based on these public author or publisher materials. Full-book expert review and real-world outcome testing are not claimed. Worksheets and examples are original project material.
+
+Further primary reading: [James Clear on identity-based habits](https://jamesclear.com/identity-based-habits). Source scope is the author's public book page and habit/identity excerpts; the work experiment and review criteria are original applications, not full-book coverage or a scientific validation study.

@@ -23,3 +23,7 @@ Record whether the action occurred when its cue appeared and what got in the way
 Review the pattern and adjust the cue, action size, or environment. Keep the routine only if it helps. A trial's end is a review point, not a guarantee that the behavior is now automatic.
 
 [Completed example](../books/atomic-habits/worked-example.md) · [Installable skill](../skills/habit-experiment-planner/SKILL.md)
+
+## Inspect an output before praising the streak
+
+At review, reconstruct the opportunity count and examine at least one actual output. Separate repetition from usefulness. If the cue is absent, redesign timing; if the note is vague, improve the minimum quality criterion. Preserve the historical rule when changing the plan. A missed action calls for a workable recovery, not invented completion or a doubled workload.

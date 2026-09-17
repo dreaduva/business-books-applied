@@ -32,3 +32,21 @@ Original project worksheet. Fill unknowns explicitly; distinguish a proposed pla
 - Pattern in misses and usefulness:
 - Keep, change, or stop decision:
 
+## Opportunity log
+
+Define the opportunity before starting. Preserve old definitions if you revise them.
+
+| Opportunity/date | Cue occurred? | Minimum completed? | Immediate or delayed? | Useful output/source | Obstacle |
+| --- | --- | --- | --- | --- | --- |
+| | | | | | |
+
+- Planned non-opportunities, defined in advance:
+- Completion count / eligible opportunities:
+- Outputs meeting the quality criterion / completed outputs:
+- Concrete example of useful output:
+- Evidence that an output was used later, if available:
+
+## Versioned recovery plan
+
+Write the fallback cue, available time and what to do when the fallback is unavailable. Preserve unknown or missing evidence; never invent an output to protect a streak. Record what changes in the next version and whether its rate is comparable with the old definition. Use the review to keep, change or stop the behavior.
+
