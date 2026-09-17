@@ -14,7 +14,7 @@ Preparing customer interviews? Learn to ask about real behavior, spot weak evide
 
 | Read | Apply | See it done | Prepare with AI |
 | --- | --- | --- | --- |
-| [Summary and interview questions](books/the-mom-test/README.md) | [Copy the interview template](books/the-mom-test/templates/interview-plan.md) | [Tutor-scheduling example](books/the-mom-test/examples/tutor-scheduling.md) | [Customer Interview Planner](skills/customer-interview-planner/SKILL.md) |
+| [Summary and interview questions](books/the-mom-test/README.md) | [Copy the interview template](books/the-mom-test/interview-plan.md) | [Tutor-scheduling example](books/the-mom-test/worked-example.md) | [Customer Interview Planner](skills/customer-interview-planner/SKILL.md) |
 
 The worked example is fictional and clearly labeled. The template is original project material, ready to copy into your own notes.
 
@@ -25,14 +25,14 @@ Find a book by its main subject. Open its guide for the cover, summary, practica
 <!-- LIBRARY:START -->
 **1 published guide · 99 titles in the planned collection.** Every resource below is available now.
 
-[A–Z book index](books/README.md) · [Browse topics](topics/README.md) · [Planned collection](books/roadmap.md)
+[A–Z book index](books/README.md) · [Planned collection](books/roadmap.md)
 
 <details open>
 <summary><strong>Startups and discovery</strong> · 1 guide</summary>
 
 | Book and author | Put an idea to work | Resources |
 | --- | --- | --- |
-| [The Mom Test](books/the-mom-test/README.md)<br>Rob Fitzpatrick | Customer interview guide | [Template](books/the-mom-test/templates/interview-plan.md) · [Example](books/the-mom-test/examples/tutor-scheduling.md) · [Checklist](books/the-mom-test/question-checklist.md) · [AI skill](skills/customer-interview-planner/SKILL.md) |
+| [The Mom Test](books/the-mom-test/README.md)<br>Rob Fitzpatrick | Customer interview guide | [Template](books/the-mom-test/interview-plan.md) · [Example](books/the-mom-test/worked-example.md) · [Checklist](books/the-mom-test/question-checklist.md) · [AI skill](skills/customer-interview-planner/SKILL.md) |
 
 </details>
 

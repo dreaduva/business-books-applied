@@ -14,7 +14,7 @@ For each candidate, record:
 - Current keyword evidence, clearly separated from historical popularity.
 - Why the book belongs in this project's business scope.
 
-The `popularity_evidence` field in `catalog/books.json` holds sourced observations. An empty list means unverified. Catalog IDs preserve the earlier research order; they are not rankings.
+The `popularity_evidence` field in `.github/library/books.json` holds sourced observations. An empty list means unverified. Catalog IDs preserve the earlier research order; they are not rankings.
 
 ## Changes to the list
 

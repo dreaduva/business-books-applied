@@ -43,4 +43,4 @@ Use an anonymized participant identifier when sharing notes.
 - What this evidence cannot establish:
 - Next investigation and reason:
 
-[Instructions](../../../playbooks/customer-interviews.md) · [Completed example](../examples/tutor-scheduling.md)
+[Instructions](../../playbooks/customer-interviews.md) · [Completed example](worked-example.md)

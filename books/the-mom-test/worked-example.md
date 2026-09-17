@@ -50,6 +50,6 @@ Do not build a replacement calendar from this note. Investigate whether the conf
 
 The point is the change in the question: from “Would tutors like a nicer calendar?” to “What happens when several people must agree on a changed lesson?”
 
-Read the [annotated fictional dialogue](../README.md#worked-example-the-calendar-was-not-the-starting-point). Notice that its final answer weakens the founder's initial assumption; preserve that detail in the research notes.
+Read the [annotated fictional dialogue](README.md#worked-example-the-calendar-was-not-the-starting-point). Notice that its final answer weakens the founder's initial assumption; preserve that detail in the research notes.
 
-[Copy the blank template](../templates/interview-plan.md) · [Read the playbook](../../../playbooks/customer-interviews.md) · [Book guide](../README.md)
+[Copy the blank template](interview-plan.md) · [Read the playbook](../../playbooks/customer-interviews.md) · [Book guide](README.md)

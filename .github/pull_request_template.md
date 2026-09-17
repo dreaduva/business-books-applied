@@ -10,7 +10,7 @@ List sources actually consulted. Identify original examples, AI assistance, and 
 
 ## Validation
 
-- [ ] Ran `python3 scripts/check.py`.
+- [ ] Ran `python3 .github/library/check.py`.
 - [ ] Checked that book claims, examples, and review status are accurate.
 - [ ] Reviewed the rendered Markdown and affected links.
 - [ ] Kept affiliate promotion secondary and disclosures accurate, if applicable.

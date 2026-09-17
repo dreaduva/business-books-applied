@@ -4,15 +4,15 @@ Python 3.10 or later is enough for the repository scripts. There are no third-pa
 
 ## Update the catalog
 
-Edit `catalog/books.json`. Keep IDs stable. When a useful draft guide exists, set its `guide_path` and status to `draft`; do not create empty files for planned books.
+Edit `.github/library/books.json`. Keep IDs stable. When a useful draft guide exists, set its `guide_path` and status to `draft`; do not create empty files for planned books.
 
 ```bash
-python3 scripts/build_catalog.py
-python3 scripts/render_headers.py
-python3 scripts/check.py
+python3 .github/library/build_catalog.py
+python3 .github/library/render_headers.py
+python3 .github/library/check.py
 ```
 
-The build script generates the homepage library section, alphabetical index, topic navigation, and planned collection. Book prose, examples, and criticism remain editorial work.
+The build script generates the homepage library section, alphabetical index and planned collection. Book prose, examples, and criticism remain editorial work.
 
 ## Complete review
 
@@ -20,13 +20,13 @@ Follow [the editorial checklist](editorial-standards.md), then record the source
 
 ## Add a cover
 
-In `config/covers.json`, record the image URL, source, edition, credit, permitted use, evidence URL, and check date. Set status to `approved` only when the rights basis has been established. Use a stable authorized HTTPS image URL suitable for GitHub's rendering and image proxy. The header renderer displays it at 180 px wide with descriptive alt text and a credit.
+In `.github/library/covers.json`, record the image URL, source, edition, credit, permitted use, evidence URL, and check date. Set status to `approved` only when the rights basis has been established. Use a stable authorized HTTPS image URL suitable for GitHub's rendering and image proxy. The header renderer displays it at 180 px wide with descriptive alt text and a credit.
 
 For an Open Library cover, use `service-embed` instead of `approved`, retain the direct cover-service URL, and record the service's embedding guidelines as the display basis. This does not claim a copyright license to the artwork. Keep private correspondence and internal research in `private/`, which is ignored by Git. Summarize permission publicly without exposing private contact details. This repository does not scrape Amazon images or store API credentials.
 
 ## Add affiliate links later
 
-The owner deferred Amazon setup. When details are available, verify [the account and placement requirements](affiliate-and-cover-policy.md), then edit `config/affiliate-links.json`:
+The owner deferred Amazon setup. When details are available, verify [the account and placement requirements](affiliate-and-cover-policy.md), then edit `.github/library/affiliate-links.json`:
 
 - Set the actual marketplace, and record confirmation of the account and registered site.
 - Add an owner-provided Amazon product URL under the matching book slug in `links`.
@@ -50,10 +50,16 @@ Local only: raw keyword research, SEO briefs, implementation plans, account note
 
 ## Scale and resource ownership
 
-Assign each book one primary category from `scripts/build_catalog.py`. Add a category there when a real editorial need arises. Keep slugs and IDs stable, disambiguate identical titles, and never use IDs as popularity rankings. New books may extend the original 100.
+Assign each book one primary category from `.github/library/build_catalog.py`. Add a category there when a real editorial need arises. Keep slugs and IDs stable, disambiguate identical titles, and never use IDs as popularity rankings. New books may extend the original 100.
 
-Only published guides appear in the homepage, alphabetical index, and topic directory. Planned and draft titles appear separately in `books/roadmap.md`. Empty topic pages and empty book folders are not generated.
+Only published guides appear in the homepage and alphabetical index. Planned and draft titles appear separately in `books/roadmap.md`. Topics are collapsible sections on the homepage; no separate topic pages are generated. Empty book folders are not generated.
 
-Edit the homepage outside its LIBRARY markers. The generated section lists each published book once, grouped by its primary category. Its resource links come from `catalog/books.json`.
+Edit the homepage outside its LIBRARY markers. The generated section lists each published book once, grouped by its primary category. Its resource links come from `.github/library/books.json`.
 
 Book-specific templates and examples live in the book folder; shared workflows live in `playbooks/`. Skill assets can include a portable output scaffold so downloading a skill does not depend on other folders; avoid duplicating whole book guides there.
+
+## Simple public structure
+
+Readers use `books/`, `playbooks/`, and `skills/`. Editorial and contribution policies remain in `docs/`. Public build scripts and metadata live together in `.github/library/`; raw SEO research and agent working notes remain in ignored `private/`.
+
+Each book is a flat folder with a README and only the useful supporting files. Avoid separate indexes for the same topics or placeholder pages. The main README groups published books by subject; `books/README.md` is the alphabetical index and `books/roadmap.md` lists unfinished titles.

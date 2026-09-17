@@ -7,7 +7,7 @@ Useful corrections matter more than the number of pages. Start with an existing 
 1. Identify the claim, question, or example you want to improve.
 2. Link a primary source or explain the observable problem.
 3. Edit the guide and any affected template or skill together.
-4. Run `python3 scripts/check.py`.
+4. Run `python3 .github/library/check.py`.
 5. In your pull request, explain the reader benefit and what you checked.
 
 Follow the [editorial standards](docs/editorial-standards.md). Disclose substantial AI assistance. Do not add invented experience, unsupported sales figures, copied summaries, unlicensed illustrations, or affiliate links belonging to contributors.

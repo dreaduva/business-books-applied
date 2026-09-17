@@ -13,10 +13,10 @@ Use these content requirements as a starting point. Adjust the flow to the book;
 9. **Reading decision and sources:** explain who would benefit from the full book; cite source material without copying sales blurbs.
 10. **Editorial note:** AI assistance, actual reviewer, source-check scope, and substantive update date.
 
-The [sample guide](../books/the-mom-test/README.md) demonstrates the structure. The affiliate and cover lines are generated from explicit configuration using `python3 scripts/render_headers.py`; they are never guessed from a title.
+The [sample guide](../books/the-mom-test/README.md) demonstrates the structure. The affiliate and cover lines are generated from explicit configuration using `python3 .github/library/render_headers.py`; they are never guessed from a title.
 
 ## Permanent home and navigation
 
-Use `books/<stable-title-slug>/README.md`. Put book-specific editable resources in `templates/` and substantial worked examples in `examples/` inside that book folder. Add only resources that exist to its catalog `resources` map. Use one primary topic; connect other topics through useful links rather than duplicate pages.
+Use `books/<stable-title-slug>/README.md`. Keep book-specific resources directly alongside the guide: `interview-plan.md`, `worked-example.md`, or another descriptive filename. Add subfolders only when a book actually needs several resources of the same type. Add only resources that exist to its catalog `resources` map. Use one primary topic; connect other topics through useful links rather than duplicate pages.
 
-The guide's opening should link to its summary, template, example, and AI skill where available. Skills stay under `skills/` and shared workflows under `playbooks/`. Do not create a skill automatically for every book. Preserve old URLs with short move notices when restructuring.
+The guide's opening should link to its summary, template, example, and AI skill where available. Skills stay under `skills/` and shared workflows under `playbooks/`. Do not create a skill automatically for every book. Keep guide URLs stable. Update every internal link when moving a supporting resource.

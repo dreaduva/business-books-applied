@@ -24,7 +24,7 @@ The disclosure alongside configured links is: **As an Amazon Associate I earn fr
 
 A cover found online is not automatically licensed for reuse. Author/publisher promotional assets need a documented permission basis appropriate to this use. Amazon product images have their own acquisition, linking, storage, and display conditions; a scraped image URL or an affiliate tag is not permission to commit the image to Git.
 
-Prefer a cover asset supplied or expressly allowed by the rights holder for an editorial guide. Record source URL, edition, credit, permitted use, permission evidence, and date in `config/covers.json`. Keep any private permission correspondence outside the public repository and publish only the necessary evidence summary.
+Prefer a cover asset supplied or expressly allowed by the rights holder for an editorial guide. Record source URL, edition, credit, permitted use, permission evidence, and date in `.github/library/covers.json`. Keep any private permission correspondence outside the public repository and publish only the necessary evidence summary.
 
 Do not alter a cover, remove a credit, imply endorsement, or include third-party art in the MIT license. Do not reproduce a publisher's workbook or diagrams as if they were our original templates.
 

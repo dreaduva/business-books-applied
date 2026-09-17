@@ -11,7 +11,7 @@ from urllib.parse import unquote, urlsplit
 from render_headers import safe_url
 from build_catalog import CATEGORIES
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[2]
 errors = []
 
 
@@ -31,13 +31,13 @@ def anchors(text):
     return result
 
 
-books = json.loads((ROOT / "catalog/books.json").read_text())
+books = json.loads((ROOT / ".github/library/books.json").read_text())
 parser = argparse.ArgumentParser(description=__doc__)
 parser.add_argument("--research", action="store_true", help="Also validate ignored local keyword evidence")
 args = parser.parse_args()
 research = json.loads((ROOT / "private/catalog/keywords.json").read_text()) if args.research else None
-covers = json.loads((ROOT / "config/covers.json").read_text())
-affiliate = json.loads((ROOT / "config/affiliate-links.json").read_text())
+covers = json.loads((ROOT / ".github/library/covers.json").read_text())
+affiliate = json.loads((ROOT / ".github/library/affiliate-links.json").read_text())
 check(set(range(1, 101)).issubset({b["id"] for b in books}), "Preserve the original 100 catalog IDs.")
 check(len({b["id"] for b in books}) == len(books), "Duplicate catalog ID.")
 check(len({b["slug"] for b in books}) == len(books), "Duplicate book slug; disambiguate identical titles.")
@@ -107,7 +107,7 @@ for path in ROOT.glob("skills/*/SKILL.md"):
     check("amzn.to/" not in text and "?tag=" not in text, f"Affiliate link in skill: {path}")
 
 for script in ["build_catalog.py", "render_headers.py"]:
-    result = subprocess.run([sys.executable, str(ROOT / "scripts" / script), "--check"], capture_output=True, text=True)
+    result = subprocess.run([sys.executable, str(ROOT / ".github/library" / script), "--check"], capture_output=True, text=True)
     if result.returncode:
         errors.append(result.stdout + result.stderr)
 

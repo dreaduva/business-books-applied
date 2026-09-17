@@ -7,7 +7,7 @@ import re
 from pathlib import Path
 from urllib.parse import urlparse
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[2]
 START = "<!-- BOOK-HEADER:START -->"
 END = "<!-- BOOK-HEADER:END -->"
 AMAZON_HOSTS = {"amazon.com", "amazon.co.uk", "amazon.de", "amazon.fr", "amazon.it", "amazon.es", "amazon.ca", "amazon.com.au", "amazon.co.jp", "amazon.in", "amazon.com.br", "amazon.com.mx", "amazon.nl", "amazon.se", "amazon.pl", "amazon.sg", "amazon.ae", "amazon.sa", "amazon.com.tr", "amazon.eg", "amazon.com.be", "amazon.ie", "amzn.to"}
@@ -62,9 +62,9 @@ def header(book, covers, affiliate):
 
 
 def outputs():
-    books = json.loads((ROOT / "catalog/books.json").read_text())
-    covers = json.loads((ROOT / "config/covers.json").read_text())
-    affiliate = json.loads((ROOT / "config/affiliate-links.json").read_text())
+    books = json.loads((ROOT / ".github/library/books.json").read_text())
+    covers = json.loads((ROOT / ".github/library/covers.json").read_text())
+    affiliate = json.loads((ROOT / ".github/library/affiliate-links.json").read_text())
     results = {}
     for book in books:
         if not book["guide_path"]:
@@ -83,7 +83,7 @@ def main():
     args = parser.parse_args()
     for path, content in outputs().items():
         if args.check and path.read_text() != content:
-            raise SystemExit(f"Stale header: {path.relative_to(ROOT)}; run scripts/render_headers.py")
+            raise SystemExit(f"Stale header: {path.relative_to(ROOT)}; run .github/library/render_headers.py")
         if not args.check:
             path.write_text(content)
     print("Book headers are current." if args.check else "Rendered configured book headers.")

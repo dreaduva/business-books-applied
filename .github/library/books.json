@@ -285,8 +285,8 @@
     },
     "official_url": "https://www.momtestbook.com/",
     "resources": {
-      "Template": "books/the-mom-test/templates/interview-plan.md",
-      "Example": "books/the-mom-test/examples/tutor-scheduling.md",
+      "Template": "books/the-mom-test/interview-plan.md",
+      "Example": "books/the-mom-test/worked-example.md",
       "Checklist": "books/the-mom-test/question-checklist.md",
       "AI skill": "skills/customer-interview-planner/SKILL.md"
     }

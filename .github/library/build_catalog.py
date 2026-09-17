@@ -6,7 +6,7 @@ import os
 import re
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[2]
 CATEGORIES = [
     "Startups and discovery", "Strategy and business models", "Product and innovation",
     "Marketing and growth", "Sales and communication", "Money and operations",
@@ -38,13 +38,13 @@ def table(books, base):
 
 
 def outputs():
-    books = json.loads((ROOT / 'catalog/books.json').read_text())
+    books = json.loads((ROOT / '.github/library/books.json').read_text())
     published = [b for b in books if b['status'] == 'published']
     planned = [b for b in books if b['status'] != 'published']
     categories = [c for c in CATEGORIES if any(b['category'] == c for b in published)]
     result = {}
     lines = [START, f"**{len(published)} published {'guide' if len(published)==1 else 'guides'} · {len(planned)} titles in the planned collection.** Every resource below is available now.", '',
-             '[A–Z book index](books/README.md) · [Browse topics](topics/README.md) · [Planned collection](books/roadmap.md)', '']
+             '[A–Z book index](books/README.md) · [Planned collection](books/roadmap.md)', '']
     for c in categories:
         group = [b for b in published if b['category'] == c]
         lines += ['<details open>' if len(categories)==1 else '<details>', f'<summary><strong>{c}</strong> · {len(group)} {"guide" if len(group)==1 else "guides"}</summary>', '']
@@ -54,7 +54,7 @@ def outputs():
     if root.count(START)!=1 or root.count(END)!=1:
         raise ValueError('Expected one library block in root README.')
     result[ROOT/'README.md'] = re.sub(re.escape(START)+r'.*?'+re.escape(END), lambda _: '\n'.join(lines), root, flags=re.S)
-    lines = ['# Business Book Summaries and Practical Guides', '', '[Home](../README.md) · [Topics](../topics/README.md) · [Planned collection](roadmap.md)', '',
+    lines = ['# Business Book Summaries and Practical Guides', '', '[Home](../README.md) · [Browse by topic](../README.md#browse-the-library) · [Planned collection](roadmap.md)', '',
              'Browse published guides alphabetically by title. Each book has one permanent home, with its templates and examples linked alongside it. Publication describes availability, not human expert review; read each guide’s editorial note.', '']
     lines += table(published, 'books')
     result[ROOT/'books/README.md'] = '\n'.join(lines)+'\n'
@@ -69,15 +69,6 @@ def outputs():
             lines.append(f"| {cell(b['title'])} | {cell(b['author'])} | {b['status'].capitalize()} |")
         lines += ['']
     result[ROOT/'books/roadmap.md']='\n'.join(lines)
-    lines=['# Business Books by Topic', '', '[Home](../README.md) · [A–Z index](../books/README.md) · [Planned collection](../books/roadmap.md)', '',
-           'Choose a topic to find published guides and practical resources. Each book has one primary category; related guides can link across topics without duplicating content.', '', '| Topic | Published guides |', '| --- | ---: |']
-    for c in categories:
-        group=[b for b in published if b['category']==c]
-        lines.append(f'| [{c}]({slug(c)}.md) | {len(group)} |')
-        page=[f'# {c}: Business Books and Practical Guides', '', '[All topics](README.md) · [A–Z index](../books/README.md) · [Home](../README.md)', '']+table(group,'topics')
-        result[ROOT/f'topics/{slug(c)}.md']='\n'.join(page)+'\n'
-    lines += ['', 'Other subjects will appear here as guides are published. The [planned collection](../books/roadmap.md) includes the full topic range.', '']
-    result[ROOT/'topics/README.md']='\n'.join(lines)
     return result
 
 
@@ -93,7 +84,7 @@ def main():
             path.parent.mkdir(parents=True,exist_ok=True)
             path.write_text(content)
     if stale: raise SystemExit('Regenerate public navigation: '+', '.join(stale))
-    print('Public navigation is current.' if args.check else 'Generated homepage library, A–Z index, topic pages, and planned collection.')
+    print('Public navigation is current.' if args.check else 'Generated homepage library, A–Z index and planned collection.')
 
 
 if __name__=='__main__':

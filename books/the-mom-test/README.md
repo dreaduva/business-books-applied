@@ -12,7 +12,7 @@ Cover: via Open Library; artwork remains the property of its respective rights h
 
 [Summary](#the-mom-test-summary) · [Three rules](#the-three-rules-in-practice) · [Interview questions](#customer-interview-questions-move-from-opinions-to-incidents) · [Commitment](#compliments-interest-and-commitment) · [Worked example](#worked-example-the-calendar-was-not-the-starting-point) · [FAQ](#frequently-asked-questions)
 
-[All books](../README.md) · [Interview template](templates/interview-plan.md) · [Worked example](examples/tutor-scheduling.md) · [Question checklist](question-checklist.md) · [AI skill](../../skills/customer-interview-planner/SKILL.md)
+[All books](../README.md) · [Interview template](interview-plan.md) · [Worked example](worked-example.md) · [Question checklist](question-checklist.md) · [AI skill](../../skills/customer-interview-planner/SKILL.md)
 
 [Follow the customer interview playbook](../../playbooks/customer-interviews.md)
 
@@ -89,7 +89,7 @@ Choose a next step that fits the stage and respect a refusal. Do not push a depo
 
 **Decide what to investigate next.** A pattern across conversations may justify a narrower experiment. An isolated complaint may justify another question. Neither requires you to declare the whole business validated.
 
-Copy the [customer interview plan](templates/interview-plan.md) to use these steps.
+Copy the [customer interview plan](interview-plan.md) to use these steps.
 
 ```mermaid
 flowchart TD
@@ -116,7 +116,7 @@ The sensible next move is to investigate that coordination problem. It would be 
 | No buying behavior was observed | Willingness to pay remains unknown. |
 | Only one fictional participant is described | This demonstrates a method, not market evidence. |
 
-The [completed example plan](examples/tutor-scheduling.md) shows the objective, prompts, evidence fields, and next decision together.
+The [completed example plan](worked-example.md) shows the objective, prompts, evidence fields, and next decision together.
 
 <details>
 <summary>Read a short fictional conversation and its annotations</summary>
@@ -200,7 +200,7 @@ You can investigate what someone currently spends, what alternatives they have t
 
 ### Is there a free PDF or official worksheet here?
 
-This repository provides its own [free interview template](templates/interview-plan.md). It does not distribute the book or an official workbook. The author links authorized purchase formats from [the book's website](https://www.momtestbook.com/).
+This repository provides its own [free interview template](interview-plan.md). It does not distribute the book or an official workbook. The author links authorized purchase formats from [the book's website](https://www.momtestbook.com/).
 
 ### Which edition does this guide cover?
 
