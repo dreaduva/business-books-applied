@@ -3,7 +3,7 @@
 <!-- BOOK-HEADER:START -->
 <img src="https://covers.openlibrary.org/b/isbn/9780887307287-M.jpg?default=false" alt="The E-Myth Revisited by Michael E. Gerber — book cover" width="180">
 
-[Book details and buying options — author's website](https://www.emyth.com/inside/groundbreaking-ideas-from-the-e-myth-revisited)
+[Official book information and buying options](https://www.emyth.com/inside/groundbreaking-ideas-from-the-e-myth-revisited)
 
 Cover: via Open Library; artwork remains the property of its respective rights holders. [Image source](https://openlibrary.org/isbn/9780887307287).
 <!-- BOOK-HEADER:END -->

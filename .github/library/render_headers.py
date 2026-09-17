@@ -53,7 +53,7 @@ def header(book, covers, affiliate):
         lines += ["", f"[View {book['title']} on Amazon (affiliate link)]({url})", "", affiliate["disclosure"]]
     elif book.get("official_url"):
         official_url = safe_url(book["official_url"])
-        lines += ["", f"[Book details and buying options — author's website]({official_url})"]
+        lines += ["", f"[Official book information and buying options]({official_url})"]
     else:
         lines += ["", "*Amazon affiliate link not configured.*"]
     if cover_ready:

@@ -20,10 +20,10 @@ The library began with a curated selection of 100 titles across business, entrep
 
 Amazon affiliate links are currently inactive. When enabled, links will be labeled as affiliate links with a nearby disclosure: **As an Amazon Associate I earn from qualifying purchases.** The guides, templates, and skills remain free to use without buying a book.
 
-Purchase links belong on the relevant book page, not inside AI skill instructions. Current buying-options links lead to the author's website.
+Purchase links belong on the relevant book page, not inside AI skill instructions. Current book links lead to author, publisher, or official book resources.
 
 ## Covers and licensing
 
-Cover images identify the books discussed. Each displayed cover has a source credit and a documented display basis. The Mom Test uses an Open Library thumbnail, following the service's [cover-embedding guidelines](https://openlibrary.org/dev/docs/api/covers). This does not mean the artwork is public domain or licensed under this project's license.
+Cover images identify the books discussed. Each displayed cover has a source credit and a documented display basis. The published guides use Open Library thumbnails, following the service's [cover-embedding guidelines](https://openlibrary.org/dev/docs/api/covers). This does not mean the artwork is public domain or licensed under this project's license.
 
 Original project material is [MIT licensed](LICENSE). Book text, covers, trademarks, and other third-party material retain their owners' rights. Their inclusion does not imply endorsement.

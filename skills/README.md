@@ -4,9 +4,20 @@
 
 Install a focused business workflow in your AI assistant. These are instructions and supporting templates; they work from the information you provide and do not invent customer evidence.
 
-| Skill | Use it to | Based on |
+<!-- SKILLS:START -->
+| Skill | What you produce | Supporting book |
 | --- | --- | --- |
-| [Customer Interview Planner](customer-interview-planner/SKILL.md) | Plan interviews, repair questions, analyze notes, and choose the next test | [The Mom Test](../books/the-mom-test/README.md) |
+| [Startup Experiment Planner](startup-experiment-planner/SKILL.md) | Startup Experiment Plan | [The Lean Startup](../books/the-lean-startup/README.md) |
+| [Customer Interview Planner](customer-interview-planner/SKILL.md) | Interview plan, evidence debrief, and next test | [The Mom Test](../books/the-mom-test/README.md) |
+| [Product Positioning](product-positioning/SKILL.md) | Positioning Brief | [Obviously Awesome](../books/obviously-awesome/README.md) |
+| [Lead Generation Planning](lead-generation-planner/SKILL.md) | Lead Generation Plan | [$100M Leads](../books/100m-leads/README.md) |
+| [Landing-Page Messaging](landing-page-messaging/SKILL.md) | Landing-Page Messaging Brief | [Building a StoryBrand](../books/building-a-storybrand/README.md) |
+| [Acquisition Channel Testing](acquisition-channel-testing/SKILL.md) | Acquisition Channel Test Plan | [Traction](../books/traction-gabriel-weinberg/README.md) |
+| [Offer Design](offer-design/SKILL.md) | Offer Design Brief | [$100M Offers](../books/100m-offers/README.md) |
+| [Business Process Design](business-process-design/SKILL.md) | Repeatable Process Brief | [The E-Myth Revisited](../books/the-e-myth-revisited/README.md) |
+| [Habit Experiment Planning](habit-experiment-planner/SKILL.md) | Habit Experiment Plan | [Atomic Habits](../books/atomic-habits/README.md) |
+| [Deep Work Planning](deep-work-planner/SKILL.md) | Focused Work Plan | [Deep Work](../books/deep-work/README.md) |
+<!-- SKILLS:END -->
 
 ## Quick install
 
@@ -16,7 +27,7 @@ Requires Node.js and npm. Run from your project directory:
 npx skills add dreaduva/business-books-applied
 ```
 
-The installer lets you choose skills and supported assistants. Installation is project-scoped by default. The collection currently contains one installable skill; planned book guides are not installed as skills.
+The installer lets you choose skills and supported assistants. Installation is project-scoped by default. Only completed skills appear in the installer; planned book guides are not installed.
 
 ## Choose an assistant
 
@@ -56,11 +67,8 @@ For a chat assistant without skill installation, provide the [skill instructions
 
 The installer is the [open-source skills CLI](https://github.com/vercel-labs/skills). Packages follow the [Agent Skills format](https://agentskills.io/specification); each skill folder includes its own supporting files. Book guides and purchase links stay outside the installed skill.
 
-## Included in version 1.0
+## What gets installed
 
-- Interview plan, research debrief, and next-test templates.
-- Question-design and evidence-analysis references, loaded only when useful.
-- A fully completed fictional example, including contradictory evidence.
-- Source context and scope.
+Every skill includes its own instructions, editable worksheet, method reference, and completed fictional example. The Customer Interview Planner also includes question repair, evidence debrief, and next-test resources.
 
-The package is self-contained: its local references work without the rest of this repository. The book template and portable example are synchronized automatically to prevent divergent copies.
+Local references stay inside each package, so a skill works without the rest of the repository. Shared worksheets and examples are synchronized automatically. These tools help structure work; they do not supply real customer evidence or establish that a business decision will succeed.

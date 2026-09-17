@@ -69,6 +69,31 @@ def outputs():
             lines.append(f"| {cell(b['title'])} | {cell(b['author'])} | {b['status'].capitalize()} |")
         lines += ['']
     result[ROOT/'books/roadmap.md']='\n'.join(lines)
+    # Derive every directory from the same published records as the library.
+    entries = []
+    for book in published:
+        if book['slug'] == 'the-mom-test':
+            info = {'skill': 'customer-interview-planner', 'title': 'Customer Interview Planner', 'artifact': 'Interview plan, evidence debrief, and next test'}
+            playbook = 'customer-interviews'
+        else:
+            info = book.get('toolkit')
+            if not info:
+                continue
+            playbook = info['skill']
+        entries.append((book, info, playbook))
+    entries.sort(key=lambda entry: (CATEGORIES.index(entry[0]['category']), entry[0]['title'].casefold()))
+    for directory, marker in [('skills', 'SKILLS'), ('playbooks', 'PLAYBOOKS')]:
+        rows = ['| Skill | What you produce | Supporting book |', '| --- | --- | --- |'] if directory == 'skills' else ['| Playbook | What you produce | Supporting book |', '| --- | --- | --- |']
+        for book, info, playbook in entries:
+            target = info['skill'] + '/SKILL.md' if directory == 'skills' else playbook + '.md'
+            rows.append(f"| [{cell(info['title'])}]({target}) | {cell(info['artifact'])} | [{cell(book['title'])}]({link(book['guide_path'], directory)}) |")
+        start, end = f'<!-- {marker}:START -->', f'<!-- {marker}:END -->'
+        path = ROOT/directory/'README.md'
+        current = path.read_text()
+        if current.count(start) != 1 or current.count(end) != 1:
+            raise ValueError(f'Expected one {marker} block in {path}.')
+        block = start + '\n' + '\n'.join(rows) + '\n' + end
+        result[path] = re.sub(re.escape(start)+r'.*?'+re.escape(end), lambda _: block, current, flags=re.S)
     return result
 
 

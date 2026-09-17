@@ -14,7 +14,7 @@ Run in the project where you want to use the skills. Requires Node.js and npm.
 npx skills add dreaduva/business-books-applied
 ```
 
-Choose a skill and your assistant in the installer. Currently available: **Customer Interview Planner**, informed by *The Mom Test*.
+Choose your assistant in the installer, then select from **10 focused skills**, from customer interviews and positioning to offers, operations, and focused work.
 
 Then ask your assistant:
 
@@ -95,9 +95,11 @@ Read a guide, copy a template, or follow a completed example. No installation ne
 
 | I want to… | Start here |
 | --- | --- |
-| Prepare customer interviews | [Follow the interview playbook](playbooks/customer-interviews.md) |
-| Improve my interview questions | [Use the question checklist](books/the-mom-test/question-checklist.md) |
-| See a completed plan | [Read the fictional tutor-scheduling example](books/the-mom-test/worked-example.md) |
+| Understand customers and test an idea | [Customer interviews](playbooks/customer-interviews.md) · [Startup experiments](playbooks/startup-experiment-planner.md) |
+| Explain why my product matters | [Positioning](playbooks/product-positioning.md) · [Landing-page messaging](playbooks/landing-page-messaging.md) |
+| Find customers for a clear offer | [Offer design](playbooks/offer-design.md) · [Channel tests](playbooks/acquisition-channel-testing.md) · [Lead generation](playbooks/lead-generation-planner.md) |
+| Make delivery repeatable | [Business processes](playbooks/business-process-design.md) |
+| Improve how I work | [Habit experiments](playbooks/habit-experiment-planner.md) · [Focused work](playbooks/deep-work-planner.md) |
 
 [All playbooks](playbooks/README.md)
 

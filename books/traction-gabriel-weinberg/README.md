@@ -3,7 +3,7 @@
 <!-- BOOK-HEADER:START -->
 <img src="https://covers.openlibrary.org/b/isbn/9781591848363-M.jpg?default=false" alt="Traction by Gabriel Weinberg; Justin Mares — book cover" width="180">
 
-[Book details and buying options — author's website](https://www.penguinrandomhouse.com/books/319121/traction-by-gabriel-weinberg-and-justin-mares/)
+[Official book information and buying options](https://www.penguinrandomhouse.com/books/319121/traction-by-gabriel-weinberg-and-justin-mares/)
 
 Cover: via Open Library; artwork remains the property of its respective rights holders. [Image source](https://openlibrary.org/isbn/9781591848363).
 <!-- BOOK-HEADER:END -->

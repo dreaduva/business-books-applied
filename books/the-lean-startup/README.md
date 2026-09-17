@@ -3,7 +3,7 @@
 <!-- BOOK-HEADER:START -->
 <img src="https://covers.openlibrary.org/b/isbn/9780307887894-M.jpg?default=false" alt="The Lean Startup by Eric Ries — book cover" width="180">
 
-[Book details and buying options — author's website](https://theleanstartup.com/)
+[Official book information and buying options](https://theleanstartup.com/)
 
 Cover: via Open Library; artwork remains the property of its respective rights holders. [Image source](https://openlibrary.org/isbn/9780307887894).
 <!-- BOOK-HEADER:END -->

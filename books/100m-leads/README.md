@@ -3,7 +3,7 @@
 <!-- BOOK-HEADER:START -->
 <img src="https://covers.openlibrary.org/b/isbn/9781737475774-M.jpg?default=false" alt="$100M Leads by Alex Hormozi — book cover" width="180">
 
-[Book details and buying options — author's website](https://shop.acquisition.com/)
+[Official book information and buying options](https://shop.acquisition.com/)
 
 Cover: via Open Library; artwork remains the property of its respective rights holders. [Image source](https://openlibrary.org/isbn/9781737475774).
 <!-- BOOK-HEADER:END -->

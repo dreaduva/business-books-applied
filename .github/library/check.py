@@ -72,6 +72,18 @@ for book in books:
         check(bool(book["review"].get("human_reviewer")) == bool(book["review"].get("reviewed_on")), f"Human reviewer and review date must be recorded together: {book['slug']}")
         check(covers.get(book["slug"], {}).get("status") in {"approved", "service-embed"}, f"Published guide lacks documented cover display basis: {book['slug']}")
 
+# Published toolkits must contain the complete portable and reader-facing set.
+for book in books:
+    info = book.get("toolkit")
+    if not info:
+        continue
+    skill = info.get("skill", "")
+    check(bool(re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", skill)), f"Unsafe skill slug: {skill}")
+    check(bool(info.get("title")) and bool(info.get("artifact")), f"Incomplete toolkit metadata: {book['slug']}")
+    required = [f"books/{book['slug']}/worksheet.md", f"books/{book['slug']}/worked-example.md", f"playbooks/{skill}.md", f"skills/{skill}/SKILL.md", f"skills/{skill}/assets/worksheet.md", f"skills/{skill}/references/method.md", f"skills/{skill}/references/worked-example.md"]
+    for resource in required:
+        check((ROOT/resource).is_file(), f"Incomplete toolkit: {resource}")
+
 for slug, url in affiliate["links"].items():
     check(slug in {b["slug"] for b in books}, f"Unknown affiliate book: {slug}")
     try:

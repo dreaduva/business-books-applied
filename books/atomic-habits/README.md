@@ -3,7 +3,7 @@
 <!-- BOOK-HEADER:START -->
 <img src="https://covers.openlibrary.org/b/isbn/9780735211292-M.jpg?default=false" alt="Atomic Habits by James Clear — book cover" width="180">
 
-[Book details and buying options — author's website](https://jamesclear.com/atomic-habits)
+[Official book information and buying options](https://jamesclear.com/atomic-habits)
 
 Cover: via Open Library; artwork remains the property of its respective rights holders. [Image source](https://openlibrary.org/isbn/9780735211292).
 <!-- BOOK-HEADER:END -->
