@@ -22,7 +22,7 @@ def outputs():
     research = json.loads((ROOT / "catalog/keywords.json").read_text())
     lines = ["# 100 Business Books: Summaries and Practical Guides", "",
              "[Home](../README.md) · [Playbooks](../playbooks/README.md) · [AI skills](../skills/README.md)", "",
-             "A curated catalog of 100 titles. **Draft** means a guide exists but has not completed human editorial review; **planned** means no guide is published yet. This is not an all-time sales ranking. [How books are selected](../docs/book-selection.md).", "",
+             "A curated catalog of 100 titles. **Published** means the guide and resources are available with a source-check and editorial note; **draft** means still being developed; **planned** means no guide exists yet. Publication does not imply human expert review. This is not an all-time sales ranking. [How books are selected](../docs/book-selection.md).", "",
              " · ".join(f"[{c}](#{c.lower().replace(' ', '-')})" for c in CATEGORIES), ""]
     for category in CATEGORIES:
         lines += [f"## {category}", "", "| Book and author | Practical resource | Guide |", "| --- | --- | --- |"]

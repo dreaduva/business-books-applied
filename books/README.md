@@ -2,7 +2,7 @@
 
 [Home](../README.md) · [Playbooks](../playbooks/README.md) · [AI skills](../skills/README.md)
 
-A curated catalog of 100 titles. **Draft** means a guide exists but has not completed human editorial review; **planned** means no guide is published yet. This is not an all-time sales ranking. [How books are selected](../docs/book-selection.md).
+A curated catalog of 100 titles. **Published** means the guide and resources are available with a source-check and editorial note; **draft** means still being developed; **planned** means no guide exists yet. Publication does not imply human expert review. This is not an all-time sales ranking. [How books are selected](../docs/book-selection.md).
 
 [Startups and discovery](#startups-and-discovery) · [Strategy and business models](#strategy-and-business-models) · [Product and innovation](#product-and-innovation) · [Marketing and growth](#marketing-and-growth) · [Sales and communication](#sales-and-communication) · [Money and operations](#money-and-operations) · [Leadership and teams](#leadership-and-teams) · [Productivity and execution](#productivity-and-execution) · [Founder stories and judgment](#founder-stories-and-judgment)
 
@@ -16,7 +16,7 @@ A curated catalog of 100 titles. **Draft** means a guide exists but has not comp
 | The Art of the Start 2.0<br>Guy Kawasaki | Startup pitch rehearsal | Planned |
 | The Four Steps to the Epiphany<br>Steve Blank | Customer discovery and validation plan | Planned |
 | The Lean Startup<br>Eric Ries | Experiment plan and decision log | Planned |
-| [The Mom Test](the-mom-test/README.md)<br>Rob Fitzpatrick | Customer interview guide | [Draft](the-mom-test/README.md) |
+| [The Mom Test](the-mom-test/README.md)<br>Rob Fitzpatrick | Customer interview guide | [Published](the-mom-test/README.md) |
 | The Startup Checklist<br>David S. Rose | Launch-readiness checklist | Planned |
 | The Startup Owner's Manual<br>Steve Blank; Bob Dorf | Customer-development evidence log | Planned |
 | The Startup Playbook<br>David S. Kidder | Founder lessons discussion | Planned |

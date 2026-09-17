@@ -18,6 +18,8 @@ Describe the situation they must have encountered. For this example, that means 
 
 Use the [question examples](../books/the-mom-test/README.md#customer-interview-questions-move-from-opinions-to-incidents). Begin with a specific event. Explore its sequence, existing workaround, consequences, and alternatives. Save your product explanation until it no longer interferes with learning about the existing situation.
 
+Before the conversation, run each prompt through the [question-review checklist](../books/the-mom-test/question-checklist.md). Remove assumptions about severity or frequency that the customer has not supplied.
+
 ## 4. Capture what you heard without turning it into a feature request
 
 Copy the [interview plan and evidence log](../templates/customer-interview-plan.md). Use separate fields for observed or reported behavior, your interpretation, and unanswered questions. Do not manufacture a quote to make your notes look complete.

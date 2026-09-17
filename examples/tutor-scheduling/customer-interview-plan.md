@@ -40,6 +40,7 @@ A founder is considering a calendar product for independent tutors. The founder 
 | Difficulty described | The tutor was unsure whether both people had seen the final time. |
 | Current workaround | Send another confirmation message. |
 | Consequence | Extra coordination; no verified time or monetary cost is available. |
+| Evidence against our assumption | In the companion fictional conversation, the tutor says most weeks are fine and this incident was unusual. |
 | Interpretation | Confirmation between multiple people may be worth investigating. |
 | Still unknown | Frequency, severity, prevalence, alternatives, and willingness to pay. |
 
@@ -48,5 +49,7 @@ A founder is considering a calendar product for independent tutors. The founder 
 Do not build a replacement calendar from this note. Investigate whether the confirmation issue appears in other relevant conversations and whether existing tools already solve it. If a meaningful pattern appears, formulate a specific offer and an appropriate test of behavior.
 
 The point is the change in the question: from “Would tutors like a nicer calendar?” to “What happens when several people must agree on a changed lesson?”
+
+Read the [annotated fictional dialogue](../../books/the-mom-test/README.md#worked-example-the-calendar-was-not-the-starting-point). Notice that its final answer weakens the founder's initial assumption; preserve that detail in the research notes.
 
 [Copy the blank template](../../templates/customer-interview-plan.md) · [Read the playbook](../../playbooks/customer-interviews.md) · [Book guide](../../books/the-mom-test/README.md)

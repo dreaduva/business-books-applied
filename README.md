@@ -18,7 +18,7 @@ Turn a useful idea into a decision, an experiment, or a better way of working. T
 
 [Startups and discovery](books/README.md#startups-and-discovery) · [Strategy and business models](books/README.md#strategy-and-business-models) · [Product and innovation](books/README.md#product-and-innovation) · [Marketing and growth](books/README.md#marketing-and-growth) · [Sales and communication](books/README.md#sales-and-communication) · [Money and operations](books/README.md#money-and-operations) · [Leadership and teams](books/README.md#leadership-and-teams) · [Productivity and execution](books/README.md#productivity-and-execution) · [Founder stories and judgment](books/README.md#founder-stories-and-judgment)
 
-The catalog contains 100 selected titles. One sample guide is available as an **AI-assisted draft awaiting human editorial review**. The remaining titles are planned; a catalog entry does not imply a finished guide.
+The catalog contains 100 selected titles. **The Mom Test guide is published**, with a cover, original exercises, a worked conversation, and an AI skill. The remaining titles are planned. Each guide explains its sources and use of AI; publication does not imply human expert review.
 
 ## See an idea applied
 

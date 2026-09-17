@@ -28,10 +28,12 @@ Prefer a cover asset supplied or expressly allowed by the rights holder for an e
 
 Do not alter a cover, remove a credit, imply endorsement, or include third-party art in the MIT license. Do not reproduce a publisher's workbook or diagrams as if they were our original templates.
 
-If an approved source is unavailable, retain the cover slot and show a brief pending note in the draft. Do not disguise a generated title card as the real cover. A guide cannot move to `published` status until its required cover record and human review are complete.
+Open Library provides a documented cover-embedding service for public pages. A `service-embed` record uses a direct `covers.openlibrary.org` image URL and credits the corresponding book record, following [its cover guidelines](https://openlibrary.org/dev/docs/api/covers). This is a documented service-display basis, not a claim that the artwork is public domain or that we hold a copyright license. Keep the image small, unmodified, and relevant to the guide; do not store or redistribute it as an MIT-licensed project asset.
+
+If neither an approved asset nor a documented service embed is available, retain the cover slot and show a brief pending note in the draft. Do not disguise a generated title card as the real cover. Published guides require a documented cover-display basis and a truthful source-check record. A human-review credit requires actual human review.
 
 If Amazon-supplied imagery is considered later, first verify the applicable [Program IP License](https://affiliate-program.amazon.com/help/operating/policies), including image handling and the principal-purpose conditions for API content. Static GitHub rendering and caching may not fit those conditions; licensed publisher artwork is the planned route.
 
 ## Current state
 
-Affiliate account details: deferred by the owner. Cover permission for the sample guide: not established. Both are explicit configuration states, not broken image or purchase links.
+Affiliate account details: deferred by the owner. The Mom Test uses a verified Open Library thumbnail with a service-embedding record. Its buying-options link goes to the author's website until the owner's affiliate URL is supplied; no affiliate tag is invented.

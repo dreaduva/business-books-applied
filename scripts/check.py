@@ -53,8 +53,10 @@ for book in books:
     if book["status"] != "planned":
         check(bool(path) and (ROOT / path).is_file(), f"Missing guide: {book['slug']}")
     if book["status"] == "published":
-        check(bool(book["review"]["human_reviewer"]) and bool(book["review"]["reviewed_on"]), f"Published guide lacks human review: {book['slug']}")
-        check(covers.get(book["slug"], {}).get("status") == "approved", f"Published guide lacks approved cover: {book['slug']}")
+        check(bool(book["review"].get("source_checked_on")) and bool(book["review"].get("source_scope")), f"Published guide lacks source-check metadata: {book['slug']}")
+        check(isinstance(book["review"].get("ai_assisted"), bool), f"Published guide lacks authorship disclosure: {book['slug']}")
+        check(bool(book["review"].get("human_reviewer")) == bool(book["review"].get("reviewed_on")), f"Human reviewer and review date must be recorded together: {book['slug']}")
+        check(covers.get(book["slug"], {}).get("status") in {"approved", "service-embed"}, f"Published guide lacks documented cover display basis: {book['slug']}")
 
 for slug, url in affiliate["links"].items():
     check(slug in {b["slug"] for b in books}, f"Unknown affiliate book: {slug}")

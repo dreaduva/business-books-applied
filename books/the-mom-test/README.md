@@ -1,12 +1,16 @@
 # The Mom Test: Summary and Customer Interview Questions
 
 <!-- BOOK-HEADER:START -->
-*Cover image pending a documented reuse permission.*
+<img src="https://covers.openlibrary.org/b/isbn/9781492180746-M.jpg?default=false" alt="The Mom Test by Rob Fitzpatrick — book cover" width="180">
 
-*Amazon affiliate link not configured.*
+[Book details and buying options — author's website](https://www.momtestbook.com/)
+
+Cover: via Open Library; artwork remains the property of its respective rights holders. [Image source](https://openlibrary.org/isbn/9781492180746).
 <!-- BOOK-HEADER:END -->
 
-**Rob Fitzpatrick · Customer discovery · Draft guide**
+**Rob Fitzpatrick · Customer discovery · Original-edition guide**
+
+[Summary](#the-mom-test-summary) · [Three rules](#the-three-rules-in-practice) · [Interview questions](#customer-interview-questions-move-from-opinions-to-incidents) · [Commitment](#compliments-interest-and-commitment) · [Worked example](#worked-example-the-calendar-was-not-the-starting-point) · [FAQ](#frequently-asked-questions)
 
 [All books](../README.md) · [Interview playbook](../../playbooks/customer-interviews.md) · [Blank template](../../templates/customer-interview-plan.md) · [AI skill](../../skills/customer-interview-planner/SKILL.md)
 
@@ -28,6 +32,18 @@ Use this guide if you have a target customer and an uncertain problem to investi
 
 It is less useful if your immediate problem is acquiring enough customers for an already proven offer. Interview technique is one part of customer discovery; it cannot replace market access, a viable offer, or a purchase decision.
 
+## The three rules in practice
+
+The book's three central rules, paraphrased, are to focus on the customer's situation, ground questions in specific past events, and spend more of the conversation listening. Here is an original way to turn them into interview habits:
+
+| Principle | What to do in the conversation | Warning sign |
+| --- | --- | --- |
+| Start with the person's experience | Explore the job they were trying to finish and what got in the way. | You spend the opening explaining your product. |
+| Ask about a real event | Anchor the discussion in one recent incident, then follow its sequence. | The answer describes an ideal future without a concrete example. |
+| Leave room for the answer | Ask a short question, pause, and follow up on what you heard. | You finish the participant's sentence or suggest the answer. |
+
+There is no need to turn listening into a speaking-time quota. A short clarification can be useful; a long answer can still contain little evidence. Judge the substance of the conversation.
+
 ## Customer interview questions: move from opinions to incidents
 
 Suppose you are considering appointment software for independent tutors. You suspect that schedule changes create administrative work. That suspicion is a starting hypothesis, not a finding.
@@ -44,6 +60,21 @@ These are original practice questions, not quotations from the book. They are us
 
 Follow the detail that matters. If a tutor says they sent “a lot” of messages, ask them to describe a recent exchange. If they cannot recall an incident, do not fill in the gap for them.
 
+## Compliments, interest, and commitment
+
+Fitzpatrick distinguishes learning about a customer's situation from moving a real opportunity forward. In [his interview with SaaS Club](https://saasclub.io/podcast/saas-idea-validation-rob-fitzpatrick/), he explains why encouraging comments are weak evidence of purchase intent and why a concrete next step matters. His [teacher resources](https://www.momtestbook.com/teachers) also identify commitment and advancement as core topics.
+
+For the tutor example, those distinctions look like this:
+
+| Signal | What you can reasonably conclude | What you cannot conclude |
+| --- | --- | --- |
+| “That sounds handy.” | The person responded positively. | They have a costly problem or will use the product. |
+| They describe a recent coordination problem. | There is a specific incident to investigate. | The problem is common across the market. |
+| They arrange a follow-up to show their workflow. | They have committed time to the next conversation. | They have committed to a purchase. |
+| They introduce you to the person who chooses software. | The conversation can progress toward a relevant decision-maker. | The decision-maker will approve the product. |
+
+Choose a next step that fits the stage and respect a refusal. Do not push a deposit request into an exploratory conversation when you cannot yet describe or deliver the offer. A declined meeting may reflect timing or trust, not the absence of a problem.
+
 ## A small interview plan you can use
 
 **Write one learning objective.** For example: “Understand what independent tutors currently do when a student changes a lesson time.” Avoid objectives such as “Validate our scheduling app,” which can encourage you to defend the answer you want.
@@ -57,6 +88,16 @@ Follow the detail that matters. If a tutor says they sent “a lot” of message
 **Decide what to investigate next.** A pattern across conversations may justify a narrower experiment. An isolated complaint may justify another question. Neither requires you to declare the whole business validated.
 
 Copy the [customer interview plan](../../templates/customer-interview-plan.md) to use these steps.
+
+```mermaid
+flowchart TD
+    A[Write the uncertain assumption] --> B[Ask about a recent incident]
+    B --> C[Record behavior and the current workaround]
+    C --> D[Separate evidence from interpretation]
+    D --> E[Choose the next question or experiment]
+```
+
+*Original workflow diagram from Business Books, Applied.*
 
 ## Worked example: the calendar was not the starting point
 
@@ -74,6 +115,46 @@ The sensible next move is to investigate that coordination problem. It would be 
 | Only one fictional participant is described | This demonstrates a method, not market evidence. |
 
 The [completed example plan](../../examples/tutor-scheduling/customer-interview-plan.md) shows the objective, prompts, evidence fields, and next decision together.
+
+<details>
+<summary>Read a short fictional conversation and its annotations</summary>
+
+**Founder:** Walk me through the last lesson you had to move.
+
+**Tutor:** A student asked to change Tuesday's lesson. I found a Thursday slot and changed my calendar.
+
+**Founder:** What happened after you changed it?
+
+**Tutor:** I messaged the student. Their parent pays, so I messaged the parent too. The student replied, but the parent didn't. I wasn't sure whether we were all working from the same time.
+
+**Founder:** How did you handle that?
+
+**Tutor:** Another message the following morning. It was sorted eventually.
+
+**Founder:** How does that compare with a normal week?
+
+**Tutor:** Most weeks are fine. This one was awkward because the parent was traveling.
+
+**What the founder learned:** there was a coordination incident, but the participant describes it as unusual. That last answer weakens the assumption that it is a frequent problem. The founder should record both facts, rather than keeping only the inconvenient messages that support the product idea.
+
+**What is missing:** no verified cost, no evidence from other tutors, no comparison of existing solutions, and no buying behavior.
+
+All dialogue above is invented for this guide; it is not a passage from the book or a real interview.
+
+</details>
+
+## A checklist before your next conversation
+
+- [ ] I can name the decision this conversation should inform.
+- [ ] This participant has relevant experience, not just an opinion about the idea.
+- [ ] My opening gives context without asking for approval of a product.
+- [ ] My main prompts can produce answers that contradict my assumption.
+- [ ] I have space to record the current workaround and alternatives tried.
+- [ ] I will separate reported behavior, interpretation, and unknowns.
+- [ ] I will ask for a next step only when it makes sense for both people.
+- [ ] I know what this conversation cannot establish.
+
+Use the [question-review checklist](question-checklist.md) to revise a script before you send invitations.
 
 ## What this approach cannot tell you by itself
 
@@ -101,11 +182,36 @@ Consider it if customer conversations are part of your work and you want a fulle
 
 See [the author's book page](https://www.momtestbook.com/) for official information and available formats.
 
+## Frequently asked questions
+
+### Why is it called The Mom Test?
+
+The title captures the problem of asking someone who wants to encourage you whether your idea is good. Better questions make that desire to be supportive less relevant: you are asking what happened in their life, not inviting a verdict on your plans. Fitzpatrick explains that premise in [the author interview](https://saasclub.io/podcast/saas-idea-validation-rob-fitzpatrick/).
+
+### How many interviews should I run?
+
+This guide does not prescribe a magic number. Track what is still uncertain, whether you are hearing genuinely new information, and which segments you have missed. Consistent interview findings can guide the next test; they do not by themselves prove market size or demand.
+
+### Can I ask about price?
+
+You can investigate what someone currently spends, what alternatives they have tried, and how a purchasing decision works. Asking for a hypothetical price is a different kind of evidence from observing a real decision about a specific offer. Be clear about which one you have collected.
+
+### Is there a free PDF or official worksheet here?
+
+This repository provides its own [free interview template](../../templates/customer-interview-plan.md). It does not distribute the book or an official workbook. The author links authorized purchase formats from [the book's website](https://www.momtestbook.com/).
+
+### Which edition does this guide cover?
+
+The original English-language book, identified here by ISBN **9781492180746**. The cover corresponds to that edition. This guide does not claim to review the revised second edition; check the edition before buying. [Bibliographic record](https://books.google.com/books/about/The_Mom_Test.html?id=ET4cnwEACAAJ).
+
 ## Sources and editorial note
 
 - [The Mom Test — official book page](https://www.momtestbook.com/), accessed 2026-09-17: book purpose and author context.
 - [Teacher resources](https://www.momtestbook.com/teachers), accessed 2026-09-17: author-provided teaching topics.
+- [Rob Fitzpatrick interviewed on SaaS Club, episode 206](https://saasclub.io/podcast/saas-idea-validation-rob-fitzpatrick/), accessed 2026-09-17: the author's discussion of question quality, learning, and meaningful next steps.
+- [Google Books bibliographic record](https://books.google.com/books/about/The_Mom_Test.html?id=ET4cnwEACAAJ): original-edition identity.
+- [Open Library cover record](https://openlibrary.org/isbn/9781492180746) and [embedding guidelines](https://openlibrary.org/dev/docs/api/covers): source of the cover thumbnail.
 
-**Status:** AI-assisted draft; human editorial review is pending. The public author materials above were consulted; a full-book source check has not been claimed. Questions, templates, and the tutor scenario are original project material. No real customer testing is claimed. See [our editorial standards](../../docs/editorial-standards.md).
+**Editorial note:** Prepared with AI assistance and checked against the public sources listed above on 2026-09-17. This is an independent practical guide, not an authorized adaptation or a claim of full-book or human expert review. Questions, templates, dialogue, and the tutor scenario are original project material. No real customer testing is claimed. See [our editorial standards](../../docs/editorial-standards.md).
 
 [Back to the catalog](../README.md) · [Follow the playbook](../../playbooks/customer-interviews.md)

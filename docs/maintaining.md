@@ -16,13 +16,13 @@ The build script generates only navigation and research briefs. Book prose, exam
 
 ## Complete review
 
-Follow [the editorial checklist](editorial-standards.md), then record the actual human reviewer and date in the catalog. Check the edition and sources before marking a guide `published`. Human review metadata must describe real work.
+Follow [the editorial checklist](editorial-standards.md), then record the source-check date and scope in the catalog. Check the edition, examples, links, and presentation before marking a guide `published`. Human review is a separate optional credit: record a reviewer and review date only when a person has actually performed it.
 
 ## Add a cover
 
 In `config/covers.json`, record the image URL, source, edition, credit, permitted use, evidence URL, and check date. Set status to `approved` only when the rights basis has been established. Use a stable authorized HTTPS image URL suitable for GitHub's rendering and image proxy. The header renderer displays it at 180 px wide with descriptive alt text and a credit.
 
-Keep private correspondence in `private/`, which is ignored by Git. Summarize permission publicly without exposing private contact details. This repository does not scrape Amazon images or store API credentials.
+For an Open Library cover, use `service-embed` instead of `approved`, retain the direct cover-service URL, and record the service's embedding guidelines as the display basis. This does not claim a copyright license to the artwork. Keep private correspondence in `private/`, which is ignored by Git. Summarize permission publicly without exposing private contact details. This repository does not scrape Amazon images or store API credentials.
 
 ## Add affiliate links later
 

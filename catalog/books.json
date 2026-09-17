@@ -399,7 +399,7 @@
     "category": "Startups and discovery",
     "original_category": "Customer research",
     "source_keyword": "the mom test",
-    "status": "draft",
+    "status": "published",
     "guide_path": "books/the-mom-test/README.md",
     "proposed_guide_path": "books/the-mom-test/README.md",
     "proposed_heading": "The Mom Test: Summary and Customer Interview Questions",
@@ -416,8 +416,10 @@
       "ai_assisted": true,
       "human_reviewer": null,
       "reviewed_on": null,
-      "source_scope": "Public author book and teaching pages; full-book review pending"
-    }
+      "source_scope": "Public author book page and teacher resources, author interview with SaaS Club, bibliographic record; original applications checked for consistency. No full-book or human expert review claimed.",
+      "source_checked_on": "2026-09-17"
+    },
+    "official_url": "https://www.momtestbook.com/"
   },
   {
     "id": 16,

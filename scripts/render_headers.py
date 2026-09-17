@@ -28,14 +28,18 @@ def safe_url(url, amazon=False):
 def header(book, covers, affiliate):
     slug = book["slug"]
     cover = covers.get(slug, {})
+    cover_ready = cover.get("status") in {"approved", "service-embed"}
     lines = []
-    if cover.get("status") == "approved":
+    if cover_ready:
         for key in ["source_url", "credit", "permission_basis", "permission_evidence_url", "edition", "checked_on"]:
             if not cover.get(key):
                 raise ValueError(f"{slug}: approved cover requires {key}.")
         image = safe_url(cover.get("image_url"))
         safe_url(cover["source_url"])
         safe_url(cover["permission_evidence_url"])
+        if cover.get("status") == "service-embed":
+            if urlparse(image).hostname != "covers.openlibrary.org" or cover["permission_evidence_url"] != "https://openlibrary.org/dev/docs/api/covers":
+                raise ValueError("Service embeds must use Open Library's cover host and documented embedding policy.")
         alt = html.escape(f"{book['title']} by {book['author']} — book cover", quote=True)
         lines.append(f'<img src="{html.escape(image, quote=True)}" alt="{alt}" width="180">')
     else:
@@ -47,10 +51,13 @@ def header(book, covers, affiliate):
             raise ValueError("Affiliate activation requires marketplace and account/site confirmation.")
         url = safe_url(link, amazon=True)
         lines += ["", f"[View {book['title']} on Amazon (affiliate link)]({url})", "", affiliate["disclosure"]]
+    elif book.get("official_url"):
+        official_url = safe_url(book["official_url"])
+        lines += ["", f"[Book details and buying options — author's website]({official_url})"]
     else:
         lines += ["", "*Amazon affiliate link not configured.*"]
-    if cover.get("status") == "approved":
-        lines += ["", f"Cover: {cover['credit']}. [Source]({cover['source_url']}). Third-party artwork; excluded from the project license."]
+    if cover_ready:
+        lines += ["", f"Cover: {cover['credit']}. [Image source]({cover['source_url']})."]
     return START + "\n" + "\n".join(lines) + "\n" + END
 
 

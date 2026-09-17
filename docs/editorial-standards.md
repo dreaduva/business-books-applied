@@ -23,9 +23,9 @@ The page template is a navigation aid, not a sentence template. A biography may 
 
 AI may help research, draft, reorganize, and check material. Natural prose comes from specific analysis and editing, not from trying to evade an AI detector. We do not promise detector scores or falsely describe generated content as entirely human-written.
 
-Substantial AI assistance is disclosed in the guide's editorial note. A human-reviewed label is added only after a named person has actually checked the source material and the application. Until then, the guide stays a draft. Automated checks are never described as human editorial review.
+Substantial AI assistance is disclosed in the guide's editorial note. A completed guide can be published after its sources, examples, links, and presentation have been checked, with the scope of that work stated. A human-reviewed label is added only after a named person has actually done that review. Publication and human review are separate facts; automated checks are never described as human editorial review.
 
-The initial sample was drafted with AI assistance from the public sources listed on its page. It has not been represented as a full-book reading or independent field test.
+The Mom Test guide was prepared with AI assistance from the public author materials and interview listed on its page. It is not represented as a full-book reading, human expert review, or independent field test.
 
 ## Review checklist
 

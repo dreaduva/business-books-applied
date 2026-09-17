@@ -1,13 +1,13 @@
 {
   "the-mom-test": {
-    "status": "pending",
-    "image_url": null,
-    "source_url": "https://www.momtestbook.com/",
-    "credit": null,
-    "permission_basis": null,
-    "permission_evidence_url": null,
-    "edition": null,
+    "status": "service-embed",
+    "image_url": "https://covers.openlibrary.org/b/isbn/9781492180746-M.jpg?default=false",
+    "source_url": "https://openlibrary.org/isbn/9781492180746",
+    "credit": "via Open Library; artwork remains the property of its respective rights holders",
+    "permission_basis": "Open Library documents direct cover embeds for public-facing pages. This records service display guidelines, not a copyright license to the artwork. Used as a small editorial identification image; no local copy or relicensing.",
+    "permission_evidence_url": "https://openlibrary.org/dev/docs/api/covers",
+    "edition": "Original English edition, ISBN 9781492180746",
     "checked_on": "2026-09-17",
-    "note": "Author book page located; public availability is not treated as a reuse license."
+    "note": "HTTP 200 image/jpeg verified; visually checked pink The Mom Test cover, 180 by 277 pixels."
   }
 }

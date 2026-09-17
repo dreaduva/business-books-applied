@@ -61,10 +61,10 @@ See [SEO strategy](seo-strategy.md) and [100 keyword briefs](keyword-briefs.md).
 - [x] Add source, AI-assistance, reviewer, cover-rights, and affiliate configuration fields.
 - [x] Add validation for catalog integrity, local links, headers, and publication metadata.
 - [ ] Complete human editorial review of the first guide.
-- [ ] Obtain or verify cover-art usage rights for the first guide.
+- [x] Verify a documented cover-service display basis for the first guide; embed and credit its thumbnail.
 - [ ] Activate the owner's Amazon links after marketplace and account requirements are checked.
 
-The sample is published as a draft, not represented as a completed human-reviewed article. Its template and skill are usable now. Cover and affiliate activation are independent of writing the repository.
+The Mom Test guide is complete and published with its source-check scope and AI assistance disclosed. The cover is embedded through Open Library's documented service. Human expert review is not claimed. Affiliate activation remains deferred by the owner.
 
 ## Stage 2 — validate the selection and prepare ten guides
 
@@ -87,7 +87,7 @@ Initial editorial queue:
 
 This is an editorial production sequence, not an SEO difficulty ranking. No organic difficulty measurements are available.
 
-For each guide: source packet → original draft → application tested with a worked example → factual and stylistic review → rights and affiliate checks → publication. A real human reviewer records their name or GitHub handle and review date. Publish reviewed guides in small batches rather than filling 100 folders with interchangeable drafts.
+For each guide: source packet → original draft → application checked with a worked example → factual and stylistic checks → image-display and affiliate checks → publication. Record the actual check scope and AI assistance. If a human reviewer participates, record their name or GitHub handle and review date. Publish completed guides in small batches rather than filling 100 folders with interchangeable drafts.
 
 ## Stage 3 — expand to 25, 50, and 100
 
