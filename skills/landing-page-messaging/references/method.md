@@ -19,7 +19,8 @@ Describe the ordinary consequences of the problem. Avoid shame, fabricated scarc
 ## Sources and scope
 
 - [StoryBrand — framework overview](https://storybrand.com/storybrand-clarify-your-message-new/)
-- [StoryBrand — public course framework](https://storybrand.com/downloads/StoryBrand-Online-Marketing-Course-Workbook.pdf)
 - [Publisher sample — original book edition](https://cdn.cokesbury.com/samples/pdf/9780718033323.pdf)
 
 Independent practical application based on these public author or publisher materials. Full-book expert review and real-world outcome testing are not claimed. Worksheets and examples are original project material.
+
+Source scope: the official overview and original-edition publisher sample were checked. This is an original messaging application, not a full-book review or coverage of StoryBrand 2.0.

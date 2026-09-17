@@ -23,3 +23,7 @@ Hide your internal brief and ask someone to explain the product and next step fr
 Resolve the misunderstandings, verify each claim, and check the destination of every button. Save the draft and its open questions. If authorized publication happens later, define the meaningful action and relevant visitor denominator before interpreting conversion data.
 
 [Completed example](../books/building-a-storybrand/worked-example.md) · [Installable skill](../skills/landing-page-messaging/SKILL.md)
+
+## A concrete finish line
+
+Save a complete page and its form/confirmation copy, a claim ledger, and a versioned change log. Check access steps separately from usage steps. For a reader check, ask what the product does, what remains manual, and what the button does before explaining your intent. Correct misunderstanding where it arises; send accurate-but-uninterested feedback back to audience or offer selection. A revised draft is ready for another check, not automatically proven to convert.
