@@ -1,24 +1,19 @@
-# Positioning Brief: Method and Judgment
+# Positioning Method and Source Scope
 
-## Evidence before adjectives
+This package provides an original evidence-based application of publicly explained positioning ideas. Its operating guidance is in [positioning decisions](positioning-decisions.md) and [brief review](brief-review.md). Use only the reference needed for the request.
 
-A capability is a thing the product can demonstrably do. A benefit is a proposed consequence for the customer. Evidence for the first does not automatically prove the second. If a demo shows a pending list, it supports “shows pending confirmations”; it does not establish a percentage reduction in missed appointments.
+## Primary sources
 
-## Alternatives define the comparison
+- [April Dunford — positioning introduction](https://www.aprildunford.com/post/a-quickstart-guide-to-positioning): relationships among positioning components.
+- [Positioning and Competition](https://aprildunford.substack.com/p/positioning-and-competition): status quo and actual buyer alternatives.
+- [Understanding the Job of a Market Category](https://aprildunford.substack.com/p/understanding-the-job-of-a-market): context and expectations.
+- [The No Differentiation Illusion](https://aprildunford.substack.com/p/the-no-differentiation-illusion): investigating customer-relevant differentiation.
+- [Author's books](https://www.aprildunford.com/books): original and expanded edition context.
 
-Ask what happens if this product disappears tomorrow. A spreadsheet, a service provider, or tolerating the problem may matter more than another startup. Retain different alternatives for different segments instead of combining them into an imaginary average buyer.
+The claim ledger, comparison procedure, worksheet, and fictional LessonLoop example are original project material. They do not reproduce an official workbook or claim to cover the full process of either book edition. Full-book expert review, independent behavioral benchmarks, and real-world outcome testing are not claimed.
 
-## Make category tradeoffs visible
+## Output and limits
 
-A familiar category can simplify understanding but create obligations. Write those expectations down. If the product cannot meet central expectations, use a narrower description or explain the limitation plainly. Do not invent an established category or market leadership.
+Use [the worksheet](../assets/worksheet.md) as a flexible output format. The [worked example](worked-example.md) demonstrates a rejected category, contrary customer situations, and a revision after a misunderstanding. Its observations cannot establish facts about an actual user's market.
 
-## Handling sparse or conflicting inputs
-
-With no customer evidence, return candidate positioning and a research question. If two groups want different outcomes, compare their briefs separately. The output can recommend one initial focus using supplied constraints, but it cannot claim that focus is validated. A review date is useful when material product changes are planned.
-
-## Sources and scope
-
-- [April Dunford — positioning quickstart](https://www.aprildunford.com/post/a-quickstart-guide-to-positioning)
-- [Author — book and editions](https://www.aprildunford.com/books)
-
-Independent practical application based on these public author or publisher materials. Full-book expert review and real-world outcome testing are not claimed. Worksheets and examples are original project material.
+The goal is a defensible positioning decision with visible uncertainty. Coherent positioning does not establish customer demand, a superior product, a sustainable acquisition channel, or revenue. If the supplied evidence does not justify a claim, narrow it or leave the question open.

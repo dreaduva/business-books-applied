@@ -1175,7 +1175,7 @@
       "ai_assisted": true,
       "human_reviewer": null,
       "reviewed_on": null,
-      "source_scope": "Public primary sources: https://www.aprildunford.com/post/a-quickstart-guide-to-positioning; https://www.aprildunford.com/books. Original application; no full-book or human expert review claimed.",
+      "source_scope": "Public primary materials: April Dunford positioning introduction, Positioning and Competition, Understanding the Job of a Market Category, The No Differentiation Illusion, and author book page. Original application; no full-book or human expert review claimed.",
       "source_checked_on": "2026-09-17"
     },
     "resources": {
@@ -1185,10 +1185,10 @@
     },
     "official_url": "https://www.aprildunford.com/books",
     "completion": {
-      "version": "1.0.0",
-      "status": "revision-needed",
-      "scope": "Positioning Brief",
-      "evaluation": "Packaging checked; editorial depth requires revision against the applied-toolkit standard."
+      "version": "1.1.0",
+      "status": "complete",
+      "scope": "Evidence-linked positioning, category comparison, claim critique, and feedback-based brief revision",
+      "evaluation": "Substantive review of connected concepts, category tradeoffs, complete evidence-to-revision example, troubleshooting, and four executed same-assistant reasoning exercises; skill format and portable installation checked. No independent model benchmark or full-book expert review."
     },
     "toolkit": {
       "skill": "product-positioning",

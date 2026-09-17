@@ -1,25 +1,59 @@
-# Positioning Brief Playbook
+# Product Positioning Playbook
 
 [Home](../README.md) · [Book guide](../books/obviously-awesome/README.md) · [Worksheet](../books/obviously-awesome/worksheet.md)
 
-## 1. Collect the comparison
+Produce a brief that explains who should care about the product and why, with enough evidence for someone else to challenge it. This process applies to one current product and buying context; it does not require rewriting a company vision.
 
-Bring recent customer notes, a product demo, and examples of the current routine. If those are unavailable, put assumptions in a separate column. List what the customer would do without the product.
+## 1. Set the scope and gather the record
 
-## 2. Trace one useful difference
+Identify the product version, user, buyer, and decision the brief should support. Bring product facts, actual buying notes, usage examples, and contrary cases. Label source types and assign IDs. If customers do not yet exist, keep the customer argument provisional.
 
-Pick a capability that actually works. Describe its difference from the current alternative and the practical consequence. Leave numerical benefits out unless evidence supports them.
+**Output:** a scope statement and evidence ledger, with missing facts visible.
 
-## 3. Choose a buyer situation
+## 2. Reconstruct the buyer's alternatives
 
-Describe when the consequence matters enough to justify switching. Add one poor-fit situation. Avoid choosing a segment only because its market is large.
+Describe the retained routine and serious shortlist options. Record why the current approach remains attractive. Separate hypothetical competitors found online from alternatives that appear in the supplied decisions.
 
-## 4. Test category expectations
+When groups use different alternatives, retain separate comparisons. Do not combine them into an imaginary average customer.
 
-Write two plausible labels. Under each, list the features, buyer, and buying process it suggests. Choose the label with the most accurate expectations, or retain the choice as unresolved.
+**Output:** the alternatives relevant to the chosen buying situation, with evidence and limitations.
 
-## 5. Produce and challenge the brief
+## 3. Trace differences to value
 
-Fill the worksheet and underline each untested link in the reasoning. Use the brief in a comprehension conversation: ask someone to describe what the product does and who it is for. Comprehension is evidence about clarity, not proof of purchase intent. Save the misunderstanding and revise the relevant component.
+For each promising capability, identify the comparison and the direct useful consequence. Distinguish that consequence from downstream business outcomes that need additional evidence. Keep customer effort and switching burdens beside the benefit.
 
-[Completed example](../books/obviously-awesome/worked-example.md) · [Installable skill](../skills/product-positioning/SKILL.md)
+Remove unsupported adjectives and percentages. Keep essential but ordinary requirements out of the differentiation claim unless a relevant comparison supports them.
+
+**Output:** a capability-to-value chain that another person can inspect.
+
+## 4. Choose the initial fit boundary
+
+Describe the circumstances that make the consequence matter and at least one relevant poor-fit situation. Separate the person using the product from the person approving it. Explain the focus using evidence and constraints, not only market size.
+
+**Output:** a candidate segment and the contrary evidence that could change it.
+
+## 5. Compare category expectations
+
+For plausible category labels or descriptive phrases, list expected capabilities and the comparisons they invite. Check them against the current product. Flag where expectations are only the team's hypothesis.
+
+Choose a description that helps explain the supported value. If it is a new phrase, do not represent it as an established market category. Preserve unresolved tradeoffs rather than inventing a precision score.
+
+**Output:** a chosen context with rejected alternatives and reasons.
+
+## 6. Write and audit the brief
+
+Compose the concise positioning argument, then trace it backward through the evidence. Remove roadmap features presented as current facts. Note which limitations must survive when the brief becomes public copy.
+
+Use the [worked example](../books/obviously-awesome/worked-example.md) to see a broad platform pitch narrowed to the actual product, with an adequate existing alternative retained as contrary evidence.
+
+**Output:** a usable brief and a claim audit, not merely a tagline.
+
+## 7. Review interpretation and revise
+
+Ask relevant readers to explain what the product does, whom it serves, and what work remains theirs. Record their answers before correcting them. Distinguish a misunderstanding from a lack of interest in the correctly understood offer.
+
+Preserve versions. Explain changed and unchanged components, and choose the next evidence needed. Better comprehension alone does not establish demand. Use actual buying evidence for a commercial conclusion.
+
+**Output:** a revised brief with its rationale, uncertainties, and review trigger.
+
+[Installable skill](../skills/product-positioning/SKILL.md) · [Completed example](../books/obviously-awesome/worked-example.md)
