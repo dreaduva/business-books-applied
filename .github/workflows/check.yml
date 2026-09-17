@@ -1,0 +1,13 @@
+name: Check library
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: Validate catalog, links, and publication metadata
+        run: python3 scripts/check.py
