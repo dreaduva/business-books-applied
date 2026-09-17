@@ -89,5 +89,15 @@
     "permission_evidence_url": "https://openlibrary.org/dev/docs/api/covers",
     "edition": "ISBN 9780735211292",
     "checked_on": "2026-09-17"
+  },
+  "deep-work": {
+    "status": "service-embed",
+    "image_url": "https://covers.openlibrary.org/b/isbn/9781455586691-M.jpg?default=false",
+    "source_url": "https://openlibrary.org/isbn/9781455586691",
+    "credit": "via Open Library; artwork remains the property of its respective rights holders",
+    "permission_basis": "Direct small editorial cover embed following documented service guidelines; not a copyright license or local redistribution.",
+    "permission_evidence_url": "https://openlibrary.org/dev/docs/api/covers",
+    "edition": "ISBN 9781455586691",
+    "checked_on": "2026-09-17"
   }
 }

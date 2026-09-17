@@ -303,18 +303,35 @@
     "author": "Cal Newport",
     "slug": "deep-work",
     "category": "Productivity and execution",
-    "status": "planned",
-    "guide_path": null,
-    "application_resource": "Focus session plan and review",
+    "status": "published",
+    "guide_path": "books/deep-work/README.md",
+    "application_resource": "Focused Work Plan",
     "popularity_status": "unverified",
     "popularity_evidence": [],
     "review": {
-      "ai_assisted": null,
+      "ai_assisted": true,
       "human_reviewer": null,
       "reviewed_on": null,
-      "source_scope": null
+      "source_scope": "Public primary sources: https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/; https://calnewport.com/the-book-facebook-doesnt-want-you-to-read/; https://www.hachettebookgroup.com/titles/cal-newport/deep-work/9781455586691/. Original application; no full-book or human expert review claimed.",
+      "source_checked_on": "2026-09-17"
     },
-    "resources": {}
+    "resources": {
+      "Worksheet": "books/deep-work/worksheet.md",
+      "Example": "books/deep-work/worked-example.md",
+      "AI skill": "skills/deep-work-planner/SKILL.md"
+    },
+    "official_url": "https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/",
+    "completion": {
+      "version": "1.0.0",
+      "status": "complete",
+      "scope": "Focused Work Plan",
+      "evaluation": "Skill format, repository integrity, portable resource synchronization, isolated installation, and authored scenario review; no independent comparative benchmark."
+    },
+    "toolkit": {
+      "skill": "deep-work-planner",
+      "title": "Deep Work Planning",
+      "artifact": "Focused Work Plan"
+    }
   },
   {
     "id": 15,

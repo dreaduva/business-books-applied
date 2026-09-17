@@ -27,7 +27,7 @@ Then ask your assistant:
 Read a guide, copy a template, or follow a completed example. No installation needed.
 
 <!-- LIBRARY:START -->
-**9 published guides · 91 titles in the planned collection.** Every resource below is available now.
+**10 published guides · 90 titles in the planned collection.** Every resource below is available now.
 
 [A–Z book index](books/README.md) · [Planned collection](books/roadmap.md)
 
@@ -80,11 +80,12 @@ Read a guide, copy a template, or follow a completed example. No installation ne
 </details>
 
 <details>
-<summary><strong>Productivity and execution</strong> · 1 guide</summary>
+<summary><strong>Productivity and execution</strong> · 2 guides</summary>
 
 | Book and author | Put an idea to work | Resources |
 | --- | --- | --- |
 | [Atomic Habits](books/atomic-habits/README.md)<br>James Clear | Habit Experiment Plan | [Worksheet](books/atomic-habits/worksheet.md) · [Example](books/atomic-habits/worked-example.md) · [AI skill](skills/habit-experiment-planner/SKILL.md) |
+| [Deep Work](books/deep-work/README.md)<br>Cal Newport | Focused Work Plan | [Worksheet](books/deep-work/worksheet.md) · [Example](books/deep-work/worked-example.md) · [AI skill](skills/deep-work-planner/SKILL.md) |
 
 </details>
 
