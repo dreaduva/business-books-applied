@@ -3,7 +3,9 @@
 <!-- BOOK-HEADER:START -->
 <img src="https://covers.openlibrary.org/b/isbn/9780718033323-M.jpg?default=false" alt="Building a StoryBrand by Donald Miller — book cover" width="180">
 
-[Official book information and buying options](https://storybrand.com/)
+[View Building a StoryBrand on Amazon (affiliate link)](https://link.amazon/B00RWw1s6)
+
+As an Amazon Associate I earn from qualifying purchases.
 
 Cover: via Open Library; artwork remains the property of its respective rights holders. [Image source](https://openlibrary.org/isbn/9780718033323).
 <!-- BOOK-HEADER:END -->

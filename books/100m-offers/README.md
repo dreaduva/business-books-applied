@@ -3,7 +3,9 @@
 <!-- BOOK-HEADER:START -->
 <img src="https://covers.openlibrary.org/b/isbn/9781737475712-M.jpg?default=false" alt="$100M Offers by Alex Hormozi — book cover" width="180">
 
-[Official book information and buying options](https://shop.acquisition.com/products/100m-offers-hardcover)
+[View $100M Offers on Amazon (affiliate link)](https://link.amazon/B06FFpoBv)
+
+As an Amazon Associate I earn from qualifying purchases.
 
 Cover: via Open Library; artwork remains the property of its respective rights holders. [Image source](https://openlibrary.org/isbn/9781737475712).
 <!-- BOOK-HEADER:END -->

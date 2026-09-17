@@ -3,7 +3,9 @@
 <!-- BOOK-HEADER:START -->
 <img src="https://covers.openlibrary.org/b/isbn/9781455586691-M.jpg?default=false" alt="Deep Work by Cal Newport — book cover" width="180">
 
-[Official book information and buying options](https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/)
+[View Deep Work on Amazon (affiliate link)](https://link.amazon/B0dKxdFhX)
+
+As an Amazon Associate I earn from qualifying purchases.
 
 Cover: via Open Library; artwork remains the property of its respective rights holders. [Image source](https://openlibrary.org/isbn/9781455586691).
 <!-- BOOK-HEADER:END -->

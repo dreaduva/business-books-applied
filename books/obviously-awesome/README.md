@@ -3,7 +3,9 @@
 <!-- BOOK-HEADER:START -->
 <img src="https://covers.openlibrary.org/b/isbn/9781999023003-M.jpg?default=false" alt="Obviously Awesome by April Dunford — book cover" width="180">
 
-[Official book information and buying options](https://www.aprildunford.com/books)
+[View Obviously Awesome on Amazon (affiliate link)](https://link.amazon/B01rq3rSU)
+
+As an Amazon Associate I earn from qualifying purchases.
 
 Cover: via Open Library; artwork remains the property of its respective rights holders. [Image source](https://openlibrary.org/isbn/9781999023003).
 <!-- BOOK-HEADER:END -->

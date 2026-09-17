@@ -1,8 +1,18 @@
 {
-  "enabled": false,
-  "marketplace": null,
-  "site_registered": false,
-  "account_confirmed": false,
+  "enabled": true,
+  "marketplace": "amazon.de",
+  "link_source": "owner-supplied",
   "disclosure": "As an Amazon Associate I earn from qualifying purchases.",
-  "links": {}
+  "links": {
+    "100m-offers": "https://link.amazon/B06FFpoBv",
+    "100m-leads": "https://link.amazon/B0hpBZJw0",
+    "atomic-habits": "https://link.amazon/B0jivjpy6",
+    "building-a-storybrand": "https://link.amazon/B00RWw1s6",
+    "deep-work": "https://link.amazon/B0dKxdFhX",
+    "obviously-awesome": "https://link.amazon/B01rq3rSU",
+    "the-e-myth-revisited": "https://link.amazon/B0i48Pn8V",
+    "the-lean-startup": "https://link.amazon/B0glRbA97",
+    "the-mom-test": "https://link.amazon/B07ssLRDD",
+    "traction-gabriel-weinberg": "https://link.amazon/B0fMPjuoq"
+  }
 }

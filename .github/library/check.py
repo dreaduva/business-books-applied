@@ -91,7 +91,7 @@ for slug, url in affiliate["links"].items():
     except ValueError as exc:
         errors.append(f"{slug}: {exc}")
 if affiliate["enabled"]:
-    check(all(affiliate.get(k) for k in ["marketplace", "site_registered", "account_confirmed"]), "Affiliate account confirmation incomplete.")
+    check(bool(affiliate.get("marketplace")) and affiliate.get("link_source") == "owner-supplied" and bool(affiliate.get("disclosure", "").strip()), "Affiliate configuration requires a marketplace, owner-supplied links and disclosure.")
 
 markdown = [p for p in ROOT.rglob("*.md") if not set(p.relative_to(ROOT).parts) & {"private", ".git", "node_modules", ".venv"}]
 for path in markdown:

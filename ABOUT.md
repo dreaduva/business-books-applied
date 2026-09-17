@@ -18,9 +18,9 @@ The library began with a curated selection of 100 titles across business, entrep
 
 ## Affiliate links
 
-Amazon affiliate links are currently inactive. When enabled, links will be labeled as affiliate links with a nearby disclosure: **As an Amazon Associate I earn from qualifying purchases.** The guides, templates, and skills remain free to use without buying a book.
+Book pages contain clearly labeled Amazon affiliate links. **As an Amazon Associate I earn from qualifying purchases.** The guides, templates, and skills remain free to use without buying a book.
 
-Purchase links belong on the relevant book page, not inside AI skill instructions. Current book links lead to author, publisher, or official book resources.
+Purchase links appear beneath the covers on the relevant book pages. The supplied links currently open Amazon.de. Check the format, language and edition on Amazon before buying: a linked edition may differ from the cover shown. Author and publisher sources remain available in each guide. AI skill instructions contain no purchase links.
 
 ## Covers and licensing
 

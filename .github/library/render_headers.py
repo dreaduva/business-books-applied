@@ -10,7 +10,7 @@ from urllib.parse import urlparse
 ROOT = Path(__file__).resolve().parents[2]
 START = "<!-- BOOK-HEADER:START -->"
 END = "<!-- BOOK-HEADER:END -->"
-AMAZON_HOSTS = {"amazon.com", "amazon.co.uk", "amazon.de", "amazon.fr", "amazon.it", "amazon.es", "amazon.ca", "amazon.com.au", "amazon.co.jp", "amazon.in", "amazon.com.br", "amazon.com.mx", "amazon.nl", "amazon.se", "amazon.pl", "amazon.sg", "amazon.ae", "amazon.sa", "amazon.com.tr", "amazon.eg", "amazon.com.be", "amazon.ie", "amzn.to"}
+AMAZON_HOSTS = {"amazon.com", "amazon.co.uk", "amazon.de", "amazon.fr", "amazon.it", "amazon.es", "amazon.ca", "amazon.com.au", "amazon.co.jp", "amazon.in", "amazon.com.br", "amazon.com.mx", "amazon.nl", "amazon.se", "amazon.pl", "amazon.sg", "amazon.ae", "amazon.sa", "amazon.com.tr", "amazon.eg", "amazon.com.be", "amazon.ie", "amzn.to", "link.amazon"}
 
 
 def safe_url(url, amazon=False):
@@ -47,8 +47,8 @@ def header(book, covers, affiliate):
 
     link = affiliate.get("links", {}).get(slug)
     if affiliate.get("enabled") and link:
-        if not all(affiliate.get(k) for k in ["marketplace", "site_registered", "account_confirmed"]):
-            raise ValueError("Affiliate activation requires marketplace and account/site confirmation.")
+        if not affiliate.get("marketplace") or affiliate.get("link_source") != "owner-supplied" or not affiliate.get("disclosure", "").strip():
+            raise ValueError("Affiliate activation requires a marketplace, owner-supplied links and disclosure.")
         url = safe_url(link, amazon=True)
         lines += ["", f"[View {book['title']} on Amazon (affiliate link)]({url})", "", affiliate["disclosure"]]
     elif book.get("official_url"):

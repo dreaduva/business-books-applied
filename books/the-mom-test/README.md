@@ -3,7 +3,9 @@
 <!-- BOOK-HEADER:START -->
 <img src="https://covers.openlibrary.org/b/isbn/9781492180746-M.jpg?default=false" alt="The Mom Test by Rob Fitzpatrick — book cover" width="180">
 
-[Official book information and buying options](https://www.momtestbook.com/)
+[View The Mom Test on Amazon (affiliate link)](https://link.amazon/B07ssLRDD)
+
+As an Amazon Associate I earn from qualifying purchases.
 
 Cover: via Open Library; artwork remains the property of its respective rights holders. [Image source](https://openlibrary.org/isbn/9781492180746).
 <!-- BOOK-HEADER:END -->
